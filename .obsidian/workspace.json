@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Certified in CyberSecurity (CC)/Security Principles - Module 2.md",
+                "file": "Certified in CyberSecurity (CC)/Security Principles - Module 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Certified in CyberSecurity (CC)/Security Principles - Module 2.md",
+                "file": "Certified in CyberSecurity (CC)/Security Principles - Module 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Certified in CyberSecurity (CC)/Security Principles - Module 2.md",
+                "file": "Certified in CyberSecurity (CC)/Security Principles - Module 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Certified in CyberSecurity (CC)/Security Principles - Module 2.md"
+                "file": "Certified in CyberSecurity (CC)/Security Principles - Module 1.md"
               }
             }
           },
@@ -185,8 +185,8 @@
   },
   "active": "09c1ba919ee1da39",
   "lastOpenFiles": [
-    "Certified in CyberSecurity (CC)/Security Principles - Module 1.md",
     "Certified in CyberSecurity (CC)/Security Principles - Module 2.md",
+    "Certified in CyberSecurity (CC)/Security Principles - Module 1.md",
     "Certified in CyberSecurity (CC)/Targets.md",
     "z.images/Pasted image 20230713143103.png",
     "z.images/images.md",
