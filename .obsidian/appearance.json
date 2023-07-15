@@ -1,5 +1,7 @@
 {
   "accentColor": "",
-  "cssTheme": "",
-  "baseFontSize": 15
+  "cssTheme": "Horizon",
+  "baseFontSize": 11,
+  "interfaceFontFamily": "Arial",
+  "textFontFamily": "Arial"
 }

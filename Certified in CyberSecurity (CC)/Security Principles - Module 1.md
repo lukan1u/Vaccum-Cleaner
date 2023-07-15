@@ -1,6 +1,6 @@
 ## Understand the security concepts of  information assurance 
 ---
-
+[[Targets]] 
 #security_principles #CC #module1
 
 ### CIA Triad
@@ -9,24 +9,25 @@
 	- Personal identifiable information (PII) - related to confidentiality. It's the information that helps the system identify users by having unique piece information.
 	- Protected health information (PHI) - related to confidentiality. In regards to someone's health information and is considered to be **classified or sensitive information** therefore it needs protection.
 	- Sensitivity is a measure of importance assigned to information by its owner and how much it needs to be protected.
-2. Integrity - means that once the information has been recorded it is stored safely and no users can change it in any way that might be affecting its initial purpose.
-3.  Availability - systems and date are available all the time when users need them.
+2. **Integrity** - means that once the information has been recorded it is stored safely and no users can change it in any way that might be affecting its initial purpose.
+3.  **Availability** - systems and date are available all the time when users need them.
 
 
 ### Authentication vs Authorization
 
- - Authentication is the process of proving the identity of the user by using passwords, tokens, keys or biometric data.
+ - **Authentication** is the process of proving the identity of the user by using passwords, tokens, keys or biometric data.
 	 - Single-factor authentication (SFA) - Using only one method of authentication
 	 - Multi-factor authentication (MFA) - Using 2 or more methods = more secure
 	 - Common authentication techniques are based on:  Knowledge (password PIN), Token (USB key), Characteristic (fingerprint). Keep in mind that user ID and password aren't secure enough to be considered MFA.
-- Authorization - is the process of giving a user permission to access to the resources. For example once authenticated you can only access certain apps or files. Computer checks if you have right permission. 
+- **Authorization** - is the process of giving a user permission to access to the resources. For example once authenticated you can only access certain apps or files. Computer checks if you have right permission. 
 
 
-- Privacy is the right of an individual to control the information about themselves. One of the laws that everyone should be concern of is the (GDPR) General Data Protection Regulation which focuses on privacy and how the data should be stored/protected/accessed.
+- **Privacy** is the right of an individual to control the information about themselves. One of the laws that everyone should be concern of is the (GDPR) General Data Protection Regulation which focuses on privacy and how the data should be stored/protected/accessed.
 
 
 ### Non-repudiation
 
-- Non-repudiation is a term that means protection against individuals who falsely deny having performed particular action e.g. bought a product on a website but then lied that they have never done it to get a free product. Therefore non-repudiation methodologies ensure that people are held responsible for their actions.
+- **Non-repudiation** is a term that means protection against individuals who falsely deny having performed particular action e.g. bought a product on a website but then lied that they have never done it to get a free product. Therefore non-repudiation methodologies ensure that people are held responsible for their actions.
 
-
+----
+[[Security Principles - Module 2]]

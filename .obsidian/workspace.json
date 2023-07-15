@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "09c1ba919ee1da39",
+            "id": "a5a4ac20a92721f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Certified in CyberSecurity (CC)/Security Principles - Module 1.md",
+                "file": "Certified in CyberSecurity (CC)/Security Principles - Module 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Certified in CyberSecurity (CC)/Security Principles - Module 1.md",
+                "file": "Certified in CyberSecurity (CC)/Security Principles - Module 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Certified in CyberSecurity (CC)/Security Principles - Module 1.md",
+                "file": "Certified in CyberSecurity (CC)/Security Principles - Module 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Certified in CyberSecurity (CC)/Security Principles - Module 1.md"
+                "file": "Certified in CyberSecurity (CC)/Security Principles - Module 2.md"
               }
             }
           },
@@ -165,7 +165,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,14 +183,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "09c1ba919ee1da39",
+  "active": "a5a4ac20a92721f6",
   "lastOpenFiles": [
-    "Certified in CyberSecurity (CC)/Security Principles - Module 2.md",
     "Certified in CyberSecurity (CC)/Security Principles - Module 1.md",
+    "Certified in CyberSecurity (CC)/Security Principles - Module 2.md",
+    "z.images/Pasted image 20230714134727.png",
     "Certified in CyberSecurity (CC)/Targets.md",
-    "z.images/Pasted image 20230713143103.png",
-    "z.images/images.md",
     "z.images/Pasted image 20230713150916.png",
+    "z.images/images.md",
+    "z.images/Pasted image 20230713143103.png",
     "Computer Networking - A Top down Approach",
     "Untitled",
     "BashScript",
