@@ -1,7 +1,8 @@
 {
   "accentColor": "",
   "cssTheme": "Horizon",
-  "baseFontSize": 11,
+  "baseFontSize": 30,
   "interfaceFontFamily": "Arial",
-  "textFontFamily": "Arial"
+  "textFontFamily": "Arial",
+  "theme": "obsidian"
 }

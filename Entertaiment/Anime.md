@@ -1,5 +1,5 @@
 - [ ]  Attack on Titan - on final season
-- [ ] Demon Slayer - 3rd season
+- [x] Demon Slayer - 3rd season
 - [x] Full Metal Alchemist 
 - [ ] Erased
 - [ ] Jobless Reincarnation - on second season 
