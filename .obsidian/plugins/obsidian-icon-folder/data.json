@@ -1,0 +1,27 @@
+{
+  "settings": {
+    "migrated": 2,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FabHandPeace",
+      "FabAddressBook",
+      "FabBell",
+      "FabSolid"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false
+  },
+  "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)": "FabSolid",
+  "CyberSecurity - Online Learning": "FabAddressBook",
+  "Cyber Security Yr1": "FabHandPeace"
+}

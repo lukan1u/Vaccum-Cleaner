@@ -22,31 +22,31 @@
             }
           },
           {
-            "id": "fcc2161653edbef3",
+            "id": "efbb927dd0596eca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.1 Module - IRBCDR.md",
+                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/0.Targets.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b618f8674d24c35e",
+            "id": "1c4c5b87c000e65f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Entertaiment/Anime.md",
+                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.1 Module  - Network Security.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "425ae53f01eab308",
+            "id": "ed6d3b022b4d22b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,9 +56,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2a4acb19c9787dcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -88,7 +100,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -108,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5
+    "width": 322.5110321044922
   },
   "right": {
     "id": "ab69aceb5aed668e",
@@ -124,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.1 Module  - Access Control.md",
+                "file": "Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.1 Module  - Access Control.md",
+                "file": "Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.1 Module  - Access Control.md"
+                "file": "Template.md"
               }
             }
           },
@@ -174,6 +186,16 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
+            }
+          },
+          {
+            "id": "e791b81f1dbf44ed",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -195,49 +217,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "425ae53f01eab308",
+  "active": "98fcacc342b2d1f8",
   "lastOpenFiles": [
+    "Cyber Security Yr1/Computer Networks",
+    "Cyber Security Yr1/Intro to databases",
+    "Cyber Security Yr1/Digital Forensics",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/0.Targets.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.4 Module  - IRBCDR.md",
+    "Template.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Certification-Roadmap-Brochure.pdf",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.3 Module  - Access Control.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.3 Module  - IRBCDR.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.5 Module - Security Principles.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.1 Module  - Access Control.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.2 Module  - IRBCDR.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.1 Module - IRBCDR.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.2 Module - Security Principles.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.4 Module - Security Principles.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.5 Module - Security Principles.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.6 Module - Security Principles.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.3 Module  - IRBCDR.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.3 Module - Security Principles.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.1 Module - Security Principles.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 1_Takeaway.pdf",
+    "CyberSecurity - Online Learning/z.images/EDU-ELCC-70515-techart-osi_model-v01.svg",
+    "Note.md",
+    "CyberSecurity - Online Learning/z.images/Pasted image 20230919190046.png",
+    "CyberSecurity - Online Learning/z.images/Pasted image 20230919185710.png",
+    "Untitled.canvas",
+    "2023-09-19.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.4 Module  - Access Control.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.2 Module  - Access Control.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.4 Module  - IRBCDR.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.2 Module - Security Principles.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.6 Module - Security Principles.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.4 Module - Security Principles.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.1 Module - IRBCDR.md",
+    "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals/Untitled.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.1 Module  - Network Security.md",
+    "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals",
+    "CyberSecurity - Online Learning/z.images/EDU-ELCC-70520-techart-tcpip_protocol-v04.svg",
+    "CyberSecurity - Online Learning/z.images/EDU-ELCC-70245a-Network_Diagram-techart-v06.svg",
+    "Cyber Security Yr1/Inducation",
+    "Cyber Security Yr1/C++",
+    "Entertaiment/Anime.md",
     "CyberSecurity - Online Learning/Computer Networking - A Top down Approach/Computer networking a top-down approach.pdf",
     "CyberSecurity - Online Learning/Computer Networking - A Top down Approach/Summarise.md",
     "2023-08-03.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.3 Module - Security Principles.md",
-    "Untitled.canvas",
     "Untitled 1.canvas",
-    "Untitled.md",
     "Module 2.1  -.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 1_Takeaway.pdf",
     "Module 2.1  - Incident Response.md",
-    "Module 2.1  - BCM;Incident Response.md",
-    "Entertaiment/Anime.md",
-    "Module 2.1  - Something Different.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Unconfirmed 457862.crdownload",
-    "Module 6  - Security Principles.md",
-    "Entertaiment/Books.md",
     "CyberSecurity - Online Learning/Pasted image 20230721120630.png",
-    "Entertaiment/Series.md",
-    "Entertaiment/Movies.md",
-    "Entertaiment/Cartoons.md",
     "CyberSecurity - Online Learning",
-    "Entertaiment",
     "CyberSecurity - Online Learning/z.images/Pasted image 20230714134727.png",
     "CyberSecurity - Online Learning/z.images/Pasted image 20230713150916.png",
-    "CyberSecurity - Online Learning/z.images/images.md",
-    "CyberSecurity - Online Learning/z.images/Pasted image 20230713143103.png",
-    "CyberSecurity - Online Learning/Computer Networking - A Top down Approach",
-    "CyberSecurity - Online Learning/BashScript",
-    "CyberSecurity - Online Learning/C++",
-    "Cyber Security Yr1",
-    "CyberSecurity - Online Learning/Security+"
+    "CyberSecurity - Online Learning/z.images/Pasted image 20230713143103.png"
   ]
 }
