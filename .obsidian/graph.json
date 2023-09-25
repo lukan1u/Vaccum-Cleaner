@@ -11,27 +11,27 @@
       "query": "tag: #cc",
       "color": {
         "a": 1,
-        "rgb": 7207694
+        "rgb": 1443817
       }
     },
     {
-      "query": "",
+      "query": "#HTB",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 2883328
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -0.2,
+  "nodeSizeMultiplier": 0.913169164882227,
+  "lineSizeMultiplier": 1.24892933618844,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7143575580996582,
+  "scale": 0.3634378982365793,
   "close": true
 }

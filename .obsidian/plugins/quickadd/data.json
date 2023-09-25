@@ -1,12 +1,43 @@
 {
-  "choices": [],
+  "choices": [
+    {
+      "id": "3d672f76-db0d-4ab4-be7f-d971273e0c6d",
+      "name": "new note",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Templates/Template.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "New notes"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    }
+  ],
   "macros": [],
   "inputPrompt": "single-line",
   "devMode": false,
   "templateFolderPath": "",
   "announceUpdates": true,
   "version": "1.2.1",
-  "disableOnlineFeatures": true,
+  "disableOnlineFeatures": false,
   "ai": {
     "OpenAIApiKey": "",
     "defaultModel": "Ask me",
