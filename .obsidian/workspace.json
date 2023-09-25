@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals/2. The Shell.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5110321044922
+    "width": 322.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "ab69aceb5aed668e",
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals/2. The Shell.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals/2. The Shell.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals/2. The Shell.md"
+                "file": "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals.md"
               }
             }
           },
@@ -185,6 +186,9 @@
   "active": "f3bed7fda77da208",
   "lastOpenFiles": [
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.1 Module - Security Principles.md",
+    "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals.md",
+    "CyberSecurity - Online Learning/HackTheBox/Untitled",
+    "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals/2. The Shell.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.3 Module  - Access Control.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 1_Takeaway.pdf",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.2 Module - Network Security.md",
@@ -197,7 +201,6 @@
     "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals/1. Linux Structure.md",
     "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals/Untitled.md",
     "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals/Linux Structure.md",
-    "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals/2. The Shell.md",
     "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals",
     "CyberSecurity - Online Learning/HackTheBox",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.6 Module - Security Principles.md",
@@ -232,7 +235,6 @@
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "New notes"
+    "Untitled.canvas"
   ]
 }
