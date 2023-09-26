@@ -9,5 +9,7 @@ Table of contents >>> [[days]]
 Previous page >>> 
 Next Page >>>
 
-## Tittle 2
+## Info
 ---
+- 300 hours only 54h of labs
+- encase
