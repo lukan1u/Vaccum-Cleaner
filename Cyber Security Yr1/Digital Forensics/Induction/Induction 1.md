@@ -1,6 +1,6 @@
 ---
 Date: 2023-09-26T13:01:00
-Summary:
+Summary: boring basics of the module
 ---
 # Digital crime & Forensic
 ---
