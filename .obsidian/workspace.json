@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security Yr1/Digital Forensics/0.Digital Forensics.md",
+                "file": "Cyber Security Yr1/Digital Forensics/1. Induction.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security Yr1/Digital Forensics/0.Digital Forensics.md",
+                "file": "Cyber Security Yr1/Digital Forensics/1. Induction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security Yr1/Digital Forensics/0.Digital Forensics.md",
+                "file": "Cyber Security Yr1/Digital Forensics/1. Induction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security Yr1/Digital Forensics/0.Digital Forensics.md"
+                "file": "Cyber Security Yr1/Digital Forensics/1. Induction.md"
               }
             }
           },
@@ -184,8 +184,8 @@
   },
   "active": "7c75ddbc0ca349a9",
   "lastOpenFiles": [
-    "Cyber Security Yr1/Digital Forensics/1. Induction.md",
     "Cyber Security Yr1/Digital Forensics/0.Digital Forensics.md",
+    "Cyber Security Yr1/Digital Forensics/1. Induction.md",
     "Cyber Security Yr1/Digital Forensics/xx.Digital crime and forensic books.md",
     "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals.md",
     "Cyber Security Yr1/C++/hi.md",
