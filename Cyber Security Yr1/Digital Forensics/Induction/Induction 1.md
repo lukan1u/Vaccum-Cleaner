@@ -13,7 +13,7 @@ Next Page >>>
 ---
 - 300 hours only 54h of labs
 - Encase
-- task b from september technical report using software. evidence record for the investigation.
-- task a from january group portfolio project law report based on a legal case and present your findings.
+- task b from September technical report using software. evidence record for the investigation.
+- task a from January group portfolio project law report based on a legal case and present your findings.
 - only 48h academic support no grace for teamwork
 ![[20230926_132743.jpg]]![[20230926_133424.jpg]]
