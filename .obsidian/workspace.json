@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security Yr1/Digital Forensics/1. Induction.md",
+                "file": "Cyber Security Yr1/Intro to databases/Template 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security Yr1/Digital Forensics/1. Induction.md",
+                "file": "Cyber Security Yr1/Intro to databases/Template 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security Yr1/Digital Forensics/1. Induction.md",
+                "file": "Cyber Security Yr1/Intro to databases/Template 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security Yr1/Digital Forensics/1. Induction.md"
+                "file": "Cyber Security Yr1/Intro to databases/Template 1.md"
               }
             }
           },
@@ -182,14 +182,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7c75ddbc0ca349a9",
+  "active": "98fcacc342b2d1f8",
   "lastOpenFiles": [
-    "Cyber Security Yr1/Digital Forensics/0.Digital Forensics.md",
+    "New notes/Templates/Template.md",
+    "Cyber Security Yr1/Intro to databases/Template 1.md",
     "Cyber Security Yr1/Digital Forensics/1. Induction.md",
+    "Cyber Security Yr1/Digital Forensics/0.Digital Forensics.md",
     "Cyber Security Yr1/Digital Forensics/xx.Digital crime and forensic books.md",
     "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals.md",
     "Cyber Security Yr1/C++/hi.md",
-    "New notes/Templates/Template.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.2 Module - Network Security.md",
     "CyberSecurity - Online Learning/z.images/LOL.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/0.Targets.md",
@@ -226,7 +227,6 @@
     "CyberSecurity - Online Learning/z.images/Pasted image 20230925182756.png",
     "CyberSecurity - Online Learning/z.images/Pasted image 20230925182745.png",
     "CyberSecurity - Online Learning/z.images/Pasted image 20230925182729.png",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.2 Module  - Access Control.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Certification-Roadmap-Brochure.pdf",
     "General/Books/Computer networking a top-down approach.pdf",
     "General/Books",
