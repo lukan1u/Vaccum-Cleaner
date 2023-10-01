@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "7c75ddbc0ca349a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber Security Yr1/Porgamming C++/Template 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "26b0db869c2ab751",
             "type": "leaf",
             "state": {
@@ -51,14 +39,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New notes/lol.md",
+                "file": "New notes/Template.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New notes/lol.md",
+                "file": "New notes/Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New notes/lol.md",
+                "file": "New notes/Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New notes/lol.md"
+                "file": "New notes/Template.md"
               }
             }
           },
@@ -208,12 +196,13 @@
   },
   "active": "8bcee7245be145dd",
   "lastOpenFiles": [
-    "New notes/Template.md",
     "New notes/lol.md",
+    "New notes/Template.md",
+    "General/Entertaiment.md",
+    "Cyber Security Yr1/Digital Forensics/0.Digital Forensics.md",
+    "Cyber Security Yr1/Digital Forensics/1. Induction.md",
     "Cyber Security Yr1/Intro to databases/Template 1.md",
     "Cyber Security Yr1/Porgamming C++/Template 1.md",
-    "Cyber Security Yr1/Digital Forensics/1. Induction.md",
-    "Cyber Security Yr1/Digital Forensics/0.Digital Forensics.md",
     "Cyber Security Yr1/Digital Forensics/xx.Digital crime and forensic books.md",
     "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals.md",
     "Cyber Security Yr1/C++/hi.md",
@@ -238,7 +227,6 @@
     "CyberSecurity - Online Learning/HackTheBox/Untitled",
     "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals/2. The Shell.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 1_Takeaway.pdf",
-    "General/Entertaiment.md",
     "CyberSecurity - Online Learning/Certifications I am interested in.md",
     "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals/0. Linux Fundamentals.md",
     "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals/1. Linux Structure.md",
