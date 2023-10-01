@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New notes/Template.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New notes/Template.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New notes/Template.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New notes/Template.md"
+                "file": "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals.md"
               }
             }
           },
@@ -196,8 +196,8 @@
   },
   "active": "8bcee7245be145dd",
   "lastOpenFiles": [
-    "New notes/lol.md",
     "New notes/Template.md",
+    "New notes/lol.md",
     "General/Entertaiment.md",
     "Cyber Security Yr1/Digital Forensics/0.Digital Forensics.md",
     "Cyber Security Yr1/Digital Forensics/1. Induction.md",
@@ -209,14 +209,14 @@
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.2 Module - Network Security.md",
     "CyberSecurity - Online Learning/z.images/LOL.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/0.Targets.md",
-    "z.ALL Photos/Pasted image 20230926175554.png",
-    "z.ALL Photos/Pasted image 20230926175404.png",
-    "z.ALL Photos/Pasted image 20230926175326.png",
+    "General/z.ALL Photos/Pasted image 20230926175554.png",
+    "General/z.ALL Photos/Pasted image 20230926175404.png",
+    "General/z.ALL Photos/Pasted image 20230926175326.png",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.1 Module  - Network Security.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.2 Module - Security Principles.md",
-    "z.ALL Photos",
-    "z.ALL Photos/20230926_133424.jpg",
-    "z.ALL Photos/20230926_132743.jpg",
+    "General/z.ALL Photos",
+    "General/z.ALL Photos/20230926_133424.jpg",
+    "General/z.ALL Photos/20230926_132743.jpg",
     "CyberSecurity - Online Learning/Pasted image 20230925210559.png",
     "Cyber Security Yr1/Digital Forensics/Induction",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.4 Module  - Access Control.md",
