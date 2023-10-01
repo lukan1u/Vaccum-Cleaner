@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New notes/Template.md",
+                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.2 Module - Network Security.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ab69aceb5aed668e",
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New notes/Template.md",
+                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.2 Module - Network Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New notes/Template.md",
+                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.2 Module - Network Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New notes/Template.md"
+                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.2 Module - Network Security.md"
               }
             }
           },
@@ -184,8 +185,9 @@
   },
   "active": "26b0db869c2ab751",
   "lastOpenFiles": [
-    "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals.md",
+    "EDU-ELCC-01675-techart-traditional_vs_nextgen_firewalls-v03.svg",
     "New notes/Template.md",
+    "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals.md",
     "New notes/lol.md",
     "General/Entertaiment.md",
     "Cyber Security Yr1/Digital Forensics/0.Digital Forensics.md",
@@ -219,7 +221,6 @@
     "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals/0. Linux Fundamentals.md",
     "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals/1. Linux Structure.md",
     "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals/Untitled.md",
-    "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals/Linux Structure.md",
     "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals",
     "CyberSecurity - Online Learning/HackTheBox",
     "CyberSecurity - Online Learning/Google Cybersecurity",
