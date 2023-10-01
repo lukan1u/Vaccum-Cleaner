@@ -32,9 +32,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "26b0db869c2ab751",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New notes/Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8bcee7245be145dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New notes/lol.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -100,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security Yr1/Porgamming C++/Template 1.md",
+                "file": "New notes/lol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security Yr1/Porgamming C++/Template 1.md",
+                "file": "New notes/lol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security Yr1/Porgamming C++/Template 1.md"
+                "file": "New notes/lol.md"
               }
             }
           },
@@ -182,11 +206,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "98fcacc342b2d1f8",
+  "active": "8bcee7245be145dd",
   "lastOpenFiles": [
+    "New notes/Template.md",
+    "New notes/lol.md",
     "Cyber Security Yr1/Intro to databases/Template 1.md",
     "Cyber Security Yr1/Porgamming C++/Template 1.md",
-    "New notes/Templates/Template.md",
     "Cyber Security Yr1/Digital Forensics/1. Induction.md",
     "Cyber Security Yr1/Digital Forensics/0.Digital Forensics.md",
     "Cyber Security Yr1/Digital Forensics/xx.Digital crime and forensic books.md",
@@ -221,7 +246,6 @@
     "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals/Linux Structure.md",
     "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals",
     "CyberSecurity - Online Learning/HackTheBox",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.6 Module - Security Principles.md",
     "CyberSecurity - Online Learning/Google Cybersecurity",
     "CyberSecurity - Online Learning/z.images/EDU-ELCC-70245c-techart-Security_Network-v05.svg",
     "CyberSecurity - Online Learning/z.images/Pasted image 20230925182756.png",

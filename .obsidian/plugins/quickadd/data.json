@@ -5,7 +5,7 @@
       "name": "new note",
       "type": "Template",
       "command": true,
-      "templatePath": "Templates/Template.md",
+      "templatePath": "New notes/Template.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
@@ -34,7 +34,7 @@
   "macros": [],
   "inputPrompt": "single-line",
   "devMode": false,
-  "templateFolderPath": "",
+  "templateFolderPath": "New notes/Template",
   "announceUpdates": true,
   "version": "1.2.1",
   "disableOnlineFeatures": false,
