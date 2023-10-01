@@ -32,21 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8bcee7245be145dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5110321044922
+    "width": 200
   },
   "right": {
     "id": "ab69aceb5aed668e",
@@ -112,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals.md",
+                "file": "New notes/Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals.md",
+                "file": "New notes/Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals.md"
+                "file": "New notes/Template.md"
               }
             }
           },
@@ -194,8 +182,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8bcee7245be145dd",
+  "active": "26b0db869c2ab751",
   "lastOpenFiles": [
+    "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals.md",
     "New notes/Template.md",
     "New notes/lol.md",
     "General/Entertaiment.md",
@@ -204,7 +193,6 @@
     "Cyber Security Yr1/Intro to databases/Template 1.md",
     "Cyber Security Yr1/Porgamming C++/Template 1.md",
     "Cyber Security Yr1/Digital Forensics/xx.Digital crime and forensic books.md",
-    "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals.md",
     "Cyber Security Yr1/C++/hi.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.2 Module - Network Security.md",
     "CyberSecurity - Online Learning/z.images/LOL.md",
