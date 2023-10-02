@@ -27,18 +27,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New notes/Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8bcee7245be145dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.3 Module - Network Security.md",
                 "mode": "source",
                 "source": false
@@ -46,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,15 +182,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8bcee7245be145dd",
+  "active": "26b0db869c2ab751",
   "lastOpenFiles": [
+    "New notes/Template.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Certification-Roadmap-Brochure.pdf",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.3 Module - Network Security.md",
     "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals.md",
     "General/z.ALL Photos/EDU-ELCC-70245f-techart-Intrusion_Prevention_System-v04.svg",
     "General/z.ALL Photos/EDU-ELCC-01675-techart-traditional_vs_nextgen_firewalls-v03.svg",
     "EDU-ELCC-01965-techart-fully_redundant_data_center-v04.svg",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.3 Module - Network Security.md",
     "Cyber Security Yr1/Porgamming C++/c++.md",
-    "New notes/Template.md",
     "New notes/lol.md",
     "General/Entertaiment.md",
     "Cyber Security Yr1/Digital Forensics/0.Digital Forensics.md",
@@ -238,7 +227,6 @@
     "CyberSecurity - Online Learning/HackTheBox",
     "CyberSecurity - Online Learning/Google Cybersecurity",
     "CyberSecurity - Online Learning/z.images/EDU-ELCC-70245c-techart-Security_Network-v05.svg",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Certification-Roadmap-Brochure.pdf",
     "General/Books/Computer networking a top-down approach.pdf",
     "General/Books",
     "Untitled 4.canvas",
