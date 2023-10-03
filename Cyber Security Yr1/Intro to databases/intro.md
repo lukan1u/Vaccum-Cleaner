@@ -70,6 +70,15 @@ Next Page >>>
 
 ![[Pasted image 20231003112820.png]]
 
+Example: University Database • Conceptual Design: ➢ Entities and relationships describing students, modules, grades, lecturers, tutors, and timetable, etc. • Logical Deign: ➢ Mapping into tables, relations, indices. • Implementation Model: ➢ Mapping design into a specific DBMS (e.g., MySQL, Oracle).
+
+## When Not to Use a DBMS?
+---
+
+• Simple, well defined database applications that are not expected to change at all • Stringent, real-time requirements for some application programs that may not be met because of DBMS overhead • Embedded systems with limited storage capacity, where a general-purpose DBMS would not fit • No multiple user access to data
+
+![[Pasted image 20231003112906.png]]
+
 
 
 
