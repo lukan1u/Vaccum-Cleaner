@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4949d24258e9cf25",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.2 Module - Network Security.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "26b0db869c2ab751",
             "type": "leaf",
             "state": {
@@ -32,45 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3dd13d3b4a017e5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber Security Yr1/Digital Forensics/1.Induction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ce2fd95209fda0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber Security Yr1/Digital Forensics/1.Induction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b6304eb89341699",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.3 Module - Network Security.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,11 +168,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1b6304eb89341699",
+  "active": "26b0db869c2ab751",
   "lastOpenFiles": [
-    "Pasted image 20231003221444.png",
+    "Pasted image 20231003223747.png",
+    "EDU-ELCC-01685-techart-conceptual_defense_in_depth_small_server_environment-v01.svg",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.2 Module - Network Security.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 3_Takeaway.pdf",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 2_Takeaway.pdf",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 1_Takeaway.pdf",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Certification-Roadmap-Brochure.pdf",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.3 Module - Network Security.md",
+    "Pasted image 20231003222501.png",
+    "Pasted image 20231003222413.png",
+    "Pasted image 20231003221920.png",
+    "Pasted image 20231003221444.png",
     "Cyber Security Yr1/Digital Forensics/2.Computer Crime.md",
     "Cyber Security Yr1/Digital Forensics/1.Induction.md",
     "Cyber Security Yr1/Porgamming C++/1.Induction.md",
@@ -239,11 +197,7 @@
     "General/z.ALL Photos/Pasted image 20231003112820.png",
     "General/z.ALL Photos/Pasted image 20231003112123.png",
     "New notes/Template.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Certification-Roadmap-Brochure.pdf",
     "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals.md",
-    "General/z.ALL Photos/EDU-ELCC-70245f-techart-Intrusion_Prevention_System-v04.svg",
-    "General/z.ALL Photos/EDU-ELCC-01675-techart-traditional_vs_nextgen_firewalls-v03.svg",
-    "General/z.ALL Photos/EDU-ELCC-01965-techart-fully_redundant_data_center-v04.svg",
     "New notes/lol.md",
     "General/Entertaiment.md",
     "Cyber Security Yr1/Intro to databases/Template 1.md",
@@ -251,8 +205,6 @@
     "Cyber Security Yr1/Digital Forensics/xx.Digital crime and forensic books.md",
     "Cyber Security Yr1/C++/hi.md",
     "CyberSecurity - Online Learning/z.images/LOL.md",
-    "General/z.ALL Photos/Pasted image 20230926175554.png",
-    "General/z.ALL Photos/Pasted image 20230926175404.png",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.1 Module  - Network Security.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.2 Module - Security Principles.md",
     "General/z.ALL Photos",
@@ -261,12 +213,9 @@
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.3 Module  - Access Control.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.1 Module  - Access Control.md",
     "CyberSecurity - Online Learning/HackTheBox/Untitled",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 1_Takeaway.pdf",
     "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals",
     "CyberSecurity - Online Learning/HackTheBox",
     "CyberSecurity - Online Learning/Google Cybersecurity",
-    "General/Books/Computer networking a top-down approach.pdf",
-    "General/Books",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
