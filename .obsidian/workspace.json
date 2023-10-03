@@ -120,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5110321044922
+    "width": 322.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "ab69aceb5aed668e",
@@ -220,6 +221,7 @@
   },
   "active": "1b6304eb89341699",
   "lastOpenFiles": [
+    "Pasted image 20231003221444.png",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.2 Module - Network Security.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.3 Module - Network Security.md",
     "Cyber Security Yr1/Digital Forensics/2.Computer Crime.md",
@@ -258,7 +260,6 @@
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.4 Module  - Access Control.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.3 Module  - Access Control.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.1 Module  - Access Control.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.4 Module  - IRBCDR.md",
     "CyberSecurity - Online Learning/HackTheBox/Untitled",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 1_Takeaway.pdf",
     "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals",
