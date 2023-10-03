@@ -39,14 +39,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.3 Module - Network Security.md",
+                "file": "Cyber Security Yr1/Digital Forensics/1.Induction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ce2fd95209fda0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security Yr1/Digital Forensics/1.Induction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b6304eb89341699",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security Yr1/Digital Forensics/2.Computer Crime.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -112,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.3 Module - Network Security.md",
+                "file": "Cyber Security Yr1/Digital Forensics/2.Computer Crime.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.3 Module - Network Security.md",
+                "file": "Cyber Security Yr1/Digital Forensics/2.Computer Crime.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.3 Module - Network Security.md"
+                "file": "Cyber Security Yr1/Digital Forensics/2.Computer Crime.md"
               }
             }
           },
@@ -194,11 +218,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3dd13d3b4a017e5d",
+  "active": "1b6304eb89341699",
   "lastOpenFiles": [
+    "Pasted image 20231003131437.png",
+    "Cyber Security Yr1/Digital Forensics/1.Induction.md",
+    "Cyber Security Yr1/Digital Forensics/2.Computer Crime.md",
+    "Untitled.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.3 Module - Network Security.md",
     "Pasted image 20231003115626.png",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/0.Targets.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.3 Module - Network Security.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.1 Module - Security Principles.md",
     "Cyber Security Yr1/Porgamming C++/c++.md",
     "Cyber Security Yr1/Intro to databases/intro.md",
@@ -214,7 +242,6 @@
     "New notes/lol.md",
     "General/Entertaiment.md",
     "Cyber Security Yr1/Digital Forensics/0.Digital Forensics.md",
-    "Cyber Security Yr1/Digital Forensics/1. Induction.md",
     "Cyber Security Yr1/Intro to databases/Template 1.md",
     "Cyber Security Yr1/Porgamming C++/Template 1.md",
     "Cyber Security Yr1/Digital Forensics/xx.Digital crime and forensic books.md",
@@ -227,16 +254,13 @@
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.1 Module  - Network Security.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.2 Module - Security Principles.md",
     "General/z.ALL Photos",
-    "General/z.ALL Photos/20230926_133424.jpg",
     "Cyber Security Yr1/Digital Forensics/Induction",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.4 Module  - Access Control.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.3 Module  - Access Control.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.1 Module  - Access Control.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.4 Module  - IRBCDR.md",
     "CyberSecurity - Online Learning/HackTheBox/Untitled",
-    "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals/2. The Shell.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 1_Takeaway.pdf",
-    "CyberSecurity - Online Learning/Certifications I am interested in.md",
     "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals",
     "CyberSecurity - Online Learning/HackTheBox",
     "CyberSecurity - Online Learning/Google Cybersecurity",
