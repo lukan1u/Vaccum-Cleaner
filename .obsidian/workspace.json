@@ -11,8 +11,12 @@
             "id": "26b0db869c2ab751",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.3 Module - Network Security.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5110321044922,
-    "collapsed": true
+    "width": 322.5110321044922
   },
   "right": {
     "id": "ab69aceb5aed668e",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.3 Module - Network Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.3 Module - Network Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.3 Module - Network Security.md"
+              }
             }
           },
           {
@@ -162,31 +169,32 @@
   },
   "active": "26b0db869c2ab751",
   "lastOpenFiles": [
-    "Cyber Security Yr1/Porgamming C++/Cplusplus.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.3 Module - Network Security.md",
-    "Pasted image 20231003223747.png",
-    "EDU-ELCC-01685-techart-conceptual_defense_in_depth_small_server_environment-v01.svg",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/0.Targets.md",
+    "Cyber Security Yr1/Porgamming C++/1.Induction.md",
+    "Cyber Security Yr1/Digital Forensics/2.Computer Crime.md",
+    "Cyber Security Yr1/Digital Forensics/1.Induction.md",
+    "Cyber Security Yr1/Digital Forensics/0.Digital Forensics.md",
+    "CyberSecurity - Online Learning/Certifications I am interested in.md",
+    "CyberSecurity - Online Learning/z.images/EDU-ELCC-70530-techart-zero_trust-v02.svg",
+    "Cyber Security Yr1/Porgamming C++/Cplusplus.md",
+    "CyberSecurity - Online Learning/z.images/Pasted image 20231003223747.png",
+    "CyberSecurity - Online Learning/z.images/EDU-ELCC-01685-techart-conceptual_defense_in_depth_small_server_environment-v01.svg",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.2 Module - Network Security.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 3_Takeaway.pdf",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 2_Takeaway.pdf",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 1_Takeaway.pdf",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Certification-Roadmap-Brochure.pdf",
-    "Pasted image 20231003222501.png",
-    "Pasted image 20231003222413.png",
-    "Pasted image 20231003221920.png",
-    "Pasted image 20231003221444.png",
-    "Cyber Security Yr1/Digital Forensics/2.Computer Crime.md",
-    "Cyber Security Yr1/Digital Forensics/1.Induction.md",
-    "Cyber Security Yr1/Porgamming C++/1.Induction.md",
+    "CyberSecurity - Online Learning/z.images/Pasted image 20231003222501.png",
+    "CyberSecurity - Online Learning/z.images/Pasted image 20231003222413.png",
+    "CyberSecurity - Online Learning/z.images/Pasted image 20231003221920.png",
+    "CyberSecurity - Online Learning/z.images/Pasted image 20231003221444.png",
     "Cyber Security Yr1/Intro to databases/intro.md",
     "Untitled.md",
-    "Cyber Security Yr1/Digital Forensics/0.Digital Forensics.md",
     "General/z.ALL Photos/Pasted image 20231003131437.png",
     "General/z.ALL Photos/Pasted image 20231003115626.png",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/0.Targets.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.1 Module - Security Principles.md",
     "General/z.ALL Photos/Pasted image 20231003112906.png",
-    "General/z.ALL Photos/Pasted image 20231003112820.png",
     "New notes/Template.md",
     "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals.md",
     "New notes/lol.md",
