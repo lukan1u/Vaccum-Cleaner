@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5110321044922
+    "width": 322.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "ab69aceb5aed668e",
@@ -169,6 +170,8 @@
   },
   "active": "26b0db869c2ab751",
   "lastOpenFiles": [
+    "EDU-ELCC-70370-dmz-v02.svg",
+    "EDU-ELCC-70390-techart-nac-v01.svg",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.3 Module - Network Security.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/0.Targets.md",
     "Cyber Security Yr1/Porgamming C++/1.Induction.md",
@@ -194,7 +197,6 @@
     "General/z.ALL Photos/Pasted image 20231003131437.png",
     "General/z.ALL Photos/Pasted image 20231003115626.png",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.1 Module - Security Principles.md",
-    "General/z.ALL Photos/Pasted image 20231003112906.png",
     "New notes/Template.md",
     "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals.md",
     "New notes/lol.md",
@@ -210,7 +212,6 @@
     "Cyber Security Yr1/Digital Forensics/Induction",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.4 Module  - Access Control.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.3 Module  - Access Control.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.1 Module  - Access Control.md",
     "CyberSecurity - Online Learning/HackTheBox/Untitled",
     "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals",
     "CyberSecurity - Online Learning/HackTheBox",
