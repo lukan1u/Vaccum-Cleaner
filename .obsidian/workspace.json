@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.3 Module - Network Security.md",
+                "file": "Cyber Security Yr1/Intro to databases/intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5110321044922,
-    "collapsed": true
+    "width": 322.5110321044922
   },
   "right": {
     "id": "ab69aceb5aed668e",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.3 Module - Network Security.md",
+                "file": "Cyber Security Yr1/Intro to databases/intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.3 Module - Network Security.md",
+                "file": "Cyber Security Yr1/Intro to databases/intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.3 Module - Network Security.md"
+                "file": "Cyber Security Yr1/Intro to databases/intro.md"
               }
             }
           },
@@ -170,9 +169,9 @@
   },
   "active": "26b0db869c2ab751",
   "lastOpenFiles": [
-    "EDU-ELCC-70370-dmz-v02.svg",
-    "EDU-ELCC-70390-techart-nac-v01.svg",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.3 Module - Network Security.md",
+    "CyberSecurity - Online Learning/z.images/EDU-ELCC-70370-dmz-v02.svg",
+    "CyberSecurity - Online Learning/z.images/EDU-ELCC-70390-techart-nac-v01.svg",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/0.Targets.md",
     "Cyber Security Yr1/Porgamming C++/1.Induction.md",
     "Cyber Security Yr1/Digital Forensics/2.Computer Crime.md",
@@ -195,7 +194,6 @@
     "Cyber Security Yr1/Intro to databases/intro.md",
     "Untitled.md",
     "General/z.ALL Photos/Pasted image 20231003131437.png",
-    "General/z.ALL Photos/Pasted image 20231003115626.png",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.1 Module - Security Principles.md",
     "New notes/Template.md",
     "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals.md",

@@ -9,6 +9,11 @@ Table of contents >>>
 Previous page >>> 
 Next Page >>>
 
+## Setup
+---
+- Download xaamp
+- [login to php admin via this website](https://www.cems.uwe.ac.uk/supportweb/public/studentDbAccManager.php)
+- play around with databases
 ## Database terminology
 ---
 - Database is collectino of data
