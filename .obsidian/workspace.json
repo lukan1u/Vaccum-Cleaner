@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.1 Module - Security Operations.md",
+                "file": "CyberSecurity - Online Learning/Certifications I am interested in.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 207.5
   },
   "right": {
     "id": "ab69aceb5aed668e",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.1 Module - Security Operations.md",
+                "file": "CyberSecurity - Online Learning/Certifications I am interested in.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.1 Module - Security Operations.md",
+                "file": "CyberSecurity - Online Learning/Certifications I am interested in.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.1 Module - Security Operations.md"
+                "file": "CyberSecurity - Online Learning/Certifications I am interested in.md"
               }
             }
           },
@@ -194,21 +194,23 @@
   },
   "active": "ed1e6cea3f65a79d",
   "lastOpenFiles": [
-    "EDU-ELCC-00685-techart-hash_values-v01.svg",
-    "EDU-ELCC-00680-techart-hash_ops-v05.svg",
-    "EDU-ELCC-00655-techart-asymmetric_crypto-v03.svg",
-    "EDU-ELCC-70635-techart-Symmetric_Encryption_via_Decoding_Ring-v01.svg",
-    "EDU-ELCC-00553-techart-Use_of_symmetric_algorithms-v07.svg",
-    "EDU-ELCC-70565-crypto_system_components.svg",
-    "Pasted image 20231005215729.png",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.3 Module - Security Operations.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.2 Module - Security Operations.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.1 Module - Security Operations.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.3 Module  - Access Control.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.4 Module  - Access Control.md",
+    "CyberSecurity - Online Learning/z.images/EDU-ELCC-00685-techart-hash_values-v01.svg",
+    "CyberSecurity - Online Learning/z.images/EDU-ELCC-00680-techart-hash_ops-v05.svg",
+    "CyberSecurity - Online Learning/z.images/EDU-ELCC-00655-techart-asymmetric_crypto-v03.svg",
+    "CyberSecurity - Online Learning/z.images/EDU-ELCC-70635-techart-Symmetric_Encryption_via_Decoding_Ring-v01.svg",
+    "CyberSecurity - Online Learning/z.images/EDU-ELCC-00553-techart-Use_of_symmetric_algorithms-v07.svg",
+    "CyberSecurity - Online Learning/z.images/EDU-ELCC-70565-crypto_system_components.svg",
+    "CyberSecurity - Online Learning/z.images/Pasted image 20231005215729.png",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.1 Module  - Network Security.md",
     "Cyber Security Yr1/Porgamming C++/1.Induction.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.1 Module - Security Operations.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.4 Module - Network Security.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.3 Module - Network Security.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.2 Module - Network Security.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.4 Module  - Access Control.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.3 Module  - Access Control.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.2 Module  - Access Control.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.1 Module  - Access Control.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.4 Module  - IRBCDR.md",
@@ -222,7 +224,7 @@
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 3_Takeaway.pdf",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Certification-Roadmap-Brochure.pdf",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Unconfirmed 238537.crdownload",
-    "EDU-ELCC-70535-techart-segmentation_embedded_systems_iot-v04.svg",
+    "CyberSecurity - Online Learning/z.images/EDU-ELCC-70535-techart-segmentation_embedded_systems_iot-v04.svg",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.6 Module - Security Principles.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.5 Module - Security Principles.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.4 Module - Security Principles.md",
@@ -234,8 +236,6 @@
     "CyberSecurity - Online Learning/z.images/EDU-ELCC-70390-techart-nac-v01.svg",
     "Cyber Security Yr1/Digital Forensics/2.Computer Crime.md",
     "Cyber Security Yr1/Digital Forensics/1.Induction.md",
-    "Cyber Security Yr1/Digital Forensics/0.Digital Forensics.md",
-    "CyberSecurity - Online Learning/z.images/EDU-ELCC-70530-techart-zero_trust-v02.svg",
     "General/z.ALL Photos",
     "Cyber Security Yr1/Digital Forensics/Induction",
     "CyberSecurity - Online Learning/HackTheBox/Untitled",
