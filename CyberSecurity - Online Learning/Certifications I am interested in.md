@@ -6,11 +6,13 @@ Python
 
 # Beginner
 Certified in cybersecurity
+Google Cyber
 CompTIA Security+
 CompTIA Cloud+
 
 ## Mid tier achievements
 SSCP - Systems Security Certified Practitioner
+CCNA
 
 # Big achievements
 Certified Cloud Security Professional (CCSP)
