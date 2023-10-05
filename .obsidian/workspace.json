@@ -35,8 +35,12 @@
             "id": "ed1e6cea3f65a79d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.1 Module - Security Operations.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -90,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 768
+    "width": 200
   },
   "right": {
     "id": "ab69aceb5aed668e",
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.1 Module - Security Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.1 Module - Security Operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.1 Module - Security Operations.md"
+              }
             }
           },
           {
@@ -186,16 +194,25 @@
   },
   "active": "ed1e6cea3f65a79d",
   "lastOpenFiles": [
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.1 Module - Security Operations.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.4 Module - Network Security.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.3 Module - Network Security.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.2 Module - Network Security.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.1 Module  - Network Security.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.4 Module  - Access Control.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.3 Module  - Access Control.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.2 Module  - Access Control.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.1 Module  - Access Control.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.4 Module  - IRBCDR.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.3 Module  - IRBCDR.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.2 Module  - IRBCDR.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.1 Module - IRBCDR.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 2_Takeaway.pdf",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 1_Takeaway.pdf",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.1 Module - Security Operations.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/0.Targets.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 4_Takeaway.pdf",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 1_Takeaway.pdf",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 2_Takeaway.pdf",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 3_Takeaway.pdf",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Certification-Roadmap-Brochure.pdf",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.1 Module - IRBCDR.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.3 Module - Network Security.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Unconfirmed 238537.crdownload",
     "EDU-ELCC-70535-techart-segmentation_embedded_systems_iot-v04.svg",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.6 Module - Security Principles.md",
@@ -213,20 +230,12 @@
     "Cyber Security Yr1/Digital Forensics/0.Digital Forensics.md",
     "CyberSecurity - Online Learning/Certifications I am interested in.md",
     "CyberSecurity - Online Learning/z.images/EDU-ELCC-70530-techart-zero_trust-v02.svg",
-    "Cyber Security Yr1/Porgamming C++/Cplusplus.md",
     "CyberSecurity - Online Learning/z.images/Pasted image 20231003223747.png",
     "CyberSecurity - Online Learning/z.images/EDU-ELCC-01685-techart-conceptual_defense_in_depth_small_server_environment-v01.svg",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.2 Module - Network Security.md",
     "CyberSecurity - Online Learning/z.images/Pasted image 20231003222501.png",
     "CyberSecurity - Online Learning/z.images/Pasted image 20231003222413.png",
     "CyberSecurity - Online Learning/z.images/Pasted image 20231003221920.png",
     "CyberSecurity - Online Learning/z.images/Pasted image 20231003221444.png",
-    "Untitled.md",
-    "New notes/Template.md",
-    "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals.md",
-    "New notes/lol.md",
-    "General/Entertaiment.md",
-    "Cyber Security Yr1/Intro to databases/Template 1.md",
     "General/z.ALL Photos",
     "Cyber Security Yr1/Digital Forensics/Induction",
     "CyberSecurity - Online Learning/HackTheBox/Untitled",
