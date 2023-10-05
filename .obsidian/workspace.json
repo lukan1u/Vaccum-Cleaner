@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security Yr1/Porgamming C++/1.Induction.md",
+                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.1 Module - Security Operations.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security Yr1/Porgamming C++/1.Induction.md",
+                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.1 Module - Security Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security Yr1/Porgamming C++/1.Induction.md",
+                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.1 Module - Security Operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security Yr1/Porgamming C++/1.Induction.md"
+                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.1 Module - Security Operations.md"
               }
             }
           },
@@ -194,11 +194,19 @@
   },
   "active": "ed1e6cea3f65a79d",
   "lastOpenFiles": [
+    "EDU-ELCC-00685-techart-hash_values-v01.svg",
+    "EDU-ELCC-00680-techart-hash_ops-v05.svg",
+    "EDU-ELCC-00655-techart-asymmetric_crypto-v03.svg",
+    "EDU-ELCC-70635-techart-Symmetric_Encryption_via_Decoding_Ring-v01.svg",
+    "EDU-ELCC-00553-techart-Use_of_symmetric_algorithms-v07.svg",
+    "EDU-ELCC-70565-crypto_system_components.svg",
+    "Pasted image 20231005215729.png",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.1 Module  - Network Security.md",
+    "Cyber Security Yr1/Porgamming C++/1.Induction.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.1 Module - Security Operations.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.4 Module - Network Security.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.3 Module - Network Security.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.2 Module - Network Security.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.1 Module  - Network Security.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.4 Module  - Access Control.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.3 Module  - Access Control.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.2 Module  - Access Control.md",
@@ -224,18 +232,10 @@
     "Cyber Security Yr1/Intro to databases/intro.md",
     "CyberSecurity - Online Learning/z.images/EDU-ELCC-70370-dmz-v02.svg",
     "CyberSecurity - Online Learning/z.images/EDU-ELCC-70390-techart-nac-v01.svg",
-    "Cyber Security Yr1/Porgamming C++/1.Induction.md",
     "Cyber Security Yr1/Digital Forensics/2.Computer Crime.md",
     "Cyber Security Yr1/Digital Forensics/1.Induction.md",
     "Cyber Security Yr1/Digital Forensics/0.Digital Forensics.md",
-    "CyberSecurity - Online Learning/Certifications I am interested in.md",
     "CyberSecurity - Online Learning/z.images/EDU-ELCC-70530-techart-zero_trust-v02.svg",
-    "CyberSecurity - Online Learning/z.images/Pasted image 20231003223747.png",
-    "CyberSecurity - Online Learning/z.images/EDU-ELCC-01685-techart-conceptual_defense_in_depth_small_server_environment-v01.svg",
-    "CyberSecurity - Online Learning/z.images/Pasted image 20231003222501.png",
-    "CyberSecurity - Online Learning/z.images/Pasted image 20231003222413.png",
-    "CyberSecurity - Online Learning/z.images/Pasted image 20231003221920.png",
-    "CyberSecurity - Online Learning/z.images/Pasted image 20231003221444.png",
     "General/z.ALL Photos",
     "Cyber Security Yr1/Digital Forensics/Induction",
     "CyberSecurity - Online Learning/HackTheBox/Untitled",
