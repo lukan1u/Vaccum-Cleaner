@@ -11,8 +11,12 @@
             "id": "1918456f640ae3a3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security Yr1/Porgamming C++/1.Induction.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5,
-    "collapsed": true
+    "width": 332.5
   },
   "right": {
     "id": "ab69aceb5aed668e",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cyber Security Yr1/Porgamming C++/1.Induction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cyber Security Yr1/Porgamming C++/1.Induction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cyber Security Yr1/Porgamming C++/1.Induction.md"
+              }
             }
           },
           {
@@ -162,6 +169,8 @@
   },
   "active": "1918456f640ae3a3",
   "lastOpenFiles": [
+    "Cyber Security Yr1/Computer Networks/Digital Forensics/1.Induction.md",
+    "Cyber Security Yr1/Computer Networks/Digital Forensics/0.Digital Forensics.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.3 Module - Network Security.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.3 Module - Security Operations.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.6 Module - Security Principles.md",
@@ -197,7 +206,6 @@
     "Cyber Security Yr1/Porgamming C++/1.Induction.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.2 Module - Network Security.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.4 Module  - IRBCDR.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.1 Module - IRBCDR.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 1_Takeaway.pdf",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 4_Takeaway.pdf",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Certification-Roadmap-Brochure.pdf",
