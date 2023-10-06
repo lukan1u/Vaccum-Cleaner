@@ -19,11 +19,11 @@
 [[4.2 Module - Network Security]] --> Understanding cyber threats in the network
 [[4.3 Module - Network Security]] --> Network Infrastructure 
 [[4.4 Module - Network Security]] --> Summary of module 3 [Chapter 4_Takeway](obsidian://open?vault=Vaccum-Cleaner&file=CyberSecurity%20-%20Online%20Learning%2FCertified%20in%20CyberSecurity%20(CC)%2FChapter%204_Takeaway.pdf)
-[[5.1 Module - Security Operations]] -->
-[[5.2 Module - Security Operations]] -->
-[[5.3 Module - Security Operations]] -->
-[[5.4 Module - Security Operations]] -->
-[[5.5 Module - Security Operations]] -->
+[[5.1 Module - Security Operations]] --> Data security
+[[5.2 Module - Security Operations]] --> System Hardening
+[[5.3 Module - Security Operations]] --> Practice Security Policies
+[[5.4 Module - Security Operations]] --> Security Awareness Training
+[[5.5 Module - Security Operations]] --> Summary
 
 ---
 ## To do list:
