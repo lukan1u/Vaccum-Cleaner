@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.2 Module - Network Security.md",
+                "file": "Cyber Security Yr1/Porgamming C++/1.Induction.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5,
-    "collapsed": true
+    "width": 332.5
   },
   "right": {
     "id": "ab69aceb5aed668e",
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.2 Module - Network Security.md",
+                "file": "Cyber Security Yr1/Porgamming C++/1.Induction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.2 Module - Network Security.md",
+                "file": "Cyber Security Yr1/Porgamming C++/1.Induction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.2 Module - Network Security.md"
+                "file": "Cyber Security Yr1/Porgamming C++/1.Induction.md"
               }
             }
           },
@@ -181,8 +180,8 @@
   },
   "active": "4d64b7c57f5ce611",
   "lastOpenFiles": [
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Official_CC_Course_Completion_Certificate_Official_ISC2_CC_Online_Self-Paced_Training_-_1M_Pazdro.pdf",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.2 Module - Network Security.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Official_CC_Course_Completion_Certificate_Official_ISC2_CC_Online_Self-Paced_Training_-_1M_Pazdro.pdf",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Certification-Roadmap-Brochure.pdf",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Certified in CyberSecurity.md",
     "CyberSecurity - Online Learning/Google Cybersecurity/1.1 Foundations of Cybersecurity.md",
