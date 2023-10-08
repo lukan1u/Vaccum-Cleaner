@@ -1,14 +1,14 @@
-#cc #HTB 
+#cc #HTB #google_cybersecurity 
 ## Nice haves
-Hack the box
-Try hack me
-Python
+Hack the box 1%
+Try hack me 1%
+Python - good knowledge 
 
 # Beginner
-Certified in cybersecurity
-Google Cyber
-CompTIA Security+
-CompTIA Cloud+
+- [x] Certified in cybersecurity
+- [ ] Google Cyber
+- [ ] CompTIA Security+
+- [ ] CompTIA Cloud+
 
 ## Mid tier achievements
 SSCP - Systems Security Certified Practitioner
