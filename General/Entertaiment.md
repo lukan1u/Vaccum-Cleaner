@@ -22,3 +22,4 @@ Star wars series
 Lucifer
 Westworld
 Game of thrones
+one piece

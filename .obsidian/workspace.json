@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 297.5
   },
   "right": {
     "id": "ab69aceb5aed668e",
@@ -167,7 +167,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4d64b7c57f5ce611",
+  "active": "98fcacc342b2d1f8",
   "lastOpenFiles": [
     "Cyber Security Yr1/Porgamming C++/1.Induction.md",
     "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals.md",
