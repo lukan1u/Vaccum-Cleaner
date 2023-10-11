@@ -12,9 +12,10 @@
 - [ ] Wakfu - on season 4
 - [ ] The Rising of the Shield Hero - on second season
 - [ ] Goblin slayer
+- [ ] KonoSuba
 # Cartoons
 - [ ] Adventure time Fiona & Cake
-- [ ] 
+- [ ] avatar the legend of aang
 # Movies
 Star wars series
 # Series
