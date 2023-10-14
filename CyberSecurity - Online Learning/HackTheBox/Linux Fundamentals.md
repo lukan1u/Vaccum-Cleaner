@@ -10,7 +10,7 @@
 | `whoami`     | Displays current username.                                                                                                         |
 | `id`         | Returns users identity                                                                                                             |
 | `hostname`   | Sets or prints the name of current host system.                                                                                    |
-| `uname`      | Prints basic information about the operating system name and system hardware.                                                      |
+| **`uname`**      | Prints basic information about the operating system name and system hardware.                                                      |
 | `pwd`        | Returns working directory name.                                                                                                    |
 | `ifconfig`   | The ifconfig utility is used to assign or to view an address to a network interface and/or configure network interface parameters. |
 | `ip`         | Ip is a utility to show or manipulate routing, network devices, interfaces and tunnels.                                            |
@@ -79,3 +79,5 @@ Switch bettwen directories
 ```shell-session
 cry0l1t3@htb[/dev/shm]$ cd -
 ```
+
+Double `TAB` when `cd` gives you options to go to
