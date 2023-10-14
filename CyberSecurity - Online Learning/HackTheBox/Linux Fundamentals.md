@@ -60,3 +60,22 @@ Each manual page has short description:
 lukan1u@htb[/htb]$ apropos <keyword>
 ```
 
+# Navigation
+---
+If we type command `ls- l` it will display additional information about the directories and files.
+`total [x]` means how much total storage size is being used. Basically this data is not the content but the information needed for the system to etc know where the folder is stored. **1 = 512bytes**
+
+|**Column Content**|**Description**|
+|---|---|
+|`drwxr-xr-x`|Type and permissions|
+|`2`|Number of hard links to the file/directory|
+|`cry0l1t3`|Owner of the file/directory|
+|`htbacademy`|Group owner of the file/directory|
+|`4096`|Size of the file or the number of blocks used to store the directory information|
+|`Nov 13 17:37`|Date and time|
+|`Desktop`|Directory name|
+
+Switch bettwen directories
+```shell-session
+cry0l1t3@htb[/dev/shm]$ cd -
+```
