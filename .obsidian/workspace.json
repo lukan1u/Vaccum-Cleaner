@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Entertaiment.md",
+                "file": "Cyber Security Yr1/Porgamming C++/1.Induction.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Entertaiment.md",
+                "file": "Cyber Security Yr1/Porgamming C++/1.Induction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/Entertaiment.md",
+                "file": "Cyber Security Yr1/Porgamming C++/1.Induction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/Entertaiment.md"
+                "file": "Cyber Security Yr1/Porgamming C++/1.Induction.md"
               }
             }
           },
@@ -167,8 +167,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "98fcacc342b2d1f8",
+  "active": "4d64b7c57f5ce611",
   "lastOpenFiles": [
+    "General/Entertaiment.md",
     "Cyber Security Yr1/Porgamming C++/1.Induction.md",
     "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals.md",
     "CyberSecurity - Online Learning/HackTheBox/Hack the box.md",
@@ -196,7 +197,6 @@
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.3 Module - Security Operations.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.2 Module - Security Operations.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.1 Module - Security Operations.md",
-    "Cyber Security Yr1/Computer Networks/Digital Forensics/1.Induction.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 2_Takeaway.pdf",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 3_Takeaway.pdf",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 5_Takeaway.pdf",
