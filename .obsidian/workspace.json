@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 297.5,
+    "collapsed": true
   },
   "right": {
     "id": "ab69aceb5aed668e",
@@ -170,6 +171,8 @@
   "active": "4d64b7c57f5ce611",
   "lastOpenFiles": [
     "CyberSecurity - Online Learning/Google Cybersecurity/0.Google Cybersecurity.md",
+    "Cyber Security Yr1/Porgamming C++/1.Induction.md",
+    "Cyber Security Yr1/Intro to databases/intro.md",
     "CyberSecurity - Online Learning/Google Cybersecurity/1.1 Foundations of Cybersecurity.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Certified in CyberSecurity.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Official_CC_Course_Completion_Certificate_Official_ISC2_CC_Online_Self-Paced_Training_-_1M_Pazdro.pdf",
@@ -177,7 +180,6 @@
     "CyberSecurity - Online Learning/HackTheBox/Linux Fundamentals.md",
     "CyberSecurity - Online Learning/Google Cybersecurity/1.2 Foundations of Cybersecurity.md",
     "CyberSecurity - Online Learning/HackTheBox/Hack the box.md",
-    "Cyber Security Yr1/Porgamming C++/1.Induction.md",
     "General/Entertaiment.md",
     "CyberSecurity - Online Learning/Certifications I am interested in.md",
     "New notes/lol.md",
