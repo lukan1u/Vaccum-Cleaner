@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a84ab1beee48cd46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "CyberSecurity - Online Learning/HackTheBox/1.1 Linux Fundamentals - Introduction.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,22 +167,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a84ab1beee48cd46",
+  "active": "4d64b7c57f5ce611",
   "lastOpenFiles": [
+    "CyberSecurity - Online Learning/Google Cybersecurity/0.Google Cybersecurity.md",
     "CyberSecurity - Online Learning/Google Cybersecurity/1.1 Foundations of Cybersecurity.md",
+    "CyberSecurity - Online Learning/Google Cybersecurity/1.2 Foundations of Cybersecurity.md",
+    "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Official_CC_Course_Completion_Certificate_Official_ISC2_CC_Online_Self-Paced_Training_-_1M_Pazdro.pdf",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Certified in CyberSecurity.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Certification-Roadmap-Brochure.pdf",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.5 Module - Security Operations.md",
     "CyberSecurity - Online Learning/HackTheBox/1.1 Linux Fundamentals - Introduction.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.3 Module  - Access Control.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.4 Module - Security Operations.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.5 Module - Security Operations.md",
-    "CyberSecurity - Online Learning/Google Cybersecurity/1.2 Foundations of Cybersecurity.md",
-    "CyberSecurity - Online Learning/Google Cybersecurity/0.Google Cybersecurity.md",
-    "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
     "CyberSecurity - Online Learning/HackTheBox/0.Linux Fundamentals",
     "New notes/lol.md",
     "Cyber Security Yr1/Porgamming C++/1.Induction.md",
     "Cyber Security Yr1/Intro to databases/intro.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Certified in CyberSecurity.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Official_CC_Course_Completion_Certificate_Official_ISC2_CC_Online_Self-Paced_Training_-_1M_Pazdro.pdf",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.1 Module - Security Principles.md",
     "General/Entertaiment.md",
     "CyberSecurity - Online Learning/Certifications I am interested in.md",
@@ -205,12 +193,10 @@
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.6 Module - Security Principles.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.1 Module  - Network Security.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.4 Module  - IRBCDR.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Certification-Roadmap-Brochure.pdf",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.2 Module - Network Security.md",
     "New notes/Template.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.4 Module  - Access Control.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.2 Module  - Access Control.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.3 Module - Security Operations.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 2_Takeaway.pdf",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 3_Takeaway.pdf",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 5_Takeaway.pdf",
