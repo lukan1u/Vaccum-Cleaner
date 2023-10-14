@@ -2,23 +2,61 @@
 ---
 #HTB 
 
+# Commands:
+**Basic commands**
 
-|            |                                                                                                                                    |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| `whoami`   | Displays current username.                                                                                                         |
-| `id`       | Returns users identity                                                                                                             |
-| `hostname` | Sets or prints the name of current host system.                                                                                    |
-| `uname`    | Prints basic information about the operating system name and system hardware.                                                      |
-| `pwd`      | Returns working directory name.                                                                                                    |
-| `ifconfig` | The ifconfig utility is used to assign or to view an address to a network interface and/or configure network interface parameters. |
-| `ip`       | Ip is a utility to show or manipulate routing, network devices, interfaces and tunnels.                                            |
-| `netstat`  | Shows network status.                                                                                                              |
-| `ss`       | Another utility to investigate sockets.                                                                                            |
-| `ps`       | Shows process status.                                                                                                              |
-| `who`      | Displays who is logged in.                                                                                                         |
-| `env`      | Prints environment or sets and executes command.                                                                                   |
-| `lsblk`    | Lists block devices.                                                                                                               |
-| `lsusb`    | Lists USB devices                                                                                                                  |
-| `lsof`     | Lists opened files.                                                                                                                |
-| `lspci`    | Lists PCI devices.                                                                                                                 |
+|              |                                                                                                                                    |
+| ------------ | ---------------------------------------------------------------------------------------------------------------------------------- |
+| `whoami`     | Displays current username.                                                                                                         |
+| `id`         | Returns users identity                                                                                                             |
+| `hostname`   | Sets or prints the name of current host system.                                                                                    |
+| `uname`      | Prints basic information about the operating system name and system hardware.                                                      |
+| `pwd`        | Returns working directory name.                                                                                                    |
+| `ifconfig`   | The ifconfig utility is used to assign or to view an address to a network interface and/or configure network interface parameters. |
+| `ip`         | Ip is a utility to show or manipulate routing, network devices, interfaces and tunnels.                                            |
+| `netstat`    | Shows network status.                                                                                                              |
+| `ss`         | Another utility to investigate sockets.                                                                                            |
+| `ps`         | Shows process status.                                                                                                              |
+| `who`        | Displays who is logged in.                                                                                                         |
+| `env`        | Prints environment or sets and executes command.                                                                                   |
+| `lsblk`      | Lists block devices.                                                                                                               |
+| `lsusb`      | Lists USB devices                                                                                                                  |
+| `lsof`       | Lists opened files.                                                                                                                |
+| `lspci`      | Lists PCI devices.                                                                                                                 |
+| `su - lukas` | Change to user                                                                                                                     |
+| `sudo su`    | Change to root                                                                                                                     |
+|              |                                                                                                                                    |
+
+**.bashrc file can be changed to customise the look and feel of the terminal**
+
+| **Special Character** | **Description**                            |
+| --------------------- | ------------------------------------------ |
+| `\d`                  | Date (Mon Feb 6)                           |
+| `\D{%Y-%m-%d}`        | Date (YYYY-MM-DD)                          |
+| `\H`                  | Full hostname                              |
+| `\j`                  | Number of jobs managed by the shell        |
+| `\n`                  | Newline                                    |
+| `\r`                  | Carriage return                            |
+| `\s`                  | Name of the shell                          |
+| `\t`                  | Current time 24-hour (HH:MM:SS)            |
+| `\T`                  | Current time 12-hour (HH:MM:SS)            |
+| `\@`                  | Current time                               |
+| `\u`                  | Current username                           |
+| `\w`                  | Full path of the current working directory |
+|                       |                                            |
+
+This command helps with getting manual (detailed explenation) pages about any linux tools available:
+```shell-session
+lukan1u@htb[/htb]$ man curl
+```
+
+Explains features of the tool:
+```shell-session
+lukan1u@htb[/htb]$ <tool> --help
+```
+
+Each manual page has short description:
+```shell-session
+lukan1u@htb[/htb]$ apropos <keyword>
+```
 
