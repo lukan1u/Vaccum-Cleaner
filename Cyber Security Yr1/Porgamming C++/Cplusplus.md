@@ -1,4 +1,6 @@
-#uwe
-[[Cyber Security Yr1/Porgamming C++/1.Induction|1.Induction]]
-[[Git]]
-[[programing intro]]
+#uwe #cplusplus 
+# Table of contents
+---
+Basic setup >>>[[Induction|Induction]]
+undestanding git >>> [[Git]]
+understanding c++ language>> [[programingcplusplus]]
