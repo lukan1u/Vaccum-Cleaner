@@ -50,7 +50,7 @@
               "type": "markdown",
               "state": {
                 "file": "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals - Workflow.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 274.5,
+    "collapsed": true
   },
   "right": {
     "id": "ab69aceb5aed668e",
@@ -184,7 +185,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -206,8 +208,10 @@
   },
   "active": "67de602203a44322",
   "lastOpenFiles": [
-    "CyberSecurity - Online Learning/HackTheBox/1.1 Linux Fundamentals - Introduction.md",
+    "Excalidraw/Drawing 2023-10-15 22.01.40.excalidraw.md",
     "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals - Workflow.md",
+    "Excalidraw",
+    "CyberSecurity - Online Learning/HackTheBox/1.1 Linux Fundamentals - Introduction.md",
     "Untitled.md",
     "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
     "Cyber Security Yr1/Porgamming C++/Setup.md",
@@ -237,7 +241,6 @@
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.3 Module  - Access Control.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.4 Module - Security Operations.md",
     "CyberSecurity - Online Learning/HackTheBox/0.Linux Fundamentals",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.1 Module - Security Principles.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 2_Takeaway.pdf",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 3_Takeaway.pdf",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 5_Takeaway.pdf",
@@ -251,7 +254,6 @@
     "CyberSecurity - Online Learning/z.images/Pasted image 20231005215729.png",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 1_Takeaway.pdf",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 4_Takeaway.pdf",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Unconfirmed 238537.crdownload",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
