@@ -15,10 +15,24 @@
       }
     },
     {
-      "query": "#HTB",
+      "query": "tag:#HTB  ",
       "color": {
         "a": 1,
         "rgb": 2883328
+      }
+    },
+    {
+      "query": "tag:#google_cybersecurity  ",
+      "color": {
+        "a": 1,
+        "rgb": 16768256
+      }
+    },
+    {
+      "query": "tag:#uwe  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
       }
     }
   ],
@@ -32,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5095337177313796,
-  "close": true
+  "scale": 0.36343789823658385,
+  "close": false
 }

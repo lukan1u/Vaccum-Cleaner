@@ -16,10 +16,10 @@ Table of contents >>> [[cplusplus]]
 |`git config --global user.email "[email address]"`|Sets the email you want attached to your commit transactions|
 |`git config --global color.ui auto`|Enables helpful colorizations of command line input|
 
-|Create Repositories   |   |
-|---|---|
-|`git init [project-name]`|Creates a new local repository with the specified name|
-|`git clone [url]`|Downloads a project and its entire version history|
+| Create Repositories       |                                                        |
+| ------------------------- | ------------------------------------------------------ |
+| `git init [project-name]` | Creates a new local repository with the specified name |
+| `git clone [url]`         | Downloads a project and its entire version history     |
 
 |Make Changes   |   |
 |---|---|
