@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "19c713d6e0faa9c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security Yr1/Porgamming C++/Cplusplus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "012352ca5ed9ed20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New notes/Git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/1.1 Linux Fundamentals - Introduction.md",
+                "file": "New notes/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/1.1 Linux Fundamentals - Introduction.md",
+                "file": "New notes/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/1.1 Linux Fundamentals - Introduction.md"
+                "file": "New notes/Git.md"
               }
             }
           },
@@ -167,8 +192,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4d64b7c57f5ce611",
+  "active": "012352ca5ed9ed20",
   "lastOpenFiles": [
+    "Cyber Security Yr1/Porgamming C++/Cplusplus.md",
+    "New notes/Git.md",
+    "Untitled.md",
+    "Cyber Security Yr1/Porgamming C++/1.Induction.md",
     "CyberSecurity - Online Learning/Google Cybersecurity/0.Google Cybersecurity.md",
     "CyberSecurity - Online Learning/Google Cybersecurity/1.1 Foundations of Cybersecurity.md",
     "CyberSecurity - Online Learning/Google Cybersecurity/1.2 Foundations of Cybersecurity.md",
@@ -182,7 +211,6 @@
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.4 Module - Security Operations.md",
     "CyberSecurity - Online Learning/HackTheBox/0.Linux Fundamentals",
     "New notes/lol.md",
-    "Cyber Security Yr1/Porgamming C++/1.Induction.md",
     "Cyber Security Yr1/Intro to databases/intro.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.1 Module - Security Principles.md",
     "General/Entertaiment.md",
@@ -195,8 +223,6 @@
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.4 Module  - IRBCDR.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.2 Module - Network Security.md",
     "New notes/Template.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.4 Module  - Access Control.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.2 Module  - Access Control.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 2_Takeaway.pdf",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 3_Takeaway.pdf",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 5_Takeaway.pdf",
