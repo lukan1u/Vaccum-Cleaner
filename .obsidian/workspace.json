@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5
+    "width": 405.5,
+    "collapsed": true
   },
   "right": {
     "id": "ab69aceb5aed668e",
@@ -177,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 342.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,7 +194,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "012352ca5ed9ed20",
+  "active": "98fcacc342b2d1f8",
   "lastOpenFiles": [
     "Cyber Security Yr1/Porgamming C++/cplusplus.md",
     "Cyber Security Yr1/Porgamming C++/Git.md",
