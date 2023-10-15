@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FabHeart",
       "FabAngleDown",
       "FabImage",
       "FabChessQueen",
-      "FabChessKing",
-      "FabChessRook"
+      "FabChessKing"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -22,7 +22,7 @@
     },
     "iconInTabsEnabled": false
   },
-  "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)": "FabAngleDown",
+  "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)": "FabHeart",
   "CyberSecurity - Online Learning": "FabAddressBook",
   "Cyber Security Yr1": "FabHandPeace",
   "CyberSecurity - Online Learning/Certifications I am interested in.md": "FabPaperPlane",
