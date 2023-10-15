@@ -5,9 +5,6 @@ Summary:
 # C++
 ---
 #settings #uwe #cplusplus
-Table of contents >>> 
-Previous page >>> 
-Next Page >>>
-
+Table of contents >>> [[cplusplus]]
 ## Basics about the programming language
 ---

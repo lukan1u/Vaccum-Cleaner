@@ -6,9 +6,6 @@ Summary: setting up visual studio code and azure cloud. Also this module is usin
 ---
 #settings #uwe #cplusplus
 Table of contents >>> [[cplusplus]]
-Previous page >>>  [[cplusplus]]
-Next Page >>>
-
 ## Setting up SSH connection with azure UWE cloud
 ---
 ==***Disclaimer:***==

@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 411.5
   },
   "right": {
     "id": "ab69aceb5aed668e",
@@ -172,12 +172,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 342.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,9 +195,15 @@
   "active": "012352ca5ed9ed20",
   "lastOpenFiles": [
     "Cyber Security Yr1/Porgamming C++/cplusplus.md",
-    "Cyber Security Yr1/Porgamming C++/programingcplusplus.md",
-    "Cyber Security Yr1/Porgamming C++/Induction.md",
     "Cyber Security Yr1/Porgamming C++/Git.md",
+    "Cyber Security Yr1/Porgamming C++/programingcplusplus.md",
+    "Cyber Security Yr1/Porgamming C++/Setup.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Certified in CyberSecurity.md",
+    "Cyber Security Yr1/Digital Forensics/1.Induction.md",
+    "Cyber Security Yr1/Digital Forensics/0.Digital Forensics.md",
+    "Cyber Security Yr1/Intro to databases/intro.md",
+    "General/z.ALL Photos/Pasted image 20231015163329.png",
+    "General/z.ALL Photos/Pasted image 20231015163321.png",
     "CyberSecurity - Online Learning/Certifications I am interested in.md",
     "[[Git]].md",
     "[.md",
@@ -210,20 +216,16 @@
     "CyberSecurity - Online Learning/Google Cybersecurity/1.1 Foundations of Cybersecurity.md",
     "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Official_CC_Course_Completion_Certificate_Official_ISC2_CC_Online_Self-Paced_Training_-_1M_Pazdro.pdf",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Certified in CyberSecurity.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Certification-Roadmap-Brochure.pdf",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.5 Module - Security Operations.md",
     "CyberSecurity - Online Learning/HackTheBox/1.1 Linux Fundamentals - Introduction.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.3 Module  - Access Control.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.4 Module - Security Operations.md",
     "CyberSecurity - Online Learning/HackTheBox/0.Linux Fundamentals",
-    "Cyber Security Yr1/Intro to databases/intro.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.1 Module - Security Principles.md",
     "General/Entertaiment.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.2 Module - Security Principles.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.3 Module - Security Principles.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.4 Module - Security Principles.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.6 Module - Security Principles.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 2_Takeaway.pdf",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 3_Takeaway.pdf",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 5_Takeaway.pdf",
@@ -238,8 +240,6 @@
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 1_Takeaway.pdf",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 4_Takeaway.pdf",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Unconfirmed 238537.crdownload",
-    "CyberSecurity - Online Learning/z.images/EDU-ELCC-70535-techart-segmentation_embedded_systems_iot-v04.svg",
-    "CyberSecurity - Online Learning/z.images/EDU-ELCC-70370-dmz-v02.svg",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
