@@ -1,4 +1,7 @@
 #cc #HTB #google_cybersecurity 
+[[Certified in CyberSecurity]]
+[[0.Google Cybersecurity]]
+[[Hack The Box]]
 ## Nice haves
 Hack the box 1%
 Try hack me 1%

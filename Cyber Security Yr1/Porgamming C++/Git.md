@@ -4,7 +4,7 @@ Summary:
 ---
 # All git stuff
 ---
-#settings
+#settings #uwe #git
 Table of contents >>> 
 Previous page >>> 
 Next Page >>>
@@ -16,3 +16,16 @@ Next Page >>>
 https://docs.github.com/en/get-started/getting-started-with-git/caching-your-github-credentials-in-git
 - How to generate the tokens:
 https://www.youtube.com/watch?v=ytSoabxSQ6E
+
+
+## How to merge to git repos
+---
+If you want to merge `project-a` into `project-b`:
+
+```bash
+cd path/to/project-b
+git remote add project-a /path/to/project-a
+git fetch project-a --tags
+git merge --allow-unrelated-histories project-a/master # or whichever branch you want to merge
+git remote remove project-a
+```

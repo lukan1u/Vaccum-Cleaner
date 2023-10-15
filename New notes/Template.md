@@ -11,4 +11,3 @@ Next Page >>>
 
 ## Tittle 2
 ---
-[[New notes/lol]]
