@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "67de602203a44322",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals - Workflow.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/1.1 Linux Fundamentals - Introduction.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals - Workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/1.1 Linux Fundamentals - Introduction.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals - Workflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/1.1 Linux Fundamentals - Introduction.md"
+                "file": "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals - Workflow.md"
               }
             }
           },
@@ -192,10 +204,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "012352ca5ed9ed20",
+  "active": "67de602203a44322",
   "lastOpenFiles": [
-    "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
     "CyberSecurity - Online Learning/HackTheBox/1.1 Linux Fundamentals - Introduction.md",
+    "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals - Workflow.md",
+    "Untitled.md",
+    "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
     "Cyber Security Yr1/Porgamming C++/Setup.md",
     "Cyber Security Yr1/Digital Forensics/2.Computer Crime.md",
     "Cyber Security Yr1/Digital Forensics/1.Induction.md",
@@ -216,7 +230,6 @@
     "CyberSecurity - Online Learning/z.images/Pasted image 20231015155133.png",
     "New notes/Template.md",
     "New notes/lol.md",
-    "Untitled.md",
     "CyberSecurity - Online Learning/Google Cybersecurity/0.Google Cybersecurity.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Official_CC_Course_Completion_Certificate_Official_ISC2_CC_Online_Self-Paced_Training_-_1M_Pazdro.pdf",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Certification-Roadmap-Brochure.pdf",
@@ -225,7 +238,6 @@
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.4 Module - Security Operations.md",
     "CyberSecurity - Online Learning/HackTheBox/0.Linux Fundamentals",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.1 Module - Security Principles.md",
-    "General/Entertaiment.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 2_Takeaway.pdf",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 3_Takeaway.pdf",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 5_Takeaway.pdf",
