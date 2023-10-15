@@ -95,7 +95,7 @@ Table of contents >>> [[cplusplus]]
 1. To generate tokens click [here](https://www.youtube.com/watch?v=ytSoabxSQ6E)
 2. To store tokens use this command: `gh auth login` [more infro](https://docs.github.com/en/get-started/getting-started-with-git/caching-your-github-credentials-in-git)
 
-## How to merge to git repos
+## How to merge git repos
 ---
 If you want to merge `project-a` into `project-b`:
 ```bash
