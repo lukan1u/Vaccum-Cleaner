@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals - Workflow.md",
+                "file": "Cyber Security Yr1/Porgamming C++/Setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 274.5,
+    "collapsed": true
   },
   "right": {
     "id": "ab69aceb5aed668e",
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals - Workflow.md",
+                "file": "Cyber Security Yr1/Porgamming C++/Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals - Workflow.md",
+                "file": "Cyber Security Yr1/Porgamming C++/Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals - Workflow.md"
+                "file": "Cyber Security Yr1/Porgamming C++/Setup.md"
               }
             }
           },
@@ -215,19 +216,19 @@
   },
   "active": "5dace0a60efe4786",
   "lastOpenFiles": [
+    "Cyber Security Yr1/Porgamming C++/programingcplusplus.md",
+    "Cyber Security Yr1/Porgamming C++/cplusplus.md",
+    "Cyber Security Yr1/Porgamming C++/Git.md",
+    "Cyber Security Yr1/Porgamming C++/Setup.md",
+    "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals - Workflow.md",
     "CyberSecurity - Online Learning/HackTheBox/1.1 Linux Fundamentals - Introduction.md",
     "Cyber Security Yr1/Intro to databases/lesson 2.md",
     "Cyber Security Yr1/Intro to databases/intro.md",
     "Untitled 1.md",
-    "Cyber Security Yr1/Porgamming C++/Setup.md",
-    "Cyber Security Yr1/Porgamming C++/cplusplus.md",
-    "Cyber Security Yr1/Porgamming C++/programingcplusplus.md",
-    "Cyber Security Yr1/Porgamming C++/Git.md",
     "Cyber Security Yr1/Digital Forensics/1.Induction.md",
     "CyberSecurity - Online Learning/Google Cybersecurity/1.1 Foundations of Cybersecurity.md",
     "CyberSecurity - Online Learning/Google Cybersecurity/0.Google Cybersecurity.md",
     "CyberSecurity - Online Learning/Google Cybersecurity/1.2 Foundations of Cybersecurity.md",
-    "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals - Workflow.md",
     "Excalidraw/Drawing 2023-10-15 22.01.40.excalidraw.md",
     "Excalidraw",
     "Untitled.md",
