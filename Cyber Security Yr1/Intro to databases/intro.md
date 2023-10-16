@@ -7,7 +7,7 @@ Summary:
 #settings #uwe
 Table of contents >>> 
 Previous page >>> 
-Next Page >>>
+Next Page >>>[[lesson 2]]
 
 ## Setup
 ---
