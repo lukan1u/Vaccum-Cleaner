@@ -25,31 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security Yr1/Intro to databases/intro.md",
+                "file": "Cyber Security Yr1/Digital Forensics/2.Computer Crime.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5dace0a60efe4786",
+            "id": "52b1bfa8103c91c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecurity - Online Learning/Google Cybersecurity/1.1 Foundations of Cybersecurity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "012352ca5ed9ed20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/1.1 Linux Fundamentals - Introduction.md",
+                "file": "New notes/3. Lesson.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
-    "collapsed": true
+    "width": 274.5
   },
   "right": {
     "id": "ab69aceb5aed668e",
@@ -131,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecurity - Online Learning/Google Cybersecurity/1.1 Foundations of Cybersecurity.md",
+                "file": "New notes/3. Lesson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecurity - Online Learning/Google Cybersecurity/1.1 Foundations of Cybersecurity.md",
+                "file": "New notes/3. Lesson.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecurity - Online Learning/Google Cybersecurity/1.1 Foundations of Cybersecurity.md"
+                "file": "New notes/3. Lesson.md"
               }
             }
           },
@@ -214,8 +201,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5dace0a60efe4786",
+  "active": "52b1bfa8103c91c3",
   "lastOpenFiles": [
+    "Cyber Security Yr1/Digital Forensics/2.Computer Crime.md",
+    "New notes/3. Lesson.md",
+    "Cyber Security Yr1/Intro to databases/intro.md",
+    "CyberSecurity - Online Learning/Google Cybersecurity/1.1 Foundations of Cybersecurity.md",
     "Cyber Security Yr1/Porgamming C++/Setup.md",
     "Cyber Security Yr1/Porgamming C++/Setup 1.md",
     "Cyber Security Yr1/Porgamming C++/programingcplusplus.md",
@@ -224,17 +215,14 @@
     "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals - Workflow.md",
     "CyberSecurity - Online Learning/HackTheBox/1.1 Linux Fundamentals - Introduction.md",
     "Cyber Security Yr1/Intro to databases/lesson 2.md",
-    "Cyber Security Yr1/Intro to databases/intro.md",
     "Untitled 1.md",
     "Cyber Security Yr1/Digital Forensics/1.Induction.md",
-    "CyberSecurity - Online Learning/Google Cybersecurity/1.1 Foundations of Cybersecurity.md",
     "CyberSecurity - Online Learning/Google Cybersecurity/0.Google Cybersecurity.md",
     "CyberSecurity - Online Learning/Google Cybersecurity/1.2 Foundations of Cybersecurity.md",
     "Excalidraw/Drawing 2023-10-15 22.01.40.excalidraw.md",
     "Excalidraw",
     "Untitled.md",
     "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
-    "Cyber Security Yr1/Digital Forensics/2.Computer Crime.md",
     "CyberSecurity - Online Learning/z.images/LOL.md",
     "Cyber Security Yr1/Digital Forensics/0.Digital Forensics.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Certified in CyberSecurity.md",
@@ -245,7 +233,6 @@
     "[.md",
     "CyberSecurity - Online Learning/z.images/Pasted image 20231015155133.png",
     "New notes/Template.md",
-    "New notes/lol.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Official_CC_Course_Completion_Certificate_Official_ISC2_CC_Online_Self-Paced_Training_-_1M_Pazdro.pdf",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Certification-Roadmap-Brochure.pdf",
     "CyberSecurity - Online Learning/HackTheBox/0.Linux Fundamentals",
