@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New notes/3. Lesson.md",
+                "file": "General/Entertaiment.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New notes/3. Lesson.md",
+                "file": "General/Entertaiment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New notes/3. Lesson.md",
+                "file": "General/Entertaiment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New notes/3. Lesson.md"
+                "file": "General/Entertaiment.md"
               }
             }
           },
@@ -203,8 +203,9 @@
   },
   "active": "52b1bfa8103c91c3",
   "lastOpenFiles": [
-    "Cyber Security Yr1/Digital Forensics/2.Computer Crime.md",
+    "New notes/Template.md",
     "New notes/3. Lesson.md",
+    "Cyber Security Yr1/Digital Forensics/2.Computer Crime.md",
     "Cyber Security Yr1/Intro to databases/intro.md",
     "CyberSecurity - Online Learning/Google Cybersecurity/1.1 Foundations of Cybersecurity.md",
     "Cyber Security Yr1/Porgamming C++/Setup.md",
@@ -232,7 +233,6 @@
     "[[Git]].md",
     "[.md",
     "CyberSecurity - Online Learning/z.images/Pasted image 20231015155133.png",
-    "New notes/Template.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Official_CC_Course_Completion_Certificate_Official_ISC2_CC_Online_Self-Paced_Training_-_1M_Pazdro.pdf",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Certification-Roadmap-Brochure.pdf",
     "CyberSecurity - Online Learning/HackTheBox/0.Linux Fundamentals",
