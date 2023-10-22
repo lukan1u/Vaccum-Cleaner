@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#settings",
+                "query": "tag:#HTB",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,6 +213,15 @@
   },
   "active": "4d64b7c57f5ce611",
   "lastOpenFiles": [
+    "New notes/22-10-2023.md",
+    "Untitled.canvas",
+    "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
+    "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals - Workflow.md",
+    "CyberSecurity - Online Learning/HackTheBox/1.1 Linux Fundamentals - Introduction.md",
+    "Cyber Security Yr1/Porgamming C++/Setup.md",
+    "Cyber Security Yr1/Porgamming C++/programingcplusplus.md",
+    "Cyber Security Yr1/Porgamming C++/cplusplus.md",
+    "Cyber Security Yr1/Porgamming C++/Git.md",
     "CyberSecurity - Online Learning/CERTIFICATIONS.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.1 Module - Security Operations.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.2 Module - Security Operations.md",
@@ -234,16 +243,7 @@
     "CyberSecurity - Online Learning/Google Cybersecurity/0.Google Cybersecurity.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.4 Module - Network Security.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.3 Module - Network Security.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.2 Module - Network Security.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.3 Module  - Access Control.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.2 Module  - Access Control.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.1 Module  - Access Control.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.2 Module  - IRBCDR.md",
     "General/Books/Computer networking a top-down approach.pdf",
-    "New notes/Template.md",
-    "New notes/hi.md",
-    "New notes/22-10-2023.md",
-    "Untitled.md",
     "General/Photos/Pasted image 20230926175326.png",
     "General/Photos/EDU-ELCC-70245f-techart-Intrusion_Prevention_System-v04.svg",
     "General/Photos/EDU-ELCC-01965-techart-fully_redundant_data_center-v04.svg",
@@ -262,7 +262,6 @@
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "Untitled 1.canvas"
   ]
 }

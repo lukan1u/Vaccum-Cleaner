@@ -4,7 +4,7 @@ Summary: All git commands
 ---
 # All Git commands and setups
 ---
-#settings #uwe #git #cplusplus 
+#uwe #git #cplusplus 
 Table of contents >>> [[cplusplus]]
 
 ## Git cheat sheet
