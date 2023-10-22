@@ -114,6 +114,4 @@ C:\Users\lukas\OneDrive - UWE Bristol\Vaccum-Cleaner>git push --all origin
 fatal: unable to access 'https://github.com/lukan1u/Vaccum-Cleaner.git/': Recv failure: Connection was reset
 ```
 Fix:
-```FIX
-git config --global --unset https.proxy
-```
+`git config --global --unset https.proxy`
