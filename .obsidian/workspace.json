@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/1.1 Linux Fundamentals - Introduction.md",
-                "mode": "source",
+                "file": "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals - Workflow.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecurity - Online Learning/Google Cybersecurity/1.2 Foundations of Cybersecurity.md",
+                "file": "CyberSecurity - Online Learning/Google Cybersecurity/1.1 Foundations of Cybersecurity.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,8 +51,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecurity - Online Learning/Google Cybersecurity/1.2 Foundations of Cybersecurity.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals - Workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecurity - Online Learning/Google Cybersecurity/1.2 Foundations of Cybersecurity.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals - Workflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecurity - Online Learning/Google Cybersecurity/1.2 Foundations of Cybersecurity.md"
+                "file": "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals - Workflow.md"
               }
             }
           },
@@ -179,9 +178,19 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "524eeda6b4bf6d52",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals - Workflow.md"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -198,15 +207,27 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-projects:Open projects": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "52b1bfa8103c91c3",
+  "active": "4d64b7c57f5ce611",
   "lastOpenFiles": [
-    "CyberSecurity - Online Learning/CERTIFICATIONS.md",
     "CyberSecurity - Online Learning/Google Cybersecurity/1.2 Foundations of Cybersecurity.md",
     "CyberSecurity - Online Learning/Google Cybersecurity/1.1 Foundations of Cybersecurity.md",
     "CyberSecurity - Online Learning/Google Cybersecurity/0.Google Cybersecurity.md",
+    "General/z.ALL Photos/Pasted image 20230926175326.png",
+    "General/z.ALL Photos/EDU-ELCC-70245f-techart-Intrusion_Prevention_System-v04.svg",
+    "General/z.ALL Photos/EDU-ELCC-01965-techart-fully_redundant_data_center-v04.svg",
+    "General/z.ALL Photos/EDU-ELCC-01675-techart-traditional_vs_nextgen_firewalls-v03.svg",
+    "General/z.ALL Photos/20230926_133424.jpg",
+    "General/z.ALL Photos/20230926_132743.jpg",
+    "General/z.ALL Photos/Pasted image 20231015163321.png",
+    "General/z.ALL Photos/Pasted image 20231003115626.png",
+    "General/z.ALL Photos/Pasted image 20231003112123.png",
+    "General/Entertaiment.md",
+    "CyberSecurity - Online Learning/HackTheBox/1.1 Linux Fundamentals - Introduction.md",
+    "CyberSecurity - Online Learning/CERTIFICATIONS.md",
     "Cyber Security Yr1/Porgamming C++/Setup.md",
     "Cyber Security Yr1/Porgamming C++/programingcplusplus.md",
     "Cyber Security Yr1/Porgamming C++/Git.md",
@@ -214,13 +235,11 @@
     "Cyber Security Yr1/Digital Forensics/2.Computer Crime.md",
     "Cyber Security Yr1/Digital Forensics/1.Induction.md",
     "Cyber Security Yr1/Digital Forensics/0.Digital Forensics.md",
-    "General/Entertaiment.md",
     "New notes/Template.md",
     "New notes/3. Lesson.md",
     "Cyber Security Yr1/Intro to databases/intro.md",
     "Cyber Security Yr1/Porgamming C++/Setup 1.md",
     "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals - Workflow.md",
-    "CyberSecurity - Online Learning/HackTheBox/1.1 Linux Fundamentals - Introduction.md",
     "Cyber Security Yr1/Intro to databases/lesson 2.md",
     "Untitled 1.md",
     "Excalidraw/Drawing 2023-10-15 22.01.40.excalidraw.md",
@@ -230,9 +249,6 @@
     "CyberSecurity - Online Learning/z.images/LOL.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Certified in CyberSecurity.md",
     "General/z.ALL Photos/Pasted image 20231015163329.png",
-    "General/z.ALL Photos/Pasted image 20231015163321.png",
-    "[[Git]].md",
-    "CyberSecurity - Online Learning/z.images/Pasted image 20231015155133.png",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Official_CC_Course_Completion_Certificate_Official_ISC2_CC_Online_Self-Paced_Training_-_1M_Pazdro.pdf",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Certification-Roadmap-Brochure.pdf",
     "CyberSecurity - Online Learning/HackTheBox/0.Linux Fundamentals",
@@ -240,13 +256,6 @@
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 3_Takeaway.pdf",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 5_Takeaway.pdf",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Unconfirmed 634667.crdownload",
-    "CyberSecurity - Online Learning/z.images/EDU-ELCC-00685-techart-hash_values-v01.svg",
-    "CyberSecurity - Online Learning/z.images/EDU-ELCC-00680-techart-hash_ops-v05.svg",
-    "CyberSecurity - Online Learning/z.images/EDU-ELCC-00655-techart-asymmetric_crypto-v03.svg",
-    "CyberSecurity - Online Learning/z.images/EDU-ELCC-70635-techart-Symmetric_Encryption_via_Decoding_Ring-v01.svg",
-    "CyberSecurity - Online Learning/z.images/EDU-ELCC-00553-techart-Use_of_symmetric_algorithms-v07.svg",
-    "CyberSecurity - Online Learning/z.images/EDU-ELCC-70565-crypto_system_components.svg",
-    "CyberSecurity - Online Learning/z.images/Pasted image 20231005215729.png",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 1_Takeaway.pdf",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 4_Takeaway.pdf",
     "Untitled 4.canvas",

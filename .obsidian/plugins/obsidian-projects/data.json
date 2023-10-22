@@ -98,6 +98,40 @@
       "name": "Demo project",
       "id": "0ce96450-7cb7-4222-b0b7-5e17ca8d7deb",
       "path": "Projects - Demo Project"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "General",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "030ddad3-e46e-41b3-b18b-cac6e2405774",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "9a13185a-69db-4b68-b2de-492491f78486",
+      "name": "General"
     }
   ],
   "preferences": {
