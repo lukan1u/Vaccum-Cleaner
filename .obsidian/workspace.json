@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security Yr1/Porgamming C++/Git.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals - Workflow.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security Yr1/Porgamming C++/Git.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals - Workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security Yr1/Porgamming C++/Git.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals - Workflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security Yr1/Porgamming C++/Git.md"
+                "file": "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals - Workflow.md"
               }
             }
           },
@@ -185,7 +185,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Cyber Security Yr1/Porgamming C++/Git.md"
+                "file": "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals - Workflow.md"
               }
             }
           }
@@ -213,15 +213,17 @@
   },
   "active": "4d64b7c57f5ce611",
   "lastOpenFiles": [
-    "New notes/22-10-2023.md",
+    "General/Photos/Pasted image 20231022181446.png",
     "Untitled.canvas",
-    "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
     "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals - Workflow.md",
+    "General/Photos/Pasted image 20231022181123.png",
+    "Cyber Security Yr1/Porgamming C++/Git.md",
+    "New notes/22-10-2023.md",
+    "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
     "CyberSecurity - Online Learning/HackTheBox/1.1 Linux Fundamentals - Introduction.md",
     "Cyber Security Yr1/Porgamming C++/Setup.md",
     "Cyber Security Yr1/Porgamming C++/programingcplusplus.md",
     "Cyber Security Yr1/Porgamming C++/cplusplus.md",
-    "Cyber Security Yr1/Porgamming C++/Git.md",
     "CyberSecurity - Online Learning/CERTIFICATIONS.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.1 Module - Security Operations.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.2 Module - Security Operations.md",
@@ -249,7 +251,6 @@
     "General/Photos/EDU-ELCC-01965-techart-fully_redundant_data_center-v04.svg",
     "General/Photos/EDU-ELCC-01675-techart-traditional_vs_nextgen_firewalls-v03.svg",
     "General/Photos/20230926_133424.jpg",
-    "General/Photos/20230926_132743.jpg",
     "Excalidraw",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Official_CC_Course_Completion_Certificate_Official_ISC2_CC_Online_Self-Paced_Training_-_1M_Pazdro.pdf",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Certification-Roadmap-Brochure.pdf",
