@@ -98,8 +98,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -202,10 +201,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f494982d1e53a2c0",
+  "active": "52b1bfa8103c91c3",
   "lastOpenFiles": [
-    "CyberSecurity - Online Learning/Google Cybersecurity/1.1 Foundations of Cybersecurity.md",
+    "CyberSecurity - Online Learning/CERTIFICATIONS.md",
     "CyberSecurity - Online Learning/Google Cybersecurity/1.2 Foundations of Cybersecurity.md",
+    "CyberSecurity - Online Learning/Google Cybersecurity/1.1 Foundations of Cybersecurity.md",
+    "CyberSecurity - Online Learning/Google Cybersecurity/0.Google Cybersecurity.md",
     "Cyber Security Yr1/Porgamming C++/Setup.md",
     "Cyber Security Yr1/Porgamming C++/programingcplusplus.md",
     "Cyber Security Yr1/Porgamming C++/Git.md",
@@ -222,7 +223,6 @@
     "CyberSecurity - Online Learning/HackTheBox/1.1 Linux Fundamentals - Introduction.md",
     "Cyber Security Yr1/Intro to databases/lesson 2.md",
     "Untitled 1.md",
-    "CyberSecurity - Online Learning/Google Cybersecurity/0.Google Cybersecurity.md",
     "Excalidraw/Drawing 2023-10-15 22.01.40.excalidraw.md",
     "Excalidraw",
     "Untitled.md",
@@ -231,7 +231,6 @@
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Certified in CyberSecurity.md",
     "General/z.ALL Photos/Pasted image 20231015163329.png",
     "General/z.ALL Photos/Pasted image 20231015163321.png",
-    "CyberSecurity - Online Learning/Certifications I am interested in.md",
     "[[Git]].md",
     "CyberSecurity - Online Learning/z.images/Pasted image 20231015155133.png",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Official_CC_Course_Completion_Certificate_Official_ISC2_CC_Online_Self-Paced_Training_-_1M_Pazdro.pdf",
