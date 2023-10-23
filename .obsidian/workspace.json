@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/1.1 Linux Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5110321044922,
-    "collapsed": true
+    "width": 296.5110321044922
   },
   "right": {
     "id": "ab69aceb5aed668e",
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/1.1 Linux Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/1.1 Linux Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals.md"
+                "file": "CyberSecurity - Online Learning/HackTheBox/1.1 Linux Fundamentals.md"
               }
             }
           },
@@ -187,7 +186,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals.md"
+                "file": "CyberSecurity - Online Learning/HackTheBox/1.1 Linux Fundamentals.md"
               }
             }
           }
@@ -215,9 +214,9 @@
   },
   "active": "19c713d6e0faa9c6",
   "lastOpenFiles": [
+    "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals.md",
     "General/Photos/Pasted image 20231023201757.png",
     "CyberSecurity - Online Learning/HackTheBox/1.1 Linux Fundamentals.md",
-    "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals.md",
     "Cyber Security Yr1/Digital Forensics/2.Computer Crime.md",
     "CyberSecurity - Online Learning/CERTIFICATIONS.md",
     "General/Photos/Pasted image 20231022181446.png",
@@ -252,7 +251,6 @@
     "General/Photos/Pasted image 20230926175326.png",
     "General/Photos/EDU-ELCC-70245f-techart-Intrusion_Prevention_System-v04.svg",
     "General/Photos/EDU-ELCC-01965-techart-fully_redundant_data_center-v04.svg",
-    "General/Photos/EDU-ELCC-01675-techart-traditional_vs_nextgen_firewalls-v03.svg",
     "Excalidraw",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Official_CC_Course_Completion_Certificate_Official_ISC2_CC_Online_Self-Paced_Training_-_1M_Pazdro.pdf",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Certification-Roadmap-Brochure.pdf",
