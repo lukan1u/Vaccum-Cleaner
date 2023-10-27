@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security Yr1/Porgamming C++/programingcplusplus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security Yr1/Porgamming C++/programingcplusplus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cyber Security Yr1/Porgamming C++/programingcplusplus.md"
-              }
+              "state": {}
             }
           },
           {
@@ -185,9 +181,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Cyber Security Yr1/Porgamming C++/programingcplusplus.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -212,11 +206,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "19c713d6e0faa9c6",
+  "active": "67de602203a44322",
   "lastOpenFiles": [
+    "Cyber Security Yr1/Porgamming C++/programingcplusplus.md",
     "Cyber Security Yr1/Porgamming C++/cplusplus.md",
     "Cyber Security Yr1/Porgamming C++/Git.md",
-    "Cyber Security Yr1/Porgamming C++/programingcplusplus.md",
     "Cyber Security Yr1/Porgamming C++/Setup.md",
     "Cyber Security Yr1/Digital Forensics/2.Computer Crime.md",
     "Cyber Security Yr1/Digital Forensics/1.Induction.md",
