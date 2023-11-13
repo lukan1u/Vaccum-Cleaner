@@ -1,10 +1,10 @@
 ---
 Date: 2023-10-03T12:45:00
-Summary:
+Summary: To understand what digital forensics is. What crime is.
 ---
 # Crime
 ---
-#digital-forensics  #uwe
+#digital-forensics  #uwe #year1
 Table of contents >>>  [[0.Digital Forensics]]
 Previous page >>> [[1.Induction]]
 Next Page >>> [[Computer Crime - week 8]]
@@ -23,10 +23,19 @@ Next Page >>> [[Computer Crime - week 8]]
 2. **Subject of crime** (computer infected by malware)
 3. **Tool for conduction** or planning a crime
 4. **Symbol** to create false impression (especially in the financial sector)
-#### Participles of digital forensics
-Forensic Science is a field of study that involves the application of scientific methods to investigate legal cases. It provides a wide range of investigative techniques and methods that have been proven to achieve reliable results. Forensic evidence is characterized by its suitability for admission as fact and its ability to persuade based upon proof or high statistical confidence
-- Decisions are based on **solid evidence**
-- "**Certainty**" should be **used with extra care** as we cannot always proof of what actually has happend.
+
+---
+## Principles of digital forensics
+- Forensic Science is a field of study that involves the application of scientific methods to investigate legal cases. It provides a wide range of investigative techniques and methods that have been proven to achieve reliable results. Forensic evidence is characterized by its suitability for admission as fact and its ability to persuade based upon proof or high statistical confidence.
+- Decisions are based on **solid evidence** and "Certainty" should be **used with extra care** as we cannot always proof of what actually has happened.
+#### Evidence exchange
+- Aim of investigation is to **follow trails** that offenders leave and **tie perpetrators** to the victim and crime scenes.
+- Any contact between two items *(subjects)* will result in exchange:
+	- Offender - victim, person - weapon, people - crime scene
+- There will always be **evidence of interaction** however absence itself is not the evidence of absence.
+- Just like in the real world **same rules apply to physical and digital** world such as fingerprints on victim's keyboard could  be a possible proof of murder.
+![[Pasted image 20231003131437.png]]
+
 
 
 ---
@@ -45,16 +54,16 @@ There are *3 categories* for digital evidence:
 - **Communications systems**  - (traditional telephone systems wireless communications system SMS messages)
 - **Embedded computer systems**  - mobile devices, smart cards, activity trackers wearable watches
 
+----
+
+### Digital Forensics scope
+1. **Computer forensics** - preservation and analysis of computers also called file sytem forensics
+2. **Network forensics** - preservation and analysis of traffic and logs from networks
+3. **Mobile device forensics** - preservation and analysis of cell phones and smart phones and satellite navigation
+4. **Malware forensics** - preservation and analysis of malicious code such as viruses worms anf trojan horse programs
+5. **Cloud forensics**
 
 
-**Specialist fields:**
-1. Computer forensics - preservation and analysis of computers also called file sytem forensics
-2. Network forensics - preservation and analysis of traffic and logs from networks
-3. mobile device forensics - preservation and analysis of cell phones and smart phones and satellite navigation
-4. malware forensics
-5. cloud forensics
-
-![[Pasted image 20231003131437.png]]
 
 
 #### Links
