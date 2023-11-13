@@ -7,7 +7,7 @@ Summary:
 #digital-forensics  #uwe
 Table of contents >>>  [[0.Digital Forensics]]
 Previous page >>> [[1.Induction]]
-Next Page >>>
+Next Page >>> [[Computer Crime - week 8]]
 
 ## Computer Crime 
 ---
@@ -17,7 +17,7 @@ Next Page >>>
 
 - **Digital evidence** is defined as any data stored or transferred using a computer that support and refute a theory of how an offence occurred or that address critical elements of the offence such a intent or alibi.
 	- All digital evidence have same rules and laws as documentary evidence
-- There are 3 categories for digital evidence:
+- There are *3 categories* for digital evidence:
 	- Open computer systems (hard drives laptops, desktops)
 	- Communications systems (traditional telephone systems wireless communications system SMS messages)
 	- Embedded computer systems mobile devices, smart cards, activity trackers wearable watches
