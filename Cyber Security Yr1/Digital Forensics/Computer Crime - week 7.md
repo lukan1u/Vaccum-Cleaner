@@ -1,6 +1,6 @@
 ---
 Date: 2023-10-03T12:45:00
-Summary: To understand what digital forensics is. What crime is.
+Summary: To understand what digital forensics is. What crime is. Most important part is the forensics principles
 ---
 # Crime
 ---
@@ -27,10 +27,9 @@ Next Page >>> [[Computer Crime - week 8]]
 ---
 ## Principles of digital forensics
 
-^3c8ca6
-
 - Forensic Science is a field of study that involves the application of scientific methods to investigate legal cases. It provides a wide range of investigative techniques and methods that have been proven to achieve reliable results. Forensic evidence is characterized by its suitability for admission as fact and its ability to persuade based upon proof or high statistical confidence.
 - Decisions are based on **solid evidence** and "Certainty" should be **used with extra care** as we cannot always proof of what actually has happened.
+
 #### Evidence exchange
 - Aim of investigation is to **follow trails** that offenders leave and **tie perpetrators** to the victim and crime scenes.
 - Any contact between two items *(subjects)* will result in exchange:
@@ -61,6 +60,25 @@ All evidence must be preserved and examined in a forensically sound manner. That
 #### Chain of custody
 - Continuity of possession
 - Each person that handled the evidence needs to be noted down keeping a chain of custody
+
+#### Evidence Integrity
+- To show that evidence has not been altered since it was collected
+- Supports the authentication phase
+- Comparison of the evidence fingerprint (hash value ) at the time of collection with the fingerprint of the evidence in its current state.
+![[Pasted image 20231115225818.png]]
+
+- Hash value are represented in hexadecimal 128bit value
+- There number of possible values for one hash value is 2^128 therefore a 2 files with the same hash value have the same content. Also the process cannot be reversed.
+
+#### Objectivity
+- Evidence should be free from bias
+- Always provide clearest possible view of facts
+- Conclusions have to be supported by factual evidence
+
+#### Repeatability
+- Other forensic analysts should be able to follow the same process and get the same result.
+- Any experiments or observations must be **repeatable in order to be independently verified.**
+-  All steps should be documented so others can follow instructions and verify evidence independently.
 
 
 

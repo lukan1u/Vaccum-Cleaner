@@ -34,7 +34,7 @@
   "macros": [],
   "inputPrompt": "single-line",
   "devMode": false,
-  "templateFolderPath": "New notes/Template",
+  "templateFolderPath": "General/Templates/Template",
   "announceUpdates": true,
   "version": "1.2.1",
   "disableOnlineFeatures": false,
