@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "83196d7538c06861",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security Yr1/Digital Forensics/Computer Crime - week 7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5110321044922,
-    "collapsed": true
+    "width": 279.5110321044922
   },
   "right": {
     "id": "ab69aceb5aed668e",
@@ -113,15 +125,8 @@
             "id": "3e09bdf49addec9f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled 2.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -201,21 +206,22 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0ef0ead9888a3599",
+  "active": "83196d7538c06861",
   "lastOpenFiles": [
-    "Untitled 2.canvas",
-    "Cyber Security Yr1/Digital Forensics/Computer Crime - week 7.md",
-    "Cyber Security Yr1/Digital Forensics/0.Digital Forensics.md",
     "Cyber Security Yr1/Digital Forensics/1.Induction.md",
+    "New notes/Documentation notes for the assessment.md",
+    "New notes/[Computer Crime - week 7.md",
+    "Untitled.canvas",
+    "Cyber Security Yr1/Digital Forensics/Computer Crime - week 7.md",
+    "Untitled 2.canvas",
+    "Cyber Security Yr1/Digital Forensics/0.Digital Forensics.md",
     "CyberSecurity - Online Learning/HackTheBox/1.3 Linux Fundamentals - System Management.md",
     "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals - Workflow.md",
     "Cyber Security Yr1/Porgamming C++/programingcplusplus.md",
     "Untitled 1.canvas",
-    "Untitled.canvas",
     "New notes/referencing tool.md",
     "CyberSecurity - Online Learning/HackTheBox/1.1 Linux Fundamentals - Shell.md",
     "New notes/Seminar C++.md",
-    "New notes/Untitled.md",
     "New notes/Template.md",
     "Cyber Security Yr1/Intro to databases/intro.md",
     "Cyber Security Yr1/Intro to databases/lesson 2.md",
@@ -233,7 +239,6 @@
     "General/Photos/Pasted image 20231022181446.png",
     "General/Photos/Pasted image 20231022181123.png",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.1 Module - Security Operations.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.2 Module - Security Operations.md",
     "General/Photos/z.images/EDU-ELCC-70245b-What_is_Wifi-techart-v06.svg",
     "General/Photos/z.images/EDU-ELCC-01685-techart-conceptual_defense_in_depth_small_server_environment-v01.svg",
     "General/Photos/z.images/EDU-ELCC-00655-techart-asymmetric_crypto-v03.svg",

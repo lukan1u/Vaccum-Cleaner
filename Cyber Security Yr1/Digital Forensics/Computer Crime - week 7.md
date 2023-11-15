@@ -19,13 +19,16 @@ Next Page >>> [[Computer Crime - week 8]]
 - **Digital Forensics Science** (full definition) - The use of **scientifically derived and proven methods** toward the  preservation, collection, validation, identification, analysis,  interpretation, documentation and presentation of digital evidence  derived from digital sources for the purpose of facilitating or  furthering the reconstruction of events found to be criminal, or  helping to anticipate unauthorized actions shown to be disruptive to  planned operations.
 
 #### Crime breakdown
-1. **Object of a crime** (stolen destroyed)
+1. **Object of a crime** (stolen/destroyed)
 2. **Subject of crime** (computer infected by malware)
 3. **Tool for conduction** or planning a crime
 4. **Symbol** to create false impression (especially in the financial sector)
 
 ---
 ## Principles of digital forensics
+
+^3c8ca6
+
 - Forensic Science is a field of study that involves the application of scientific methods to investigate legal cases. It provides a wide range of investigative techniques and methods that have been proven to achieve reliable results. Forensic evidence is characterized by its suitability for admission as fact and its ability to persuade based upon proof or high statistical confidence.
 - Decisions are based on **solid evidence** and "Certainty" should be **used with extra care** as we cannot always proof of what actually has happened.
 #### Evidence exchange
@@ -35,6 +38,29 @@ Next Page >>> [[Computer Crime - week 8]]
 - There will always be **evidence of interaction** however absence itself is not the evidence of absence.
 - Just like in the real world **same rules apply to physical and digital** world such as fingerprints on victim's keyboard could  be a possible proof of murder.
 ![[Pasted image 20231003131437.png]]
+
+#### Evidence attributes/charactiristics
+The evidence can also be identified in two ways
+- **Class characteristics** - common traits in similar items such as document encryption (Microsoft word version)
+- **Individual characteristics** - unique traits such as printer's ability to mark every page with easily identifiable code used to prevent money printing.
+
+#### Forensic soundness
+All evidence must be preserved and examined in a forensically sound manner. That being said any forensic activity on original device can alter its state. Therefore the need for **documentation** is important. **Documentation** should include:
+- Where the evidence originated and how it was handled 
+- The acquisition process should change the original evidence as little as possible
+- Any changes should be documented and assessed
+- Document date and time data were preserved and tools used
+- MD5 has values of all outputs
+
+#### Authentication
+- The process of ensuring that the recovered evidence is the same as the originally seized data
+- **Use of hashes**
+- The individual who collected the evidence can confirm that the evidence presented in the court is the same as when it was collected
+- Sys admin can testify that log files presented in court originated from his/her system
+
+#### Chain of custody
+- Continuity of possession
+- Each person that handled the evidence needs to be noted down keeping a chain of custody
 
 
 
@@ -52,7 +78,8 @@ Next Page >>> [[Computer Crime - week 8]]
 There are *3 categories* for digital evidence:
 - **Open computer systems**  - (hard drives laptops, desktops)
 - **Communications systems**  - (traditional telephone systems wireless communications system SMS messages)
-- **Embedded computer systems**  - mobile devices, smart cards, activity trackers wearable watches
+- **Embedded computer systems**  - mobile devices, smart cards, activity trackers wearable watches.
+- 
 
 ----
 
