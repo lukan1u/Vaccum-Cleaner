@@ -5,8 +5,8 @@ Summary: To understand what digital forensics is. What crime is. Most important 
 # Crime
 ---
 #digital-forensics  #uwe #year1
-Table of contents >>>  [[0.Digital Forensics]]
-Previous page >>> [[1.Induction]]
+Table of contents >>>  [[Digital Forensics]]
+Previous page >>> [[Induction Digital Forensics]]
 Next Page >>> [[Computer Crime - week 8]]
 
 ## What is Digital forensics

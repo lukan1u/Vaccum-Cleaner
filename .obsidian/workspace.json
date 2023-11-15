@@ -13,31 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New notes/for assessment report digital forensics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cef54116be05cde2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber Security Yr1/Porgamming C++/cplusplus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5224c46c6a12204f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/Templates/Template.md",
+                "file": "Cyber Security Yr1/Digital Forensics/for assessment report digital forensics.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +25,94 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security Yr1/Digital Forensics/1.Induction.md",
+                "file": "Cyber Security Yr1/Digital Forensics/Induction Digital Forensics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7658311584243b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security Yr1/Digital Forensics/Computer Crime - week 7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aecf0fd7e9b9ffcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security Yr1/Digital Forensics/Lab 1 Week 8 - digital forensics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4be3db68b529a819",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security Yr1/Digital Forensics/Lab 1 Week 8 - digital forensics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "137818e8c1f06571",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security Yr1/Digital Forensics/Digital Forensics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "629cad0e4f37bf44",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "102fa882f7797280",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security Yr1/Digital Forensics/Computer Crime - week 7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9df5342e8ac10e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security Yr1/Digital Forensics/Lab 1 Week 8 - digital forensics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -85,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#lab",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Templates/Template.md",
+                "file": "Cyber Security Yr1/Digital Forensics/Lab 1 Week 8 - digital forensics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/Templates/Template.md",
+                "file": "Cyber Security Yr1/Digital Forensics/Lab 1 Week 8 - digital forensics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/Templates/Template.md"
+                "file": "Cyber Security Yr1/Digital Forensics/Lab 1 Week 8 - digital forensics.md"
               }
             }
           },
@@ -187,7 +243,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "General/Templates/Template.md"
+                "file": "Cyber Security Yr1/Digital Forensics/Lab 1 Week 8 - digital forensics.md"
               }
             }
           }
@@ -230,17 +286,24 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5224c46c6a12204f",
+  "active": "b9df5342e8ac10e4",
   "lastOpenFiles": [
+    "Cyber Security Yr1/Digital Forensics/Induction Digital Forensics.md",
+    "Cyber Security Yr1/Digital Forensics/for assessment report digital forensics.md",
+    "Cyber Security Yr1/Intro to databases/intro.md",
+    "Cyber Security Yr1/Digital Forensics/Digital Forensics.md",
+    "Cyber Security Yr1/Digital Forensics/Lab 1 Week 8 - digital forensics.md",
+    "New notes/Computer Crime - week 8.md",
     "New notes/referencing tool.md",
-    "New notes/for assessment report digital forensics.md",
-    "Cyber Security Yr1/Digital Forensics/1.Induction.md",
-    "Cyber Security Yr1/Digital Forensics/0.Digital Forensics.md",
     "General/Templates/Template.md",
+    "Cyber Security Yr1/Digital Forensics/Computer Crime - week 7.md",
+    "New notes/Untitled.md",
+    "CyberSecurity - Online Learning/Google Cybersecurity/1.2 Foundations of Cybersecurity.md",
+    "New notes/1.3 Foundations of Cybersecurity.md",
     "Cyber Security Yr1/Porgamming C++/cplusplus.md",
+    "New notes/hi.md",
     "Cyber Security Yr1/Porgamming C++/Git.md",
     "General/Templates",
-    "Cyber Security Yr1/Digital Forensics/Computer Crime - week 7.md",
     "New notes/Untitled 2.md",
     "New notes/Untitled 1.md",
     "General/Photos/Pasted image 20231115225818.png",
@@ -254,13 +317,8 @@
     "Untitled 1.canvas",
     "CyberSecurity - Online Learning/HackTheBox/1.1 Linux Fundamentals - Shell.md",
     "New notes/Seminar C++.md",
-    "Cyber Security Yr1/Intro to databases/intro.md",
     "Cyber Security Yr1/Intro to databases/lesson 2.md",
     "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
-    "Cyber Security Yr1/Porgamming C++/Setup.md",
-    "Tomorrows plan.md",
-    "CyberSecurity - Online Learning/Google Cybersecurity/1.1 Foundations of Cybersecurity.md",
-    "CyberSecurity - Online Learning/Google Cybersecurity/1.2 Foundations of Cybersecurity.md",
     "General/Photos/Pasted image 20231023201757.png",
     "General/Photos/Pasted image 20231022181446.png",
     "General/Photos/Pasted image 20231022181123.png",

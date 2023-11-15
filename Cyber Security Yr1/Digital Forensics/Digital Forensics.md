@@ -1,10 +1,15 @@
 ## Table of contents
 ---
-#digital-forensics #uwe 
-[[1.Induction]] --> basic info
-[[Computer Crime - week 7]] >>> Understanding the digital forensics
+#digital-forensics #uwe #year1 
+[[Induction Digital Forensics]] --> basic info
+[[Computer Crime - week 7]]>>> Understanding the digital forensics
+[[Computer Crime - week 8]] >>> imaging
 
 
+
+## Labs
+---
+[[Lab 1 Week 8 - digital forensics]] - hash values
 
 specialised assessment notes
 [[for assessment report digital forensics]] 
