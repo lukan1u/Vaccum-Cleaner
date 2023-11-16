@@ -97,7 +97,6 @@ There are *3 categories* for digital evidence:
 - **Open computer systems**  - (hard drives laptops, desktops)
 - **Communications systems**  - (traditional telephone systems wireless communications system SMS messages)
 - **Embedded computer systems**  - mobile devices, smart cards, activity trackers wearable watches.
-- 
 
 ----
 
