@@ -4,7 +4,7 @@ Summary: boring basics of the module
 ---
 # Digital crime & Forensic
 ---
-#digital-forensics #uwe
+#digital-forensics #uwe #year1
 Table of contents >>> [[Digital Forensics]]
 Previous page >>> [[Digital Forensics]]
 Next Page >>>[[Computer Crime - week 7]]

@@ -25,31 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security Yr1/Digital Forensics/Induction Digital Forensics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7658311584243b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber Security Yr1/Digital Forensics/Computer Crime - week 7.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aecf0fd7e9b9ffcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber Security Yr1/Digital Forensics/Lab 1 Week 8 - digital forensics.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/1.3 Linux Fundamentals - System Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,27 +56,7 @@
             }
           },
           {
-            "id": "629cad0e4f37bf44",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "102fa882f7797280",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber Security Yr1/Digital Forensics/Computer Crime - week 7.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9df5342e8ac10e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -112,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security Yr1/Digital Forensics/Computer Crime - week 7.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/1.3 Linux Fundamentals - System Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security Yr1/Digital Forensics/Computer Crime - week 7.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/1.3 Linux Fundamentals - System Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security Yr1/Digital Forensics/Computer Crime - week 7.md"
+                "file": "CyberSecurity - Online Learning/HackTheBox/1.3 Linux Fundamentals - System Management.md"
               }
             }
           },
@@ -244,7 +200,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Cyber Security Yr1/Digital Forensics/Computer Crime - week 7.md"
+                "file": "CyberSecurity - Online Learning/HackTheBox/1.3 Linux Fundamentals - System Management.md"
               }
             }
           }
@@ -270,7 +226,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5,
+    "width": 395.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -287,14 +243,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b9df5342e8ac10e4",
+  "active": "ed0bc27fb7155351",
   "lastOpenFiles": [
-    "Cyber Security Yr1/Digital Forensics/Computer Crime - week 8.md",
-    "Cyber Security Yr1/Digital Forensics/Computer Crime - week 7.md",
-    "Cyber Security Yr1/Digital Forensics/Digital Forensics.md",
-    "Cyber Security Yr1/Digital Forensics/for assessment report digital forensics.md",
+    "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
     "Cyber Security Yr1/Digital Forensics/Induction Digital Forensics.md",
+    "Cyber Security Yr1/Digital Forensics/for assessment report digital forensics.md",
+    "Cyber Security Yr1/Digital Forensics/Computer Crime - week 7.md",
     "Cyber Security Yr1/Digital Forensics/Lab 1 Week 8 - digital forensics.md",
+    "Cyber Security Yr1/Digital Forensics/Computer Crime - week 8.md",
+    "Cyber Security Yr1/Digital Forensics/Digital Forensics.md",
     "Cyber Security Yr1/Intro to databases/intro.md",
     "Cyber Security Yr1/Digital Forensics/referencing tool.md",
     "General/Templates/Template.md",
@@ -319,7 +276,6 @@
     "CyberSecurity - Online Learning/HackTheBox/1.1 Linux Fundamentals - Shell.md",
     "New notes/Seminar C++.md",
     "Cyber Security Yr1/Intro to databases/lesson 2.md",
-    "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
     "General/Photos/Pasted image 20231023201757.png",
     "General/Photos/Pasted image 20231022181446.png",
     "General/Photos/Pasted image 20231022181123.png",
