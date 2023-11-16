@@ -1,6 +1,6 @@
 ---
 Date: 2023-11-16T13:49:00
-Summary:
+Summary: evidence collection (dead and alive). live acquisition is the most preferable way to get access to data. Different types of forensics such as cloud or mobile.
 ---
 # DFOR process and Data representation
 ---
@@ -61,8 +61,10 @@ Data is represented by hex, binary etc. In binary 2 bits give us 4 different val
 **ASCII**  - American standard for coding for information interchange
 
 **Endianness** (little endian, big endian) - meaning how you interpret the data. **Little endian** means that the low-order bye of the number is stored in memory at the lowest address and the high-order byte at the highest address. (the little end comes first) **Big endian** is the opposite of the little endian.
-- Intel cpu use little endian byte order
+- Intel CPU use little endian byte order
 - Macs use big endian byte order
+![[Pasted image 20231116161601.png]]
+
 
 *Cyberchef is useful for capture the flag
 Encase will decode file information if needed* 
