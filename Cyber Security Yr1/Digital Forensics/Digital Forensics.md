@@ -4,6 +4,7 @@
 [[Induction Digital Forensics]] --> basic info
 [[Computer Crime - week 7]]>>> Understanding the digital forensics
 [[Computer Crime - week 8]] >>> imaging
+[[Computer Crime - Week 9]] >>>
 
 
 
