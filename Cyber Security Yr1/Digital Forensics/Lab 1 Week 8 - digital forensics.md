@@ -9,9 +9,9 @@ Summary: FTK imager and DD tool
 Table of contents >>> [[Digital Forensics]]
 Next lab >>> [[Lab 2 Week 9 - digital forensics]]
 
-## Kali imaginga
+## Kali imaging
 ---
-Issue with this task is that **depending on USB** it Linux may not be able to detect it. Remeber to find solution to this.
+Issue with this task is that **depending on USB** it Linux may not be able to detect it. Remember to find solution to this.
 
 it lists all connected drives:
 `sudo fdisk -l`  & `lsusb`
