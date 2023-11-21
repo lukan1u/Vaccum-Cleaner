@@ -8,5 +8,6 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "New notes",
-  "attachmentFolderPath": "General/Photos"
+  "attachmentFolderPath": "General/Photos",
+  "promptDelete": false
 }
