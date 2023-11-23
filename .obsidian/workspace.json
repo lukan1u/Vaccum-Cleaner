@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New notes/Computer Crime - Week 9.md",
+                "file": "New notes/Lab 2 Week 9 - digital forensics.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New notes/Computer Crime - Week 9.md",
+                "file": "New notes/Lab 2 Week 9 - digital forensics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New notes/Computer Crime - Week 9.md",
+                "file": "New notes/Lab 2 Week 9 - digital forensics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New notes/Computer Crime - Week 9.md"
+                "file": "New notes/Lab 2 Week 9 - digital forensics.md"
               }
             }
           },
@@ -190,7 +190,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "New notes/Computer Crime - Week 9.md"
+                "file": "New notes/Lab 2 Week 9 - digital forensics.md"
               }
             }
           }
@@ -233,8 +233,9 @@
   },
   "active": "c03bdcffbc68bf3d",
   "lastOpenFiles": [
-    "General/Photos/Pasted image 20231123222253.png",
     "Cyber Security Yr1/Digital Forensics/Digital Forensics.md",
+    "New notes/Computer Crime - Week 9.md",
+    "General/Photos/Pasted image 20231123222253.png",
     "Cyber Security Yr1/Digital Forensics/Lab 1 Week 8 - digital forensics.md",
     "Cyber Security Yr1/Digital Forensics/Computer Crime - week 7.md",
     "Cyber Security Yr1/Digital Forensics/Computer Crime - week 8.md",
@@ -251,7 +252,6 @@
     "Cyber Security Yr1/Porgamming C++/cplusplus.md",
     "General/Photos/Pasted image 20231116161601.png",
     "General/Photos/Pasted image 20231116160609.png",
-    "New notes/Computer Crime - Week 9.md",
     "General/Photos/Pasted image 20231116133053.png",
     "General/Photos/Pasted image 20231116131641.png",
     "General/Photos/Pasted image 20231116131624.png",
@@ -272,7 +272,6 @@
     "Untitled 1.canvas",
     "General/Photos/Pasted image 20231023201757.png",
     "General/Photos/Pasted image 20231022181446.png",
-    "General/Photos/Pasted image 20231022181123.png",
     "General/Books/Computer networking a top-down approach.pdf",
     "Excalidraw",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Official_CC_Course_Completion_Certificate_Official_ISC2_CC_Online_Self-Paced_Training_-_1M_Pazdro.pdf",
