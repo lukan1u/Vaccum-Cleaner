@@ -8,7 +8,7 @@ Summary: Home screen of encase
 #digital-forensics #year1 #uwe 
 Table of contents >>> [[Digital Forensics]]
 Previous page >>> [[Lab 1 Week 8 - digital forensics]]
-Next Page >>> [[Lab 1 Week 10 - digital forensics]]
+Next Page >>> [[Lab 3 Week 10 - digital forensics]]
 
 
 ## Steps I have taken:
