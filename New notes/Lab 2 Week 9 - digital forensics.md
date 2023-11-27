@@ -29,6 +29,6 @@ Next Page >>> [[Lab 1 Week 10 - digital forensics]]
 ![[Pasted image 20231127205508.png]]
 
 
-### Screen shots
+###  Additional Screen shots
 
 
