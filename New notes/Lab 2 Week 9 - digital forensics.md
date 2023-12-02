@@ -26,12 +26,15 @@ Next Page >>> [[Lab 3 Week 10 - digital forensics]]
 ### Navigating through the encase
 - Green plating allows you to switch focus to the particular folder and work within this one folder.
 - It panels works similar to those in windows
-- 
+- Bookmarking works by ticking the boxes 
 ![[Pasted image 20231202221711.png]]
 ### Fun facts
 - The Temp folder is used by EnCase when viewing files inside EnCase
 - The Export folder is generally used to export evidence
 ![[Pasted image 20231127205508.png]]
+
+## Autopsy
+
 
 
 ###  Additional Screen shots
