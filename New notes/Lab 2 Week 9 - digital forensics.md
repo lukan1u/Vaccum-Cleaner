@@ -21,8 +21,12 @@ Next Page >>> [[Lab 3 Week 10 - digital forensics]]
 ### Add a forensic image to the case
 - In the home screen find `add evidence`
 - add evidence basically the `Hunter XP EO1` file
+- double click on Hunter XP to see evidence
 ![[Pasted image 20231127210140.png]]
-
+### Navigating through the encase
+- Green plating allows you to switch focus to the particular folder and work within this one folder.
+- 
+![[Pasted image 20231202221711.png]]
 ### Fun facts
 - The Temp folder is used by EnCase when viewing files inside EnCase
 - The Export folder is generally used to export evidence
