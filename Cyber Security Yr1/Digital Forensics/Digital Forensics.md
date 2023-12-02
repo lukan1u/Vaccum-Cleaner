@@ -5,6 +5,7 @@
 [[Computer Crime - week 7]]>>> Understanding the digital forensics
 [[Computer Crime - week 8]] >>> imaging
 [[Computer Crime - Week 9]] >>> basic info about the encase 
+[[Computer Crime - Week 10]] >>>
 
 
 

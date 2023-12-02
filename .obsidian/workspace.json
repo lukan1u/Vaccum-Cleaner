@@ -6,7 +6,7 @@
       {
         "id": "54399a6667e79900",
         "type": "tabs",
-        "dimension": 72.79046673286992,
+        "dimension": 57.22092115534738,
         "children": [
           {
             "id": "d82e3014f6bee29a",
@@ -43,14 +43,26 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "217924030c057acd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New notes/Computer Crime - Week 10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "3f67024d18b74930",
         "type": "tabs",
-        "dimension": 27.20953326713009,
+        "dimension": 42.77907884465262,
         "children": [
           {
             "id": "e1b7f67e076ded7f",
@@ -133,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security Yr1/Digital Forensics/Digital Forensics.md",
+                "file": "New notes/Computer Crime - Week 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security Yr1/Digital Forensics/Digital Forensics.md",
+                "file": "New notes/Computer Crime - Week 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security Yr1/Digital Forensics/Digital Forensics.md"
+                "file": "New notes/Computer Crime - Week 10.md"
               }
             }
           },
@@ -190,7 +202,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Cyber Security Yr1/Digital Forensics/Digital Forensics.md"
+                "file": "New notes/Computer Crime - Week 10.md"
               }
             }
           }
@@ -231,10 +243,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e1b7f67e076ded7f",
+  "active": "217924030c057acd",
   "lastOpenFiles": [
-    "New notes/Computer Crime - Week 9.md",
     "Cyber Security Yr1/Digital Forensics/Digital Forensics.md",
+    "New notes/Computer Crime - Week 10.md",
+    "New notes/Computer Crime - Week 9.md",
+    "New notes/Untitled 1.md",
     "New notes/Lab 2 Week 9 - digital forensics.md",
     "General/Photos/Pasted image 20231202221711.png",
     "Cyber Security Yr1/Digital Forensics/Lab 1 Week 8 - digital forensics.md",
@@ -267,7 +281,6 @@
     "New notes/hi.md",
     "General/Templates",
     "New notes/Untitled 2.md",
-    "New notes/Untitled 1.md",
     "New notes/Documentation notes for the assessment.md",
     "Untitled.canvas",
     "Untitled 2.canvas",
