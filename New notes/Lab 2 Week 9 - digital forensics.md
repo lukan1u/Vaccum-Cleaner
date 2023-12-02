@@ -25,6 +25,7 @@ Next Page >>> [[Lab 3 Week 10 - digital forensics]]
 ![[Pasted image 20231127210140.png]]
 ### Navigating through the encase
 - Green plating allows you to switch focus to the particular folder and work within this one folder.
+- It panels works similar to those in windows
 - 
 ![[Pasted image 20231202221711.png]]
 ### Fun facts
