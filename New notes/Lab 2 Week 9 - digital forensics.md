@@ -34,7 +34,11 @@ Next Page >>> [[Lab 3 Week 10 - digital forensics]]
 ![[Pasted image 20231127205508.png]]
 
 ## Autopsy
-
+- Create new case
+- Provide all the information including the file in question
+- Make sure android stuff is unchecked
+- Set time zone on London
+- Interface similar to the one of encase although bit more plain
 
 
 ###  Additional Screen shots

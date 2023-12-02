@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New notes/Lab 2 Week 9 - digital forensics.md",
+                "file": "New notes/Computer Crime - Week 9.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New notes/Lab 2 Week 9 - digital forensics.md",
+                "file": "Cyber Security Yr1/Digital Forensics/Digital Forensics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New notes/Lab 2 Week 9 - digital forensics.md",
+                "file": "Cyber Security Yr1/Digital Forensics/Digital Forensics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New notes/Lab 2 Week 9 - digital forensics.md"
+                "file": "Cyber Security Yr1/Digital Forensics/Digital Forensics.md"
               }
             }
           },
@@ -190,7 +190,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "New notes/Lab 2 Week 9 - digital forensics.md"
+                "file": "Cyber Security Yr1/Digital Forensics/Digital Forensics.md"
               }
             }
           }
@@ -231,16 +231,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c03bdcffbc68bf3d",
+  "active": "e1b7f67e076ded7f",
   "lastOpenFiles": [
+    "New notes/Computer Crime - Week 9.md",
+    "Cyber Security Yr1/Digital Forensics/Digital Forensics.md",
+    "New notes/Lab 2 Week 9 - digital forensics.md",
     "General/Photos/Pasted image 20231202221711.png",
     "Cyber Security Yr1/Digital Forensics/Lab 1 Week 8 - digital forensics.md",
-    "New notes/Lab 2 Week 9 - digital forensics.md",
-    "Cyber Security Yr1/Digital Forensics/Digital Forensics.md",
     "General/Photos/Pasted image 20231127210140.png",
     "General/Photos/Pasted image 20231127205508.png",
     "General/Photos/Pasted image 20231127205114.png",
-    "New notes/Computer Crime - Week 9.md",
     "General/Photos/Pasted image 20231123222253.png",
     "Cyber Security Yr1/Digital Forensics/Computer Crime - week 7.md",
     "Cyber Security Yr1/Digital Forensics/Computer Crime - week 8.md",
@@ -258,7 +258,6 @@
     "General/Photos/Pasted image 20231116160609.png",
     "General/Photos/Pasted image 20231116133053.png",
     "General/Photos/Pasted image 20231116131641.png",
-    "General/Photos/Pasted image 20231116131624.png",
     "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
     "Cyber Security Yr1/Intro to databases/intro.md",
     "Cyber Security Yr1/Digital Forensics/referencing tool.md",

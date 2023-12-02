@@ -4,14 +4,14 @@
 [[Induction Digital Forensics]] --> basic info
 [[Computer Crime - week 7]]>>> Understanding the digital forensics
 [[Computer Crime - week 8]] >>> imaging
-[[Computer Crime - Week 9]] >>> 
+[[Computer Crime - Week 9]] >>> basic info about the encase 
 
 
 
 ## Labs
 ---
 [[Lab 1 Week 8 - digital forensics]] - hash values verification with FTK imager and dd tool
-[[Lab 2 Week 9 - digital forensics]] - 
+[[Lab 2 Week 9 - digital forensics]] - introduction to encase interface and creating first case.
 
 specialised assessment notes
 [[for assessment report digital forensics]] 
