@@ -25,7 +25,7 @@ Table of contents >>> [[cplusplus]]
 - Click on this red/blue status bar (depending on the theme the colour will be different)
 - Click on `Connect to host`
 	-  Click on `+ Add New SSH Host`
-	-  Copy and paste this login: `sshlukasz2.pazdro@live.uwe.ac.uk@csctcloud.uwe.ac.uk`
+	-  Copy and paste this login: `ssh lukasz2.pazdro@live.uwe.ac.uk@csctcloud.uwe.ac.uk`
 
 ## Gitlab info
 ---
