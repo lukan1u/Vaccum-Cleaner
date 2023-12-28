@@ -44,9 +44,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d827255acd646604",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security Yr1/Digital Forensics/Computer Crime - week 7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -112,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security Yr1/Porgamming C++/Setup.md",
+                "file": "Cyber Security Yr1/Digital Forensics/Computer Crime - week 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security Yr1/Porgamming C++/Setup.md",
+                "file": "Cyber Security Yr1/Digital Forensics/Computer Crime - week 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security Yr1/Porgamming C++/Setup.md"
+                "file": "Cyber Security Yr1/Digital Forensics/Computer Crime - week 7.md"
               }
             }
           },
@@ -171,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Cyber Security Yr1/Porgamming C++/Setup.md"
+                "file": "Cyber Security Yr1/Digital Forensics/Computer Crime - week 7.md"
               }
             }
           }
@@ -212,21 +224,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1c82b516eff5f860",
+  "active": "d827255acd646604",
   "lastOpenFiles": [
+    "Cyber Security Yr1/Digital Forensics/Computer Crime - week 8.md",
+    "Cyber Security Yr1/Digital Forensics/Lab 1 Week 8 - digital forensics.md",
+    "Cyber Security Yr1/Digital Forensics/Induction Digital Forensics.md",
+    "New notes/Lab 2 Week 9 - digital forensics.md",
+    "New notes/Computer Crime - Week 9.md",
+    "Cyber Security Yr1/Digital Forensics/Digital Forensics.md",
+    "New notes/Untitled 2.md",
+    "Cyber Security Yr1/Porgamming C++/Setup.md",
     "Cyber Security Yr1/Porgamming C++/Git.md",
     "Cyber Security Yr1/Porgamming C++/cplusplus.md",
     "New notes/Untitled.md",
-    "New notes/Lab 2 Week 9 - digital forensics.md",
     "General/Photos/Pasted image 20231227234649.png",
-    "New notes/Untitled 2.md",
     "New notes/Untitled 1.md",
-    "Cyber Security Yr1/Digital Forensics/Digital Forensics.md",
-    "Cyber Security Yr1/Digital Forensics/Induction Digital Forensics.md",
-    "Cyber Security Yr1/Porgamming C++/Setup.md",
-    "Cyber Security Yr1/Digital Forensics/Computer Crime - week 8.md",
-    "Cyber Security Yr1/Digital Forensics/Lab 1 Week 8 - digital forensics.md",
-    "New notes/Computer Crime - Week 9.md",
     "General/Photos/Pasted image 20231227233723.png",
     "General/Photos/Pasted image 20231227235612.png",
     "General/Photos/Pasted image 20231227234154.png",
