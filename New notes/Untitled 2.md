@@ -55,4 +55,3 @@ Game can also be draw if nobody wins:
 ### Additional info
 - Colours may differ depending on colour palette used by the terminal
 - Games has been tested for various inputs and only accepts the numbers or "stop" string
--
