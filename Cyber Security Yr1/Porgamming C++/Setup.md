@@ -13,12 +13,12 @@ Table of contents >>> [[cplusplus]]
 - You do not need a passphrase if you don't want to constantly type it. It's basically like a password.
 
 ***Method:***
-1.  using **windows terminal** or **cmd** generate SSH keys `ssh-keygen`  on your main machine and move them to .ssh folder in your `%USERPROFILE%` folder. if you didn't change directory when generating keys they will be at the bottom of your `%USERPROFILE%` folder.
-2. login to UWE azure cloud using this `az ssh vm --ip csctcloud.uwe.ac.uk`
-3. create folder in your user home folder create .ssh folder `mkdir .ssh` in your cloud
-4. create file called `authorized_keys` within .ssh folder
-5. copy public key text from main machine to your cloud machine and paste it to `authorized_keys` file
-6.  Login ```ssh lukasz2.pazdro@live.uwe.ac.uk@csctcloud.uwe.ac.uk```
+1.  using **windows terminal** or **cmd** generate SSH keys command: `ssh-keygen`  on your main machine and move them to .ssh folder in your `%USERPROFILE%` folder. if you didn't change directory when generating keys they will be at the bottom of your `%USERPROFILE%` folder.
+2. login to UWE azure cloud using this `az ssh vm --ip csctcloud.uwe.ac.uk` (you will need to install it if `az` term is not recognized)
+3. create directory in home directory called `.ssh` command: `mkdir .ssh` in your cloud
+4. create file called `authorized_keys` within .ssh folder command `touch authorized_keys`
+5. copy public key text from main machine to your cloud machine and paste it to `authorized_keys` file using text editors **vim or nano**
+6.  Login ```ssh something2@live.uwe.ac.uk@csctcloud.uwe.ac.uk```
 
 ***Connect your text editor (VS code to azure UWE cloud)*:**
 ![[Pasted image 20231015155133.png]]
