@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.3 Module - Security Operations.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/1.3 Linux Fundamentals - System Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.3 Module - Security Operations.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/1.3 Linux Fundamentals - System Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.3 Module - Security Operations.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/1.3 Linux Fundamentals - System Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.3 Module - Security Operations.md"
+                "file": "CyberSecurity - Online Learning/HackTheBox/1.3 Linux Fundamentals - System Management.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.3 Module - Security Operations.md"
+                "file": "CyberSecurity - Online Learning/HackTheBox/1.3 Linux Fundamentals - System Management.md"
               }
             }
           }
@@ -226,6 +226,9 @@
   },
   "active": "d827255acd646604",
   "lastOpenFiles": [
+    "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
+    "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals - Workflow.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.3 Module - Security Operations.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 2_Takeaway.pdf",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 1_Takeaway.pdf",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.3 Module  - Access Control.md",
@@ -261,8 +264,6 @@
     "Cyber Security Yr1/Digital Forensics/for assessment report digital forensics.md",
     "CyberSecurity - Online Learning/HackTheBox/1.3 Linux Fundamentals - System Management.md",
     "CyberSecurity - Online Learning/Google Cybersecurity/1.1 Foundations of Cybersecurity.md",
-    "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
-    "Cyber Security Yr1/Intro to databases/intro.md",
     "General/Templates",
     "Untitled.canvas",
     "Untitled 2.canvas",
@@ -274,7 +275,6 @@
     "CyberSecurity - Online Learning/HackTheBox/0.Linux Fundamentals",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 3_Takeaway.pdf",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 5_Takeaway.pdf",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Unconfirmed 634667.crdownload",
     "Untitled 4.canvas",
     "Untitled 3.canvas"
   ]
