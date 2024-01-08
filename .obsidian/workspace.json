@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New notes/1.4 Linux Fundamentals - Networking and Security.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/1.3 Linux Fundamentals - System Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New notes/1.4 Linux Fundamentals - Networking and Security.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/1.3 Linux Fundamentals - System Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New notes/1.4 Linux Fundamentals - Networking and Security.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/1.3 Linux Fundamentals - System Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New notes/1.4 Linux Fundamentals - Networking and Security.md"
+                "file": "CyberSecurity - Online Learning/HackTheBox/1.3 Linux Fundamentals - System Management.md"
               }
             }
           },
@@ -174,7 +174,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "New notes/1.4 Linux Fundamentals - Networking and Security.md"
+                "file": "CyberSecurity - Online Learning/HackTheBox/1.3 Linux Fundamentals - System Management.md"
               }
             }
           }
@@ -218,9 +218,9 @@
   "active": "ac74f07267193b54",
   "lastOpenFiles": [
     "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
-    "New notes/1.4 Linux Fundamentals - Networking and Security.md",
     "CyberSecurity - Online Learning/HackTheBox/1.1 Linux Fundamentals - Shell.md",
     "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals - Workflow.md",
+    "New notes/1.4 Linux Fundamentals - Networking and Security.md",
     "CyberSecurity - Online Learning/HackTheBox/1.3 Linux Fundamentals - System Management.md",
     "Cyber Security Yr1/Digital Forensics/Digital Forensics.md",
     "New notes/Untitled.md",
