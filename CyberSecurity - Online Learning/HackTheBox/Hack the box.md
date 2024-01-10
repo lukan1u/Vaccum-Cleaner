@@ -10,3 +10,7 @@
 
 **Bash Scripting**:
 [[1.1 Bash Scripting - Working  Components]]
+
+**Windows Fundamentals:**
+[[1.1 Windows Fundamentals - Core of the Operating System]] - Introduction
+
