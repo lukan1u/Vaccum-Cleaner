@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New notes/1.1 Bash Scripting - Working  Components.md",
+                "file": "New notes/1.1 Windows Fundamentals - Core of the Operating System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New notes/1.1 Bash Scripting - Working  Components.md",
+                "file": "New notes/1.1 Windows Fundamentals - Core of the Operating System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New notes/1.1 Bash Scripting - Working  Components.md"
+                "file": "New notes/1.1 Windows Fundamentals - Core of the Operating System.md"
               }
             }
           },
@@ -186,7 +186,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "New notes/1.1 Bash Scripting - Working  Components.md"
+                "file": "New notes/1.1 Windows Fundamentals - Core of the Operating System.md"
               }
             }
           }
@@ -227,11 +227,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5796f327cc2fe31c",
+  "active": "bd3c292fb13e6514",
   "lastOpenFiles": [
+    "New notes/1.1 Bash Scripting - Working  Components.md",
     "New notes/1.1 Windows Fundamentals - Core of the Operating System.md",
     "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
-    "New notes/1.1 Bash Scripting - Working  Components.md",
     "New notes/Untitled 1.md",
     "New notes/1.4 Linux Fundamentals - Networking and Security.md",
     "General/Templates/Template.md",
