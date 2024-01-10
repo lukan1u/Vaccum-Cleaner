@@ -58,21 +58,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ac74f07267193b54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New notes/1.4 Linux Fundamentals - Networking and Security.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New notes/1.1 Windows Fundamentals - Core of the Operating System.md",
+                "file": "New notes/1.1 Bash Scripting - Working  Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New notes/1.1 Windows Fundamentals - Core of the Operating System.md",
+                "file": "New notes/1.1 Bash Scripting - Working  Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New notes/1.1 Windows Fundamentals - Core of the Operating System.md"
+                "file": "New notes/1.1 Bash Scripting - Working  Components.md"
               }
             }
           },
@@ -198,7 +186,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "New notes/1.1 Windows Fundamentals - Core of the Operating System.md"
+                "file": "New notes/1.1 Bash Scripting - Working  Components.md"
               }
             }
           }
@@ -239,10 +227,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bd3c292fb13e6514",
+  "active": "5796f327cc2fe31c",
   "lastOpenFiles": [
-    "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
     "New notes/1.1 Windows Fundamentals - Core of the Operating System.md",
+    "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
     "New notes/1.1 Bash Scripting - Working  Components.md",
     "New notes/Untitled 1.md",
     "New notes/1.4 Linux Fundamentals - Networking and Security.md",
