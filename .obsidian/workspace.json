@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "e4fdce11cc7da8e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals - Workflow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5796f327cc2fe31c",
             "type": "leaf",
             "state": {
@@ -60,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -127,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New notes/1.1 Windows Fundamentals - Core of the Operating System.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals - Workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New notes/1.1 Windows Fundamentals - Core of the Operating System.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals - Workflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New notes/1.1 Windows Fundamentals - Core of the Operating System.md"
+                "file": "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals - Workflow.md"
               }
             }
           },
@@ -186,7 +198,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "New notes/1.1 Windows Fundamentals - Core of the Operating System.md"
+                "file": "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals - Workflow.md"
               }
             }
           }
@@ -227,11 +239,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bd3c292fb13e6514",
+  "active": "e4fdce11cc7da8e6",
   "lastOpenFiles": [
-    "New notes/1.1 Bash Scripting - Working  Components.md",
-    "New notes/1.1 Windows Fundamentals - Core of the Operating System.md",
     "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
+    "New notes/1.1 Windows Fundamentals - Core of the Operating System.md",
+    "New notes/1.1 Bash Scripting - Working  Components.md",
     "New notes/Untitled 1.md",
     "New notes/1.4 Linux Fundamentals - Networking and Security.md",
     "General/Templates/Template.md",
