@@ -7,3 +7,6 @@
 [[1.2 Linux Fundamentals - Workflow]] >>> workflow
 [[1.3 Linux Fundamentals - System Management]] >>> system managment 
 [[1.4 Linux Fundamentals - Networking and Security]] >>> Network security
+
+**Bash Scripting**:
+[[1.1 Bash Scripting - Working  Components]]
