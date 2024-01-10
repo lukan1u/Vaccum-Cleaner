@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New notes/1.1 Windows Fundamentals - Core of the Operating System.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/1.1 Linux Fundamentals - Shell.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 455.5,
-    "collapsed": true
+    "width": 455.5
   },
   "right": {
     "id": "ab69aceb5aed668e",
@@ -139,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New notes/1.1 Windows Fundamentals - Core of the Operating System.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/1.1 Linux Fundamentals - Shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New notes/1.1 Windows Fundamentals - Core of the Operating System.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/1.1 Linux Fundamentals - Shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New notes/1.1 Windows Fundamentals - Core of the Operating System.md"
+                "file": "CyberSecurity - Online Learning/HackTheBox/1.1 Linux Fundamentals - Shell.md"
               }
             }
           },
@@ -198,7 +197,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "New notes/1.1 Windows Fundamentals - Core of the Operating System.md"
+                "file": "CyberSecurity - Online Learning/HackTheBox/1.1 Linux Fundamentals - Shell.md"
               }
             }
           }
@@ -241,9 +240,11 @@
   },
   "active": "bd3c292fb13e6514",
   "lastOpenFiles": [
+    "New notes/1.1 Windows Fundamentals - Core of the Operating System.md",
+    "General/Photos/SavingRDPConnections.gif",
+    "General/Photos/ConnectingwithXfreerdp.gif",
     "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals - Workflow.md",
     "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
-    "New notes/1.1 Windows Fundamentals - Core of the Operating System.md",
     "New notes/1.1 Bash Scripting - Working  Components.md",
     "New notes/Untitled 1.md",
     "New notes/1.4 Linux Fundamentals - Networking and Security.md",
@@ -268,7 +269,6 @@
     "Cyber Security Yr1/Digital Forensics/Computer Crime - Week 10.md",
     "Cyber Security Yr1/Porgamming C++/cplusplus.md",
     "Cyber Security Yr1/Digital Forensics/Computer Crime - week 8.md",
-    "Cyber Security Yr1/Digital Forensics/Computer Crime - week 7.md",
     "General/Photos/Pasted image 20231227234649.png",
     "General/Photos/Pasted image 20231227233723.png",
     "General/Photos/Pasted image 20231227235612.png",
@@ -277,8 +277,6 @@
     "General/Photos/Pasted image 20231227233438.png",
     "General/Photos/Pasted image 20231227231950.png",
     "General/Photos/Pasted image 20231227231725.png",
-    "General/Photos/Pasted image 20231202221711.png",
-    "General/Photos/Pasted image 20231127210140.png",
     "General/Templates",
     "Untitled.canvas",
     "Untitled 2.canvas",
