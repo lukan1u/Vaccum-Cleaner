@@ -2,6 +2,7 @@
 ---
 #HTB #linux #windows
 
+# SOC Analyst
 **Linux Fundamentals: #prerequisites**
 [[1.1 Linux Fundamentals - Shell]] >>> Intro to Linux
 [[1.2 Linux Fundamentals - Workflow]] >>> workflow
@@ -14,3 +15,4 @@
 **Windows Fundamentals: #prerequisites**
 [[2.1 Windows Fundamentals - Core of the Operating System]] - Introduction
 
+---
