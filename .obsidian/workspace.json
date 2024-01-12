@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 455.5
+    "width": 455.5,
+    "collapsed": true
   },
   "right": {
     "id": "ab69aceb5aed668e",
@@ -115,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/1.4 Linux Fundamentals - Networking and Security.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/2.1 Windows Fundamentals - Core of the Operating System.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/1.4 Linux Fundamentals - Networking and Security.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/2.1 Windows Fundamentals - Core of the Operating System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/1.4 Linux Fundamentals - Networking and Security.md"
+                "file": "CyberSecurity - Online Learning/HackTheBox/2.1 Windows Fundamentals - Core of the Operating System.md"
               }
             }
           },
@@ -174,7 +175,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/1.4 Linux Fundamentals - Networking and Security.md"
+                "file": "CyberSecurity - Online Learning/HackTheBox/2.1 Windows Fundamentals - Core of the Operating System.md"
               }
             }
           },
@@ -222,12 +223,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f494982d1e53a2c0",
+  "active": "aacd82ded5babf78",
   "lastOpenFiles": [
+    "CyberSecurity - Online Learning/HackTheBox/1.4 Linux Fundamentals - Networking and Security.md",
     "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
     "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals - Workflow.md",
     "CyberSecurity - Online Learning/HackTheBox/2.1 Windows Fundamentals - Core of the Operating System.md",
-    "CyberSecurity - Online Learning/HackTheBox/1.4 Linux Fundamentals - Networking and Security.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Certified in CyberSecurity.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.3 Module - Network Security.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.5 Module - Security Principles.md",
