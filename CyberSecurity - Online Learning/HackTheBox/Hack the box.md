@@ -1,6 +1,6 @@
 # Table of contents
 ---
-#HTB #linux 
+#HTB #linux #windows
 
 **Linux Fundamentals: #prerequisites**
 [[1.1 Linux Fundamentals - Shell]] >>> Intro to Linux
