@@ -1,4 +1,4 @@
-# Table of contents
+# TABLE OF CONTENTS
 ---
 #HTB #linux #windows
 
