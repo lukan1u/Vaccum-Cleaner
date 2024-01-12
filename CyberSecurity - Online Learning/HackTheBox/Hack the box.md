@@ -9,8 +9,8 @@
 [[1.4 Linux Fundamentals - Networking and Security]] >>> Network security
 
 **Bash Scripting**:
-[[1.1 Bash Scripting - Working  Components]]
+[[4.1 Bash Scripting - Working  Components]]
 
 **Windows Fundamentals:**
-[[1.1 Windows Fundamentals - Core of the Operating System]] - Introduction
+[[2.1 Windows Fundamentals - Core of the Operating System]] - Introduction
 
