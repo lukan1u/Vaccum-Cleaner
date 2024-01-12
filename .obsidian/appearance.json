@@ -2,7 +2,7 @@
   "accentColor": "",
   "cssTheme": "Horizon",
   "baseFontSize": 13,
-  "interfaceFontFamily": "Hack Nerd Font,Arial,Inter",
-  "textFontFamily": "Arial,Hack Nerd Font",
+  "interfaceFontFamily": "Arial,Inter",
+  "textFontFamily": "Arial",
   "theme": "obsidian"
 }
