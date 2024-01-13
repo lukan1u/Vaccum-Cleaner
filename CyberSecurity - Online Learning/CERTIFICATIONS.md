@@ -10,6 +10,7 @@ Python - proficient with statistics and scripting
 
 # Beginner
 - [x] Certified in cybersecurity
+- [ ] HTB CDSA
 - [ ] Google Cyber
 - [ ] CompTIA Security+
 - [ ] CompTIA Cloud+
