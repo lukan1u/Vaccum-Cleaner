@@ -34,9 +34,33 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "c503f38c387d5d0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CyberSecurity - Online Learning/HackTheBox/4.1 Bash Scripting - Working  Components.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d528249ff8617dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -104,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/2.1 Windows Fundamentals - Core of the Operating System.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/2.1 Windows Fundamentals - Core of the Operating System.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/2.1 Windows Fundamentals - Core of the Operating System.md"
+                "file": "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md"
               }
             }
           },
@@ -163,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/2.1 Windows Fundamentals - Core of the Operating System.md"
+                "file": "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md"
               }
             }
           },
@@ -211,16 +235,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aacd82ded5babf78",
+  "active": "0d528249ff8617dc",
   "lastOpenFiles": [
+    "CyberSecurity - Online Learning/HackTheBox/2.1 Windows Fundamentals - Core of the Operating System.md",
+    "CyberSecurity - Online Learning/HackTheBox/4.1 Bash Scripting - Working  Components.md",
+    "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
+    "New notes/2.2 Windows Fundamentals - Interacting with Windows.md",
     "General/Photos/Pasted image 20240113172647.png",
     "General/Photos/Pasted image 20240113170852.png",
     "General/Photos/Pasted image 20240113165613.png",
     "CyberSecurity - Online Learning/CERTIFICATIONS.md",
-    "CyberSecurity - Online Learning/HackTheBox/2.1 Windows Fundamentals - Core of the Operating System.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Certified in CyberSecurity.md",
     "CyberSecurity - Online Learning/HackTheBox/1.4 Linux Fundamentals - Networking and Security.md",
-    "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
     "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals - Workflow.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.3 Module - Network Security.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.5 Module - Security Principles.md",
@@ -240,7 +266,6 @@
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.3 Module - Security Operations.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.4 Module - Network Security.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.1 Module  - Network Security.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.4 Module  - Access Control.md",
     "General/Photos/Pasted image 20240111190305.png",
     "General/Photos/Pasted image 20240111190141.png",
     "General/Photos/Pasted image 20240111184946.png",
@@ -250,7 +275,6 @@
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 1_Takeaway.pdf",
     "General/Photos/Pasted image 20231227234649.png",
     "General/Photos/Pasted image 20231227233723.png",
-    "General/Photos/Pasted image 20231227235612.png",
     "General/Templates",
     "Untitled.canvas",
     "Untitled 2.canvas",
