@@ -36,18 +36,6 @@
             }
           },
           {
-            "id": "c503f38c387d5d0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/4.1 Bash Scripting - Working  Components.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0d528249ff8617dc",
             "type": "leaf",
             "state": {
@@ -60,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -237,9 +225,9 @@
   "active": "0d528249ff8617dc",
   "lastOpenFiles": [
     "CyberSecurity - Online Learning/HackTheBox/2.1 Windows Fundamentals - Core of the Operating System.md",
+    "CyberSecurity - Online Learning/HackTheBox/4.1 Bash Scripting - Working  Components.md",
     "New notes/2.2 Windows Fundamentals - Interacting with Windows.md",
     "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
-    "CyberSecurity - Online Learning/HackTheBox/4.1 Bash Scripting - Working  Components.md",
     "General/Photos/Pasted image 20240113172647.png",
     "General/Photos/Pasted image 20240113170852.png",
     "General/Photos/Pasted image 20240113165613.png",
