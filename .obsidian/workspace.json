@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New notes/2.2 Windows Fundamentals - Interacting with Windows.md",
+                "file": "CyberSecurity - Online Learning/CERTIFICATIONS.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New notes/2.2 Windows Fundamentals - Interacting with Windows.md",
+                "file": "CyberSecurity - Online Learning/CERTIFICATIONS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New notes/2.2 Windows Fundamentals - Interacting with Windows.md",
+                "file": "CyberSecurity - Online Learning/CERTIFICATIONS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New notes/2.2 Windows Fundamentals - Interacting with Windows.md"
+                "file": "CyberSecurity - Online Learning/CERTIFICATIONS.md"
               }
             }
           },
@@ -174,7 +174,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "New notes/2.2 Windows Fundamentals - Interacting with Windows.md"
+                "file": "CyberSecurity - Online Learning/CERTIFICATIONS.md"
               }
             }
           },
@@ -224,8 +224,8 @@
   },
   "active": "0d528249ff8617dc",
   "lastOpenFiles": [
-    "CyberSecurity - Online Learning/HackTheBox/2.1 Windows Fundamentals - Core of the Operating System.md",
     "New notes/2.2 Windows Fundamentals - Interacting with Windows.md",
+    "CyberSecurity - Online Learning/HackTheBox/2.1 Windows Fundamentals - Core of the Operating System.md",
     "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
     "CyberSecurity - Online Learning/HackTheBox/1.1 Linux Fundamentals - Shell.md",
     "CyberSecurity - Online Learning/HackTheBox/4.1 Bash Scripting - Working  Components.md",
