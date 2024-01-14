@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.1 Module - IRBCDR.md",
+                "file": "Cyber Security Yr1/Digital Forensics/Induction Digital Forensics.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 455.5,
-    "collapsed": true
+    "width": 455.5
   },
   "right": {
     "id": "ab69aceb5aed668e",
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.1 Module - IRBCDR.md",
+                "file": "Cyber Security Yr1/Digital Forensics/Induction Digital Forensics.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.1 Module - IRBCDR.md",
+                "file": "Cyber Security Yr1/Digital Forensics/Induction Digital Forensics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.1 Module - IRBCDR.md"
+                "file": "Cyber Security Yr1/Digital Forensics/Induction Digital Forensics.md"
               }
             }
           },
@@ -174,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.1 Module - IRBCDR.md"
+                "file": "Cyber Security Yr1/Digital Forensics/Induction Digital Forensics.md"
               }
             }
           },
@@ -224,6 +223,13 @@
   },
   "active": "915589ea0a4c54a3",
   "lastOpenFiles": [
+    "Cyber Security Yr1/Digital Forensics/Digital Forensics.md",
+    "Cyber Security Yr1/Porgamming C++/README.MD.md",
+    "Cyber Security Yr1/Porgamming C++/programingcplusplus.md",
+    "Cyber Security Yr1/Intro to databases/lesson 2.md",
+    "Cyber Security Yr1/Intro to databases/intro.md",
+    "Cyber Security Yr1/Digital Forensics/Computer Crime - week 7.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.1 Module - IRBCDR.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.6 Module - Security Principles.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.5 Module - Security Principles.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.4 Module - Security Principles.md",
@@ -246,13 +252,6 @@
     "CyberSecurity - Online Learning/HackTheBox/1.3 Linux Fundamentals - System Management.md",
     "New notes/List of Ideas for python.md",
     "New notes/Untitled 1.md",
-    "New notes/Untitled.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.2 Module - Network Security.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.1 Module - Security Operations.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.4 Module - Security Operations.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.3 Module - Security Operations.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.4 Module - Network Security.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.1 Module  - Network Security.md",
     "General/Photos/Pasted image 20240111190305.png",
     "General/Photos/Pasted image 20240111190141.png",
     "General/Photos/Pasted image 20240111184946.png",
