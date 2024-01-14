@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.1 Module - IRBCDR.md",
+                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.3 Module  - Access Control.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.1 Module - IRBCDR.md",
+                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.3 Module  - Access Control.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.1 Module - IRBCDR.md",
+                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.3 Module  - Access Control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.1 Module - IRBCDR.md"
+                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.3 Module  - Access Control.md"
               }
             }
           },
@@ -174,7 +174,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.1 Module - IRBCDR.md"
+                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.3 Module  - Access Control.md"
               }
             }
           },
@@ -224,9 +224,12 @@
   },
   "active": "5867025a2227a05f",
   "lastOpenFiles": [
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.2 Module  - IRBCDR.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.3 Module  - IRBCDR.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.2 Module  - Access Control.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.1 Module  - Access Control.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.4 Module  - IRBCDR.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.3 Module  - IRBCDR.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.2 Module  - IRBCDR.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.1 Module - IRBCDR.md",
     "New notes/2.2 Windows Fundamentals - Interacting with Windows.md",
     "Cyber Security Yr1/Digital Forensics/Induction Digital Forensics.md",
     "Cyber Security Yr1/Digital Forensics/Digital Forensics.md",
@@ -235,7 +238,6 @@
     "Cyber Security Yr1/Intro to databases/lesson 2.md",
     "Cyber Security Yr1/Intro to databases/intro.md",
     "Cyber Security Yr1/Digital Forensics/Computer Crime - week 7.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.1 Module - IRBCDR.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.6 Module - Security Principles.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.5 Module - Security Principles.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.4 Module - Security Principles.md",
@@ -251,8 +253,6 @@
     "General/Photos/Pasted image 20240113170852.png",
     "General/Photos/Pasted image 20240113165613.png",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Certified in CyberSecurity.md",
-    "CyberSecurity - Online Learning/HackTheBox/1.4 Linux Fundamentals - Networking and Security.md",
-    "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals - Workflow.md",
     "General/Photos/Pasted image 20240111190305.png",
     "General/Photos/Pasted image 20240111190141.png",
     "General/Photos/Pasted image 20240111184946.png",
