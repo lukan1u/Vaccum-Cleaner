@@ -22,13 +22,13 @@
             }
           },
           {
-            "id": "aacd82ded5babf78",
+            "id": "eace96dffe766201",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/2.1 Windows Fundamentals - Core of the Operating System.md",
+                "file": "New notes/2.2 Windows Fundamentals - Interacting with Windows.md",
                 "mode": "source",
                 "source": false
               },
@@ -36,31 +36,19 @@
             }
           },
           {
-            "id": "0d528249ff8617dc",
+            "id": "915589ea0a4c54a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecurity - Online Learning/CERTIFICATIONS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66b38d048abd6781",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CyberSecurity - Online Learning/CERTIFICATIONS.md",
+                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.1 Module - IRBCDR.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -127,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecurity - Online Learning/CERTIFICATIONS.md",
+                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.1 Module - IRBCDR.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecurity - Online Learning/CERTIFICATIONS.md",
+                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.1 Module - IRBCDR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecurity - Online Learning/CERTIFICATIONS.md"
+                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.1 Module - IRBCDR.md"
               }
             }
           },
@@ -186,7 +174,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CyberSecurity - Online Learning/CERTIFICATIONS.md"
+                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.1 Module - IRBCDR.md"
               }
             }
           },
@@ -234,12 +222,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "66b38d048abd6781",
+  "active": "915589ea0a4c54a3",
   "lastOpenFiles": [
-    "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
-    "CyberSecurity - Online Learning/CERTIFICATIONS.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.6 Module - Security Principles.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.5 Module - Security Principles.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.4 Module - Security Principles.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.3 Module - Security Principles.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.2 Module - Security Principles.md",
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.1 Module - Security Principles.md",
     "New notes/2.2 Windows Fundamentals - Interacting with Windows.md",
     "CyberSecurity - Online Learning/HackTheBox/2.1 Windows Fundamentals - Core of the Operating System.md",
+    "CyberSecurity - Online Learning/CERTIFICATIONS.md",
+    "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
     "CyberSecurity - Online Learning/HackTheBox/1.1 Linux Fundamentals - Shell.md",
     "CyberSecurity - Online Learning/HackTheBox/4.1 Bash Scripting - Working  Components.md",
     "General/Photos/Pasted image 20240113172647.png",
@@ -249,16 +243,10 @@
     "CyberSecurity - Online Learning/HackTheBox/1.4 Linux Fundamentals - Networking and Security.md",
     "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals - Workflow.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.3 Module - Network Security.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.5 Module - Security Principles.md",
     "CyberSecurity - Online Learning/HackTheBox/1.3 Linux Fundamentals - System Management.md",
     "New notes/List of Ideas for python.md",
     "New notes/Untitled 1.md",
     "New notes/Untitled.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.6 Module - Security Principles.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.4 Module - Security Principles.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.3 Module - Security Principles.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.2 Module - Security Principles.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.1 Module - Security Principles.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.2 Module - Network Security.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.1 Module - Security Operations.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.4 Module - Security Operations.md",
