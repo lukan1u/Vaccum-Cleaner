@@ -14,6 +14,7 @@ Python - proficient with statistics and scripting
 - [ ] Google Cyber
 - [ ] CompTIA Security+
 - [ ] CompTIA Cloud+
+- [ ] CCNA
 
 # Cloud certifications
 3. AWS Certified Security
