@@ -46,8 +46,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f07ad33a6d717a81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New notes/2.2 Windows Fundamentals - Interacting with Windows.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -114,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
+                "file": "New notes/2.2 Windows Fundamentals - Interacting with Windows.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
+                "file": "New notes/2.2 Windows Fundamentals - Interacting with Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md"
+                "file": "New notes/2.2 Windows Fundamentals - Interacting with Windows.md"
               }
             }
           },
@@ -173,7 +186,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md"
+                "file": "New notes/2.2 Windows Fundamentals - Interacting with Windows.md"
               }
             }
           },
@@ -221,8 +234,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "874f8aef81595f3c",
+  "active": "f07ad33a6d717a81",
   "lastOpenFiles": [
+    "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
     "CyberSecurity - Online Learning/CERTIFICATIONS.md",
     "New notes/2.2 Windows Fundamentals - Interacting with Windows.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.4 Module - Network Security.md",
@@ -249,7 +263,6 @@
     "Cyber Security Yr1/Digital Forensics/Computer Crime - week 7.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.6 Module - Security Principles.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.5 Module - Security Principles.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/1.4 Module - Security Principles.md",
     "General/Photos/Pasted image 20240113172647.png",
     "General/Photos/Pasted image 20240113170852.png",
     "General/Photos/Pasted image 20240113165613.png",
