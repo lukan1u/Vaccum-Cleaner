@@ -18,14 +18,11 @@ Python - proficient with statistics and scripting
 - [ ] HTB CDSA
 - [ ] Google Cyber
 - [ ] CompTIA Security+
-- [ ] CompTIA Cloud+
-- [ ] CCNA
 
 # Cloud certifications
 3. AWS Certified Security
-
 2. Microsoft Certified Azure Security Engineer Associate
-
+3. CompTIA Cloud+
 ## Mid tier achievements
 SSCP - Systems Security Certified Practitioner
 CCNA - Cisco Certified Network Associate
