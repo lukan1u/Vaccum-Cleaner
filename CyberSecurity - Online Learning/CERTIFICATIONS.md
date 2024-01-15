@@ -18,7 +18,7 @@ Python - proficient with statistics and scripting
 
 # Cloud certifications
 3. AWS Certified Security
-1. Google Professional Cloud Security Engineer
+
 2. Microsoft Certified Azure Security Engineer Associate
 
 ## Mid tier achievements
