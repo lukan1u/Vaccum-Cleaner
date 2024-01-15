@@ -3,6 +3,11 @@
 [[Certified in CyberSecurity]]
 [[0.Google Cybersecurity]]
 [[Hack The Box]]
+
+
+# Miscellaneous
+Documentation Certification
+
 ## Nice haves
 Hack the box 1%
 Try hack me 1%
