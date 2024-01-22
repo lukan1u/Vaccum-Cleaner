@@ -65,14 +65,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New notes/2.2 Windows Fundamentals - Interacting with Windows.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#command sysinter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -246,9 +246,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8a9465a34092751f",
+  "active": "f07ad33a6d717a81",
   "lastOpenFiles": [
     "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
+    "CyberSecurity - Online Learning/HackTheBox/2.1 Windows Fundamentals - Core of the Operating System.md",
     "New notes/2.2 Windows Fundamentals - Interacting with Windows.md",
     "CyberSecurity - Online Learning/CERTIFICATIONS.md",
     "General/Photos/Pasted image 20240116190627.png",
