@@ -36,18 +36,6 @@
             }
           },
           {
-            "id": "dd107d729e3c1f3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/2.1 Windows Fundamentals - Core of the Operating System.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "783a7b6646449ce2",
             "type": "leaf",
             "state": {
@@ -80,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/2.1 Windows Fundamentals - Core of the Operating System.md",
+                "file": "New notes/2.2 Windows Fundamentals - Interacting with Windows.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/2.1 Windows Fundamentals - Core of the Operating System.md",
+                "file": "New notes/2.2 Windows Fundamentals - Interacting with Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/2.1 Windows Fundamentals - Core of the Operating System.md"
+                "file": "New notes/2.2 Windows Fundamentals - Interacting with Windows.md"
               }
             }
           },
@@ -207,7 +195,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/2.1 Windows Fundamentals - Core of the Operating System.md"
+                "file": "New notes/2.2 Windows Fundamentals - Interacting with Windows.md"
               }
             }
           },
@@ -255,11 +243,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dd107d729e3c1f3d",
+  "active": "eace96dffe766201",
   "lastOpenFiles": [
+    "CyberSecurity - Online Learning/HackTheBox/2.1 Windows Fundamentals - Core of the Operating System.md",
     "New notes/2.2 Windows Fundamentals - Interacting with Windows.md",
     "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
-    "CyberSecurity - Online Learning/HackTheBox/2.1 Windows Fundamentals - Core of the Operating System.md",
     "CyberSecurity - Online Learning/CERTIFICATIONS.md",
     "General/Photos/Pasted image 20240116190627.png",
     "General/Photos/Pasted image 20240116190407.png",
