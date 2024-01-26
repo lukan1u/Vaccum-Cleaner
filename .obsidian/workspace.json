@@ -27,50 +27,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New notes/2.2 Windows Fundamentals - Interacting with Windows.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/1.1 Linux Fundamentals - Shell.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "164c00e69a04933c",
+            "id": "84f14967dcfc85dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/2.1 Windows Fundamentals - Core of the Operating System.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad9469df9d29b453",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New notes/2.3 Windows Fundamentals - Windows Assessment.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35a463d0254fb5a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New notes/2.3 Windows Fundamentals - Windows Assessment.md",
+                "file": "CyberSecurity - Online Learning/CERTIFICATIONS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 455.5
+    "width": 455.5,
+    "collapsed": true
   },
   "right": {
     "id": "ab69aceb5aed668e",
@@ -137,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New notes/2.2 Windows Fundamentals - Interacting with Windows.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New notes/2.2 Windows Fundamentals - Interacting with Windows.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New notes/2.2 Windows Fundamentals - Interacting with Windows.md"
+                "file": "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md"
               }
             }
           },
@@ -196,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "New notes/2.2 Windows Fundamentals - Interacting with Windows.md"
+                "file": "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md"
               }
             }
           },
@@ -244,15 +220,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d2625ed57825d562",
+  "active": "874f8aef81595f3c",
   "lastOpenFiles": [
-    "CyberSecurity - Online Learning/HackTheBox/2.1 Windows Fundamentals - Core of the Operating System.md",
-    "New notes/2.3 Windows Fundamentals - Windows Assessment.md",
+    "CyberSecurity - Online Learning/HackTheBox/1.1 Linux Fundamentals - Shell.md",
+    "CyberSecurity - Online Learning/CERTIFICATIONS.md",
+    "New notes/3.1 Networking - Structure.md",
     "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
     "New notes/2.2 Windows Fundamentals - Interacting with Windows.md",
+    "CyberSecurity - Online Learning/HackTheBox/1.4 Linux Fundamentals - Networking and Security.md",
+    "CyberSecurity - Online Learning/HackTheBox/2.1 Windows Fundamentals - Core of the Operating System.md",
+    "New notes/2.3 Windows Fundamentals - Windows Assessment.md",
     "General/Photos/Pasted image 20240123235045.png",
     "General/Photos/Pasted image 20240123234841.png",
-    "CyberSecurity - Online Learning/CERTIFICATIONS.md",
     "General/Photos/Pasted image 20240116190627.png",
     "General/Photos/Pasted image 20240116190407.png",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.4 Module - Network Security.md",
@@ -274,9 +253,6 @@
     "Cyber Security Yr1/Digital Forensics/Digital Forensics.md",
     "Cyber Security Yr1/Porgamming C++/README.MD.md",
     "Cyber Security Yr1/Porgamming C++/programingcplusplus.md",
-    "Cyber Security Yr1/Intro to databases/lesson 2.md",
-    "Cyber Security Yr1/Intro to databases/intro.md",
-    "Cyber Security Yr1/Digital Forensics/Computer Crime - week 7.md",
     "General/Photos/Pasted image 20240113172647.png",
     "General/Photos/Pasted image 20240113170852.png",
     "General/Photos/Pasted image 20240113165613.png",
