@@ -32,14 +32,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "559555448200e6c9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
         "currentTab": 1
@@ -71,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#command",
+                "query": "tag:#command sysinterna",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +80,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -218,6 +211,10 @@
   },
   "active": "799da63543acc21b",
   "lastOpenFiles": [
+    "General/Photos/Pasted image 20240202190003.png",
+    "CyberSecurity - Online Learning/HackTheBox/2.1 Windows Fundamentals - Core of the Operating System.md",
+    "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
+    "New notes/3.1 Networking - Structure.md",
     "General/Photos/Pasted image 20240202184135.png",
     "General/Photos/Pasted image 20240202184132.png",
     "General/Photos/Pasted image 20240202184044.png",
@@ -227,8 +224,6 @@
     "General/Photos/Pasted image 20240202182109.png",
     "General/Photos/Pasted image 20240202181907.png",
     "General/Photos/Pasted image 20240202181856.png",
-    "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
-    "New notes/3.1 Networking - Structure.md",
     "General/Photos/Pasted image 20240127141336.png",
     "CyberSecurity - Online Learning/CERTIFICATIONS.md",
     "CyberSecurity - Online Learning/HackTheBox/1.1 Linux Fundamentals - Shell.md",
@@ -236,9 +231,7 @@
     "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals - Workflow.md",
     "New notes/2.2 Windows Fundamentals - Interacting with Windows.md",
     "CyberSecurity - Online Learning/HackTheBox/1.4 Linux Fundamentals - Networking and Security.md",
-    "CyberSecurity - Online Learning/HackTheBox/2.1 Windows Fundamentals - Core of the Operating System.md",
     "New notes/2.3 Windows Fundamentals - Windows Assessment.md",
-    "General/Photos/Pasted image 20240123235045.png",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.4 Module - Network Security.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Certified in CyberSecurity.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.1 Module - Security Operations.md",
