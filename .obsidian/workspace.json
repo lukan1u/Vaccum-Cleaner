@@ -1,54 +1,39 @@
 {
   "main": {
-    "id": "55464712805b6e98",
+    "id": "9e4765ac59619445",
     "type": "split",
     "children": [
       {
-        "id": "3f67024d18b74930",
+        "id": "97c1fdb11d0e8980",
         "type": "tabs",
         "children": [
           {
-            "id": "874f8aef81595f3c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "799da63543acc21b",
+            "id": "89390ba3f300334b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New notes/3.1 Networking - Structure.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/2.1 Windows Fundamentals - Core of the Operating System.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6ededb34fbcbed23",
+    "id": "27b8e163a76bd891",
     "type": "split",
     "children": [
       {
-        "id": "3fed0193bf0a4589",
+        "id": "ff6d08808f0a113b",
         "type": "tabs",
         "children": [
           {
-            "id": "98fcacc342b2d1f8",
+            "id": "7cb26d0fa471278c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -58,12 +43,12 @@
             }
           },
           {
-            "id": "f494982d1e53a2c0",
+            "id": "023be7af5f3d136e",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#command sysinterna",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,37 +58,35 @@
             }
           },
           {
-            "id": "89a572dafa04c61f",
+            "id": "7e765d012c434656",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 455.5,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "ab69aceb5aed668e",
+    "id": "d074fc86a5a26a8a",
     "type": "split",
     "children": [
       {
-        "id": "6c5ca087966010ee",
+        "id": "47d8e0c7afa4a66a",
         "type": "tabs",
         "children": [
           {
-            "id": "235e994fe8655fc5",
+            "id": "e7b700e59e89ed85",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New notes/3.1 Networking - Structure.md",
-                "collapseAll": true,
+                "file": "CyberSecurity - Online Learning/HackTheBox/2.1 Windows Fundamentals - Core of the Operating System.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -114,74 +97,19 @@
             }
           },
           {
-            "id": "432bd824ebbe481f",
+            "id": "43b77381785254d9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New notes/3.1 Networking - Structure.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/2.1 Windows Fundamentals - Core of the Operating System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3e09bdf49addec9f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "d103e410f4217c2c",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "New notes/3.1 Networking - Structure.md"
-              }
-            }
-          },
-          {
-            "id": "e791b81f1dbf44ed",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              }
-            }
-          },
-          {
-            "id": "524eeda6b4bf6d52",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "New notes/3.1 Networking - Structure.md"
-              }
-            }
-          },
-          {
-            "id": "580fd307a926991f",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 6
-      },
-      {
-        "id": "5f104c3a5024daba",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "66e770dd82ee68c9",
+            "id": "49d1071c7523039a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -190,77 +118,38 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "22af92f39079d4a7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CyberSecurity - Online Learning/HackTheBox/2.1 Windows Fundamentals - Core of the Operating System.md"
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 395.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "799da63543acc21b",
+  "active": "89390ba3f300334b",
   "lastOpenFiles": [
-    "General/Photos/Pasted image 20240202190003.png",
-    "CyberSecurity - Online Learning/HackTheBox/2.1 Windows Fundamentals - Core of the Operating System.md",
-    "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
-    "New notes/3.1 Networking - Structure.md",
-    "General/Photos/Pasted image 20240202184135.png",
-    "General/Photos/Pasted image 20240202184132.png",
-    "General/Photos/Pasted image 20240202184044.png",
-    "General/Photos/Pasted image 20240202183958.png",
-    "General/Photos/Pasted image 20240202183746.png",
-    "General/Photos/Pasted image 20240202182723.png",
-    "General/Photos/Pasted image 20240202182109.png",
-    "General/Photos/Pasted image 20240202181907.png",
-    "General/Photos/Pasted image 20240202181856.png",
-    "General/Photos/Pasted image 20240127141336.png",
-    "CyberSecurity - Online Learning/CERTIFICATIONS.md",
-    "CyberSecurity - Online Learning/HackTheBox/1.1 Linux Fundamentals - Shell.md",
-    "CyberSecurity - Online Learning/HackTheBox/1.3 Linux Fundamentals - System Management.md",
-    "CyberSecurity - Online Learning/HackTheBox/1.2 Linux Fundamentals - Workflow.md",
-    "New notes/2.2 Windows Fundamentals - Interacting with Windows.md",
     "CyberSecurity - Online Learning/HackTheBox/1.4 Linux Fundamentals - Networking and Security.md",
-    "New notes/2.3 Windows Fundamentals - Windows Assessment.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.4 Module - Network Security.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Certified in CyberSecurity.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.1 Module - Security Operations.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.3 Module - Network Security.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.2 Module - Network Security.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.1 Module  - Network Security.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.4 Module  - Access Control.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.3 Module  - Access Control.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.2 Module  - Access Control.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/3.1 Module  - Access Control.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.4 Module  - IRBCDR.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.3 Module  - IRBCDR.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.2 Module  - IRBCDR.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.1 Module - IRBCDR.md",
-    "Cyber Security Yr1/Digital Forensics/Induction Digital Forensics.md",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 2_Takeaway.pdf",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 1_Takeaway.pdf",
-    "General/Templates",
-    "Untitled.canvas",
-    "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "General/Books/Computer networking a top-down approach.pdf",
-    "Excalidraw",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Official_CC_Course_Completion_Certificate_Official_ISC2_CC_Online_Self-Paced_Training_-_1M_Pazdro.pdf",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Certification-Roadmap-Brochure.pdf",
-    "CyberSecurity - Online Learning/HackTheBox/0.Linux Fundamentals",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 3_Takeaway.pdf",
-    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Chapter 5_Takeaway.pdf",
-    "Untitled 4.canvas",
-    "Untitled 3.canvas"
+    "CyberSecurity - Online Learning/HackTheBox/1.1 Linux Fundamentals - Shell.md"
   ]
 }
