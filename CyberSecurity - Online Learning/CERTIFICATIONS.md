@@ -32,3 +32,7 @@ CCSK - Certificate of Cloud Security Knowledge
 Certified Cloud Security Professional (CCSP)
 CISSP - Certified Information Systems Security Professional
 Certified Cloud Security Professional (CCSP)
+
+# Tools
+Splunk
+Encase
