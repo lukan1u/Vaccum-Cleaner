@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecurity - Online Learning/CERTIFICATIONS.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/3.1 Networking - Structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d074fc86a5a26a8a",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecurity - Online Learning/CERTIFICATIONS.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/3.1 Networking - Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecurity - Online Learning/CERTIFICATIONS.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/3.1 Networking - Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecurity - Online Learning/CERTIFICATIONS.md"
+                "file": "CyberSecurity - Online Learning/HackTheBox/3.1 Networking - Structure.md"
               }
             }
           },
@@ -159,16 +158,16 @@
   },
   "active": "89390ba3f300334b",
   "lastOpenFiles": [
+    "General/Photos/Pasted image 20240229120946.png",
+    "General/Photos/Pasted image 20240229122501.png",
+    "CyberSecurity - Online Learning/CERTIFICATIONS.md",
     "CyberSecurity - Online Learning/HackTheBox/3.1 Networking - Structure.md",
     "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
-    "Pasted image 20240229122501.png",
-    "Pasted image 20240229120946.png",
     "CyberSecurity - Online Learning/HackTheBox/4.1 Bash Scripting - Working  Components.md",
     "CyberSecurity - Online Learning/HackTheBox/2.3 Windows Fundamentals - Windows Assessment.md",
     "New notes/List of Ideas for python.md",
     "CyberSecurity - Online Learning/HackTheBox/2.2 Windows Fundamentals - Interacting with Windows.md",
     "CyberSecurity - Online Learning/HackTheBox/2.1 Windows Fundamentals - Core of the Operating System.md",
-    "CyberSecurity - Online Learning/CERTIFICATIONS.md",
     "CyberSecurity - Online Learning/HackTheBox/1.4 Linux Fundamentals - Networking and Security.md",
     "CyberSecurity - Online Learning/HackTheBox/1.1 Linux Fundamentals - Shell.md"
   ]
