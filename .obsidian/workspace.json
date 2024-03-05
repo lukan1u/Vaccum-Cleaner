@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/3.1 Networking - Structure.md",
+                "file": "New notes/Chapter 1 - Social Engineering Technqiues.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a52697be0b5e818",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New notes/Chapter 1 - Social Engineering Technqiues.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d074fc86a5a26a8a",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/3.1 Networking - Structure.md",
+                "file": "New notes/Chapter 1 - Social Engineering Technqiues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/3.1 Networking - Structure.md",
+                "file": "New notes/Chapter 1 - Social Engineering Technqiues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/3.1 Networking - Structure.md"
+                "file": "New notes/Chapter 1 - Social Engineering Technqiues.md"
               }
             }
           },
@@ -158,10 +171,13 @@
   },
   "active": "89390ba3f300334b",
   "lastOpenFiles": [
-    "General/Photos/Pasted image 20240229120946.png",
-    "General/Photos/Pasted image 20240229122501.png",
+    "CyberSecurity - Online Learning/Security+/Chapter 1 - Social Engineering Technqiues.md",
+    "New notes/Chapter 1 - Social Engineering Technqiues.md",
+    "Untitled.md",
     "CyberSecurity - Online Learning/CERTIFICATIONS.md",
     "CyberSecurity - Online Learning/HackTheBox/3.1 Networking - Structure.md",
+    "General/Photos/Pasted image 20240229120946.png",
+    "General/Photos/Pasted image 20240229122501.png",
     "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
     "CyberSecurity - Online Learning/HackTheBox/4.1 Bash Scripting - Working  Components.md",
     "CyberSecurity - Online Learning/HackTheBox/2.3 Windows Fundamentals - Windows Assessment.md",
