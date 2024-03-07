@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/3.1 Networking - Structure.md",
+                "file": "New notes/Chapter 1 - Social Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/3.1 Networking - Structure.md",
+                "file": "New notes/Chapter 1 - Social Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/3.1 Networking - Structure.md"
+                "file": "New notes/Chapter 1 - Social Engineering.md"
               }
             }
           },
@@ -169,8 +170,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "89390ba3f300334b",
+  "active": "3a52697be0b5e818",
   "lastOpenFiles": [
+    "CyberSecurity - Online Learning/HackTheBox/3.1 Networking - Structure.md",
     "CyberSecurity - Online Learning/HackTheBox/2.3 Windows Fundamentals - Windows Assessment.md",
     "CyberSecurity - Online Learning/HackTheBox/2.2 Windows Fundamentals - Interacting with Windows.md",
     "CyberSecurity - Online Learning/HackTheBox/2.1 Windows Fundamentals - Core of the Operating System.md",
@@ -179,7 +181,6 @@
     "CyberSecurity - Online Learning/Security+/Chapter 1 - Social Engineering Technqiues.md",
     "Untitled.md",
     "CyberSecurity - Online Learning/CERTIFICATIONS.md",
-    "CyberSecurity - Online Learning/HackTheBox/3.1 Networking - Structure.md",
     "General/Photos/Pasted image 20240229120946.png",
     "General/Photos/Pasted image 20240229122501.png",
     "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
