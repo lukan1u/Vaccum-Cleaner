@@ -20,7 +20,7 @@
 - [ ] **Introduction to Windows Command line: #prerequisites** 
 
 - [ ] **Introduction to Networking: #prerequisites**
-[[3.1 Networking - Structure]]
+[[3.1 Networking]]
 - [ ] **Introduction to Active Directory: #prerequisites**
 
 - [ ] **Web Requests #prerequisites:**

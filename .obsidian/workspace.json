@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/3.1 Networking - Structure.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/3.1 Networking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b73a33a998b4690",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CyberSecurity - Online Learning/HackTheBox/3.1 Networking.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/3.1 Networking - Structure.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/3.1 Networking.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/3.1 Networking - Structure.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/3.1 Networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/3.1 Networking - Structure.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/3.1 Networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/3.1 Networking - Structure.md"
+                "file": "CyberSecurity - Online Learning/HackTheBox/3.1 Networking.md"
               }
             }
           },
@@ -170,10 +182,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3a52697be0b5e818",
+  "active": "4b73a33a998b4690",
   "lastOpenFiles": [
+    "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
+    "CyberSecurity - Online Learning/HackTheBox/3.1 Networking.md",
+    "Pasted image 20240311211703.png",
+    "Pasted image 20240311211442.png",
     "New notes/Chapter 1 - Social Engineering.md",
-    "CyberSecurity - Online Learning/HackTheBox/3.1 Networking - Structure.md",
     "CyberSecurity - Online Learning/HackTheBox/2.3 Windows Fundamentals - Windows Assessment.md",
     "CyberSecurity - Online Learning/HackTheBox/2.2 Windows Fundamentals - Interacting with Windows.md",
     "CyberSecurity - Online Learning/HackTheBox/2.1 Windows Fundamentals - Core of the Operating System.md",
@@ -183,7 +198,6 @@
     "CyberSecurity - Online Learning/CERTIFICATIONS.md",
     "General/Photos/Pasted image 20240229120946.png",
     "General/Photos/Pasted image 20240229122501.png",
-    "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
     "CyberSecurity - Online Learning/HackTheBox/4.1 Bash Scripting - Working  Components.md",
     "New notes/List of Ideas for python.md",
     "CyberSecurity - Online Learning/HackTheBox/1.1 Linux Fundamentals - Shell.md"
