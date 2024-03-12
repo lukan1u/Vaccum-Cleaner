@@ -12,7 +12,7 @@
 - [ ] **Bash Scripting #prerequisites**:
 [[4.1 Bash Scripting - Working  Components]]
 
-- [ ] **Windows Fundamentals: #prerequisites**
+- [x] **Windows Fundamentals: #prerequisites**
 [[2.1 Windows Fundamentals - Core of the Operating System]] - Introduction
 [[2.2 Windows Fundamentals - Interacting with Windows]] - Tinkering around windows
 [[2.3 Windows Fundamentals - Windows Assessment]] -Assessment
