@@ -77,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"*WEP uses a 40-bit or 104-bit key to encrypt data, while WPA using AES uses a 128-bit key.*  Longer key means generally better encryption = better security. WEP us vulnerable to various attacks that can allow an attacker to decrypt the data. WEP is also not compatible with newer devices. Finally WEP uses the RC4 cipher encryption which makes vulnerable to attacks. However WEP uses shared key for authentications which means the same key is used for encryption and authentication. There are 2 versions of the WEP protocol:- WEP-40/WEP-64- WEP-104\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,7 +187,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fe67eae1589a9f2b",
+  "active": "023be7af5f3d136e",
   "lastOpenFiles": [
     "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories/3.1 Networking.md",
