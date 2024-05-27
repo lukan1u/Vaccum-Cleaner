@@ -36,24 +36,12 @@
             }
           },
           {
-            "id": "fe67eae1589a9f2b",
+            "id": "e2248afc5f89097e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/Prequisitories/3.1 Networking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30e00b0500cfc2a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/Prequisitories/2.1 Windows Fundamentals - Core of the Operating System.md",
+                "file": "CyberSecurity - Online Learning/Online Resources/Commonwealth Bank.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,13 +94,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 231.5,
-    "collapsed": true
+    "width": 231.5
   },
   "right": {
     "id": "d074fc86a5a26a8a",
@@ -128,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/Prequisitories/3.1 Networking.md",
+                "file": "CyberSecurity - Online Learning/Online Resources/Commonwealth Bank.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/Prequisitories/3.1 Networking.md",
+                "file": "CyberSecurity - Online Learning/Online Resources/Commonwealth Bank.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/Prequisitories/3.1 Networking.md"
+                "file": "CyberSecurity - Online Learning/Online Resources/Commonwealth Bank.md"
               }
             }
           },
@@ -199,15 +185,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fe67eae1589a9f2b",
+  "active": "e2248afc5f89097e",
   "lastOpenFiles": [
+    "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
+    "CyberSecurity - Online Learning/Online Resources/Commonwealth Bank.md",
+    "CyberSecurity - Online Learning/Online Resources",
+    "CyberSecurity - Online Learning/HackTheBox/Prequisitories/3.1 Networking.md",
+    "CyberSecurity - Online Learning/HackTheBox/Prequisitories/2.1 Windows Fundamentals - Core of the Operating System.md",
     "General/Pasted image 20240527135233.png",
     "General/Pasted image 20240527135022.png",
     "General/Pasted image 20240527135010.png",
-    "CyberSecurity - Online Learning/HackTheBox/Prequisitories/2.1 Windows Fundamentals - Core of the Operating System.md",
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories/2.2 Windows Fundamentals - Interacting with Windows.md",
-    "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
-    "CyberSecurity - Online Learning/HackTheBox/Prequisitories/3.1 Networking.md",
     "General/Pasted image 20240527132209.png",
     "General/Pasted image 20240527132126.png",
     "General/Windows_Device_Manager.webp",
@@ -223,7 +211,6 @@
     "General/Pasted image 20240319113634.png",
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories",
     "General/Photos/Pasted image 20240311211442.png",
-    "General/Photos/Pasted image 20240311211703.png",
     "New notes/Chapter 1 - Social Engineering.md",
     "CyberSecurity - Online Learning/Security+/Chapter 1 - Social Engineering Technqiues.md",
     "CyberSecurity - Online Learning/CERTIFICATIONS.md",
