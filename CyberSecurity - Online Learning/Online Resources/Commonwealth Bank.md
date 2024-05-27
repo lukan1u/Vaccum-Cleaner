@@ -41,11 +41,11 @@ First task:
 examples:
 To get “Fraud detected by category”, type
 ```
-sourcetype="practicesplunk.csv" fraud="1" | stats count values(fraud)
+sourcetype="practicesplunk.csv" fraud="1" | stats count values(fraud) by category
 ```
  To get “Gender with the most fraudulent activity by category”, type
 ```
-sourcetype="practicesplunk.csv" fraud="1" gender="F'" | stats count values(fraud)
+sourcetype="practicesplunk.csv" fraud="1" gender="F'" | stats count values(fraud) by category
 ```
 
 First problem:
