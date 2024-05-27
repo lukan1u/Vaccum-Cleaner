@@ -178,7 +178,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "copilot:Copilot Chat": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -190,6 +189,7 @@
   },
   "active": "fe67eae1589a9f2b",
   "lastOpenFiles": [
+    "General/8023_Legacy_8021Q_Ethernet_Frames.webp",
     "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories/3.1 Networking.md",
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories/2.1 Windows Fundamentals - Core of the Operating System.md",
