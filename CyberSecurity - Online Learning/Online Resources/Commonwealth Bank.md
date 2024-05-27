@@ -51,15 +51,41 @@ sourcetype="practicesplunk.csv" fraud="1" gender="F'" | stats count values(fraud
 First problem:
 Data set given is in xlsx which is excel format and the one needed is csv to process data through splunk. There is massive feature difference and splunk will struggle to process file type csv.
 
-
+Task 1
 Steps I have taken:
 1. On splunk home page  I went to add data
 2. I uploaded converted from `XLSX` to `CSV` format file which consisted of fraudulent activates in data spreadsheet. ( this helped splunk upload data without artifacts)
 3. Change timestamps from auto to current and select source type to csv
 4. Saved the file to fraud_dectection1.csv
 5. Click on start searching
-6. Created first dashboard by most in category with this command `sourcetype="fraud_detection.csv" | top category`
-7. 
 
+command used  to find task 1 to count:
+```
+sourcetype="fraud_dectection1.csv" | top age
+```
 
+command used to find task 2 to count by category:
+```
+sourcetype="fraud_detection1.csv" fraud="1"  | stats count values(fraud) by category```
+```
 
+command used to find task 3 to count by category using two fields:
+```
+sourcetype="fraud_dectection1.csv" fraud="1" gender="M'"  | stats count values(fraud) by category
+```
+command used to find task 4 :
+```
+sourcetype="fraud_detection1.csv" fraud="1" | stats count by age merchant | sort - count | head 1
+```
+
+```
+
+sourcetype="fraud_detection1.csv" fraud="1"
+| stats count by age merchant
+| sort - merchant count
+| streamstats count as row_number by merchant
+| where row_number <= 5
+| chart count over merchant by age
+```
+
+![[how to create charts.png]]
