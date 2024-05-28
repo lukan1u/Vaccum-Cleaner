@@ -1,26 +1,22 @@
 # TABLE OF CONTENTS
 ---
-#HTB #linux #windows
+#HTB #linux #windows #networks
 
 # SOC Analyst
 - [x]  **Linux Fundamentals: #prerequisites**
-[[1.1 Linux Fundamentals - Shell]] >>> Intro to Linux
-[[1.2 Linux Fundamentals - Workflow]] >>> workflow
-[[1.3 Linux Fundamentals - System Management]] >>> system management 
-[[1.4 Linux Fundamentals - Networking and Security]] >>> Network security
+[[1.1 Linux Fundamentals]] 
 
 - [ ] **Bash Scripting #prerequisites**:
-[[4.1 Bash Scripting - Working  Components]]
+[[2.1 Bash Scripting]]
 
 - [x] **Windows Fundamentals: #prerequisites**
-[[2.1 Windows Fundamentals - Core of the Operating System]] - Introduction
-[[2.2 Windows Fundamentals - Interacting with Windows]] - Tinkering around windows
-[[2.3 Windows Fundamentals - Windows Assessment]] -Assessment
+[[3.1 Windows Fundamentals]] 
 
 - [ ] **Introduction to Windows Command line: #prerequisites** 
+[[4.1 Windows Command Line]]
+- [x] **Introduction to Networking: #prerequisites**
+[[5.1 Networking]]
 
-- [ ] **Introduction to Networking: #prerequisites**
-[[3.1 Networking]]
 - [ ] **Introduction to Active Directory: #prerequisites**
 
 - [ ] **Web Requests #prerequisites:**

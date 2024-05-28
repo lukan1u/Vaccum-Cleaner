@@ -16,7 +16,6 @@ Python - proficient with statistics and scripting
 # Beginner
 - [x] Certified in cybersecurity
 - [ ] HTB CDSA
-- [ ] Google Cyber
 - [ ] CompTIA Security+
 
 # Cloud certifications
@@ -35,4 +34,3 @@ Certified Cloud Security Professional (CCSP)
 
 # Tools
 Splunk
-Encase

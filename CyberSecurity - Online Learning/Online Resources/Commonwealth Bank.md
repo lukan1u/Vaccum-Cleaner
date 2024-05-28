@@ -92,7 +92,8 @@ sourcetype="fraud_detection1.csv" fraud="1"
 
 
 Summary:
-- I learnt a little bit about splunk
+- I learnt a little bit about Splunk
+- Learn commands to create graphs
 - Imported data to Splunk
 - Created different graphs to produce well detailed dashboard
 - Exported dashboard to report
