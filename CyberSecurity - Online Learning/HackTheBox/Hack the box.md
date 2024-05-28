@@ -14,6 +14,7 @@
 
 - [ ] **Introduction to Windows Command line: #prerequisites** 
 [[4.1 Windows Command Line]]
+
 - [x] **Introduction to Networking: #prerequisites**
 [[5.1 Networking]]
 
