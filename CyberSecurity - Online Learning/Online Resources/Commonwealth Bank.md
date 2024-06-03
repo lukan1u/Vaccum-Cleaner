@@ -136,6 +136,36 @@ _Please note that the scenario described in this module is fictional and was cre
 5. [Frequently Asked Questions - Ransomware | Information Security Office (berkeley.edu)](https://security.berkeley.edu/faq/ransomware/)
 6. [What to do before and after a cybersecurity breach? | american.edu](https://www.american.edu/kogod/research/cybergov/upload/what-to-do.pdf)
 
+My answer:
+The cyber-attack was carried out through a spear phishing email that spread to other accounts, combined with malware that propagated via a link. The reason behind this is that spear phishing emails are typically sent to many targeted accounts. They use strong social engineering techniques to trick users into believing they are from legitimate sources. In this scenario, the phishing email used the company "timesheet" (very directed) and the excuse that they needed to be filled out to trick users into clicking the link, which then directed them to a website to steal their passwords. Once the link was clicked, it also downloaded malware that made it impossible to use file shares and Word documents. 
+
+As a SOC analyst, I would follow the company disaster recovery plan if one is available. If no such plan exists, my first step would be to disable the infected accounts and disconnect them from the network to prevent the spread of the malware. Once the threat is identified through scans, I would proceed to safely remove the viruses from the affected devices and delete the spear-phishing email from the email server to prevent further damage. 
+
+Afterward, I would record any notable points and gather data and log information on the affected systems, compromised accounts, disrupted services, and the extent and type of damage done to the system. This data can be used to improve disaster recovery plans and business continuity plans. 
+
+Following disaster recovery, I would focus on business continuity by restoring all affected files from clean backups and updating all systems with necessary patches to prevent reinfection. Additionally, I would inform all employees about my findings and provide guidance on how to recognize and report suspicious emails. I would also encourage everyone to change their passwords or enforce this change using admin tools. 
+
+The next part of my job would be to analyse the phishing emails to learn more about the attackers, including the services they used, the source of the link, and the specific malware deployed. This analysis would help identify potential clues and patterns, making it easier to implement email filtering solutions to detect and block future phishing attempts. Finally, I would create a plan for employee security awareness training, budget permitting.
+
 Report:
-The cyber attack was carried out through a  spear phishing email that spread to other accounts, combined with malware that propagated via a link. The reason behind this is that spear phishing emails are typically sent to many targeted accounts. They use strong social engineering techniques to trick users into believing they are from legitimate sources. In this scenario, the phishing email used the company "timesheet" (very directed) and the excuse that they needed to be filled out to trick users into clicking the link, which then directed them to a website to steal their passwords. Once the link was clicked, it also downloaded malware that made it impossible to use file shares and Word documents.
+1. What kind of attack has happened, and why do you think so? 
+    - In a **phishing** attack, the perpetrator pretends to be a reputable entity or person via email to obtain sensitive information like login credentials. In this case, the attacker disguised as the company's HR by asking employees to update their timesheets. 
+    - **Malware** is intrusive software designed to harm or exploit computers. In this case, the user executed a phishing attack payload that may have installed malware onto their system. As users cannot open a Word document that they have always been able to open, this could be ransomware or a virus. 
+2. As a cyber security analyst, what are the next steps to take? List all that apply.   
+    - Begin documenting the investigation. 
+    - Prioritise handling the incident based on factors such as functional impact, information impact and recoverability effort. 
+    - Advise users to change and strengthen all logins, passwords and security questions. 
+3. How would you contain, resolve and recover from this incident? List all answers that apply. 
+    - Identify and mitigate all exploited vulnerabilities. 
+    - Attempt to remove malware from all hosts affected. 
+    - Return affected systems to an operationally ready state. 
+    - Confirm that the affected systems are functioning normally. 
+    - Stay alert and continue to monitor for any similar future activity. 
+4. What activities should be performed post-incident? 
+    - Follow-up report detailing everything that occurred. 
+    - Hold a lesson-learnt meeting. 
+    - Educate: Create a cyber awareness program for employees. Such programs help employees identify future phishing emails.
+
+# Task 3
+You need to create infographic and highlight the importance of *creating* **strong** passwords according to  Australian signals directorate. Using software like Canva.
 
