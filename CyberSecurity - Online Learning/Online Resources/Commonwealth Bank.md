@@ -137,4 +137,5 @@ _Please note that the scenario described in this module is fictional and was cre
 6. [What to do before and after a cybersecurity breach? | american.edu](https://www.american.edu/kogod/research/cybergov/upload/what-to-do.pdf)
 
 Report:
-The cyber attack performed was a phishing email that spread to other accounts in combination with malware that spread via the link. Reason behind it is that phishing emails are usually spammed across many accounts 
+The cyber attack was carried out through a  spear phishing email that spread to other accounts, combined with malware that propagated via a link. The reason behind this is that spear phishing emails are typically sent to many targeted accounts. They use strong social engineering techniques to trick users into believing they are from legitimate sources. In this scenario, the phishing email used the company "timesheet" (very directed) and the excuse that they needed to be filled out to trick users into clicking the link, which then directed them to a website to steal their passwords. Once the link was clicked, it also downloaded malware that made it impossible to use file shares and Word documents.
+
