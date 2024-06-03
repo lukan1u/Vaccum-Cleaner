@@ -34,18 +34,6 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "1e8e0889aef4d161",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/Prequisitories/3.1 Windows Fundamentals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -77,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#command",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,8 +82,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,6 +178,7 @@
   "lastOpenFiles": [
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories/3.1 Windows Fundamentals.md",
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories/4.1 Windows Command Line.md",
+    "Untitled.md",
     "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
     "General/RecoveryMode.gif",
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories/WinCommandsCheatSheet.pdf",
@@ -204,7 +192,6 @@
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.1 Module - IRBCDR.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.2 Module - Network Security.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.2 Module - Security Operations.md",
-    "Untitled.md",
     "4.1 Windows Command Line.md",
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories/1.2 Linux Fundamentals - Workflow.md",
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories/1.4 Linux Fundamentals - Networking and Security.md",
