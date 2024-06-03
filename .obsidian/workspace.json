@@ -42,9 +42,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "5a644f45673312e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CyberSecurity - Online Learning/Online Resources/Commonwealth Bank.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5,
-    "collapsed": true
+    "width": 231.5
   },
   "right": {
     "id": "d074fc86a5a26a8a",
@@ -111,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CyberSecurity - Online Learning/Online Resources/Commonwealth Bank.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CyberSecurity - Online Learning/Online Resources/Commonwealth Bank.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CyberSecurity - Online Learning/Online Resources/Commonwealth Bank.md"
+              }
             }
           },
           {
@@ -178,7 +193,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "36ef9aa767137712",
+  "active": "5a644f45673312e9",
   "lastOpenFiles": [
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories/4.1 Windows Command Line.md",
     "General/8023_Legacy_8021Q_Ethernet_Frames.webp",

@@ -136,3 +136,5 @@ _Please note that the scenario described in this module is fictional and was cre
 5. [Frequently Asked Questions - Ransomware | Information Security Office (berkeley.edu)](https://security.berkeley.edu/faq/ransomware/)
 6. [What to do before and after a cybersecurity breach? | american.edu](https://www.american.edu/kogod/research/cybergov/upload/what-to-do.pdf)
 
+Report:
+The cyber attack performed was a phishing email that spread to other accounts in combination with malware that spread via the link. Reason behind it is that phishing emails are usually spammed across many accounts 
