@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b214f56d4c6cf57d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CyberSecurity - Online Learning/HackTheBox/Prequisitories/4.1 Windows Command Line.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -124,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecurity - Online Learning/Online Resources/Commonwealth Bank.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/Prequisitories/4.1 Windows Command Line.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecurity - Online Learning/Online Resources/Commonwealth Bank.md",
+                "file": "CyberSecurity - Online Learning/HackTheBox/Prequisitories/4.1 Windows Command Line.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecurity - Online Learning/Online Resources/Commonwealth Bank.md"
+                "file": "CyberSecurity - Online Learning/HackTheBox/Prequisitories/4.1 Windows Command Line.md"
               }
             }
           },
@@ -195,8 +207,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5a644f45673312e9",
+  "active": "b214f56d4c6cf57d",
   "lastOpenFiles": [
+    "CyberSecurity - Online Learning/Online Resources/Commonwealth Bank.md",
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories/4.1 Windows Command Line.md",
     "General/8023_Legacy_8021Q_Ethernet_Frames.webp",
     "General/how to create charts.png",
@@ -230,7 +243,6 @@
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories/2.3 Windows Fundamentals - Windows Assessment.md",
     "CyberSecurity - Online Learning/CERTIFICATIONS.md",
     "CyberSecurity - Online Learning/Security+/Chapter 1 - Social Engineering.md",
-    "CyberSecurity - Online Learning/Online Resources/Commonwealth Bank.md",
     "CyberSecurity - Online Learning/Online Resources",
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories",
     "CyberSecurity - Online Learning/Security+/Chapter 1 - Social Engineering Technqiues.md",
