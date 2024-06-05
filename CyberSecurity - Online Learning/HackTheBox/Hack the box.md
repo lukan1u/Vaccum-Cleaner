@@ -1,8 +1,10 @@
 # TABLE OF CONTENTS
 ---
-#HTB #linux #windows #networks
+#HTB #linux #windows #networks #prerequisites 
 
-# SOC Analyst
+# SOC Analyst prerequisites 
+---
+
 - [x]  **Linux Fundamentals: #prerequisites**
 [[1.1 Linux Fundamentals]] 
 
@@ -28,7 +30,5 @@
 
 - [ ] **Intro to Assembly Language: #prerequisites**
 
-
-
-
+# CDSA
 ---
