@@ -14,6 +14,7 @@ Instructions:
 - [Main instructions](https://sway.office.com/QdVSVAeG8jFioSHD?ref=email)- instructions from module
 - [install](https://customerconnect.vmware.com/en/downloads/info/slug/desktop_end_user_computing/vmware_workstation_pro/16_0) VMware on host machine / activation code: **1M62J-LCH9Q-J8RQ2-093A2-9DY6N** 
 - Load the VM then:
+- https://support.broadcom.com/group/ecx/my-dashboard
 	- [set up vpn](https://www.uwe.ac.uk/study/it-services/software/appsanywhere#a40506536-c4da-4da6-80f7-9181d0839fbc)>>> it will validate encase
 	- [install autpsy](https://www.autopsy.com/download/) >>> not installed by default
 - All files that are needed to be download from this onedrive: 

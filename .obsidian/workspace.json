@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/Prequisitories/4.1 Windows Command Line.md",
+                "file": "Cyber Security Yr1/Digital Forensics/Induction Digital Forensics.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5,
-    "collapsed": true
+    "width": 231.5
   },
   "right": {
     "id": "d074fc86a5a26a8a",
@@ -125,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/Prequisitories/4.1 Windows Command Line.md",
+                "file": "Cyber Security Yr1/Digital Forensics/Induction Digital Forensics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/Prequisitories/4.1 Windows Command Line.md",
+                "file": "Cyber Security Yr1/Digital Forensics/Induction Digital Forensics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/Prequisitories/4.1 Windows Command Line.md"
+                "file": "Cyber Security Yr1/Digital Forensics/Induction Digital Forensics.md"
               }
             }
           },
@@ -197,9 +196,10 @@
   },
   "active": "43a1140ff3623ce1",
   "lastOpenFiles": [
+    "Cyber Security Yr1/Digital Forensics/Digital Forensics.md",
+    "CyberSecurity - Online Learning/HackTheBox/Prequisitories/4.1 Windows Command Line.md",
     "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories/1.1 Linux Fundamentals.md",
-    "CyberSecurity - Online Learning/HackTheBox/Prequisitories/4.1 Windows Command Line.md",
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories/5.1 Networking.md",
     "General/LaunchingPowerShellfromCMD.gif",
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories/3.1 Windows Fundamentals.md",
