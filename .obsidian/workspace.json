@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/Prequisitories/4.1 Windows Command Line.md",
+                "file": "CyberSecurity - Online Learning/CERTIFICATIONS.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/Prequisitories/4.1 Windows Command Line.md",
+                "file": "CyberSecurity - Online Learning/CERTIFICATIONS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/Prequisitories/4.1 Windows Command Line.md",
+                "file": "CyberSecurity - Online Learning/CERTIFICATIONS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/Prequisitories/4.1 Windows Command Line.md"
+                "file": "CyberSecurity - Online Learning/CERTIFICATIONS.md"
               }
             }
           },
@@ -173,9 +173,11 @@
   },
   "active": "4ff21716126cb03b",
   "lastOpenFiles": [
+    "CyberSecurity - Online Learning/HackTheBox/Prequisitories/4.1 Windows Command Line.md",
+    "General/registry-values.webp",
+    "General/registry.webp",
     "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
     "Cyber Security Yr1/Digital Forensics/Digital Forensics.md",
-    "CyberSecurity - Online Learning/HackTheBox/Prequisitories/4.1 Windows Command Line.md",
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories/1.1 Linux Fundamentals.md",
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories/5.1 Networking.md",
     "General/LaunchingPowerShellfromCMD.gif",
@@ -189,8 +191,6 @@
     "General/Pasted image 20240527131912.png",
     "General/Pasted image 20240527132209.png",
     "General/Pasted image 20240527135010.png",
-    "General/Pasted image 20240527135022.png",
-    "General/Pasted image 20240527135233.png",
     "Untitled.md",
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories/WinCommandsCheatSheet.pdf.crdownload",
     "Cyber Security Yr1/Digital Forensics/Computer Crime - Week 10.md",

@@ -34,3 +34,5 @@ Certified Cloud Security Professional (CCSP)
 
 # Tools
 Splunk
+Wireshark
+Autopsy
