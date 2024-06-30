@@ -34,6 +34,18 @@
             }
           },
           {
+            "id": "5e5df68cca1c398e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security Yr1/Digital Forensics/Induction Digital Forensics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4ff21716126cb03b",
             "type": "leaf",
             "state": {
@@ -46,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resits.md",
+                "file": "Cyber Security Yr1/Digital Forensics/Induction Digital Forensics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resits.md",
+                "file": "Cyber Security Yr1/Digital Forensics/Induction Digital Forensics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resits.md"
+                "file": "Cyber Security Yr1/Digital Forensics/Induction Digital Forensics.md"
               }
             }
           },
@@ -182,15 +194,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8592e3fed354ac62",
+  "active": "5e5df68cca1c398e",
   "lastOpenFiles": [
+    "Cyber Security Yr1/Digital Forensics/Lab 1 Week 8 - digital forensics.md",
+    "Cyber Security Yr1/Digital Forensics/Lab 2 Week 9 - digital forensics.md",
+    "Cyber Security Yr1/Digital Forensics/referencing tool.md",
+    "Cyber Security Yr1/Digital Forensics/Computer Crime - week 7.md",
+    "Cyber Security Yr1/Digital Forensics/Digital Forensics.md",
     "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
     "Resits.md",
     "CyberSecurity - Online Learning/CERTIFICATIONS.md",
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories/4.1 Windows Command Line.md",
     "General/registry-values.webp",
     "General/registry.webp",
-    "Cyber Security Yr1/Digital Forensics/Digital Forensics.md",
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories/1.1 Linux Fundamentals.md",
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories/5.1 Networking.md",
     "General/LaunchingPowerShellfromCMD.gif",
@@ -218,11 +234,7 @@
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories/1.4 Linux Fundamentals - Networking and Security.md",
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories/1.3 Linux Fundamentals - System Management.md",
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories/2.2 Windows Fundamentals - Interacting with Windows.md",
-    "CyberSecurity - Online Learning/HackTheBox/Prequisitories/2.3 Windows Fundamentals - Windows Assessment.md",
-    "CyberSecurity - Online Learning/Security+/Chapter 1 - Social Engineering.md",
     "CyberSecurity - Online Learning/Online Resources",
-    "CyberSecurity - Online Learning/HackTheBox/Prequisitories",
-    "CyberSecurity - Online Learning/Security+/Chapter 1 - Social Engineering Technqiues.md",
-    "New notes/List of Ideas for python.md"
+    "CyberSecurity - Online Learning/HackTheBox/Prequisitories"
   ]
 }
