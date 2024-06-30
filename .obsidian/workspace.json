@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "8592e3fed354ac62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resits.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4ff21716126cb03b",
             "type": "leaf",
             "state": {
@@ -33,7 +45,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5,
-    "collapsed": true
+    "width": 231.5
   },
   "right": {
     "id": "d074fc86a5a26a8a",
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
+                "file": "Resits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
+                "file": "Resits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md"
+                "file": "Resits.md"
               }
             }
           },
@@ -170,13 +182,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a0e8c6e433cbed31",
+  "active": "8592e3fed354ac62",
   "lastOpenFiles": [
+    "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
+    "Resits.md",
     "CyberSecurity - Online Learning/CERTIFICATIONS.md",
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories/4.1 Windows Command Line.md",
     "General/registry-values.webp",
     "General/registry.webp",
-    "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
     "Cyber Security Yr1/Digital Forensics/Digital Forensics.md",
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories/1.1 Linux Fundamentals.md",
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories/5.1 Networking.md",
