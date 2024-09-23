@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.4 Module - Security Operations.md",
+                "file": "Accounting/Lesson 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 231.5,
+    "collapsed": true
   },
   "right": {
     "id": "d074fc86a5a26a8a",
@@ -104,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.4 Module - Security Operations.md",
+                "file": "Accounting/Lesson 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.4 Module - Security Operations.md",
+                "file": "Accounting/Lesson 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.4 Module - Security Operations.md"
+                "file": "Accounting/Lesson 1.md"
               }
             }
           },
@@ -176,6 +177,9 @@
   },
   "active": "89d2ff3ceac2535c",
   "lastOpenFiles": [
+    "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.4 Module - Security Operations.md",
+    "Accounting/Lesson 1.md",
+    "Accounting",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Certified in CyberSecurity.md",
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories/4.1 Windows Command Line.md",
     "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
@@ -212,8 +216,6 @@
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.2 Module - Network Security.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.2 Module - Security Operations.md",
     "4.1 Windows Command Line.md",
-    "CyberSecurity - Online Learning/HackTheBox/Prequisitories/1.2 Linux Fundamentals - Workflow.md",
-    "CyberSecurity - Online Learning/HackTheBox/Prequisitories/1.4 Linux Fundamentals - Networking and Security.md",
     "CyberSecurity - Online Learning/Online Resources",
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories"
   ]
