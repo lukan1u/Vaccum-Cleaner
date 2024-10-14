@@ -21,12 +21,8 @@
             "id": "89d2ff3ceac2535c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Accounting/Lesson 2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -59,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#command",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +72,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Accounting/Lesson 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Accounting/Lesson 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Accounting/Lesson 2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,11 +162,12 @@
   },
   "active": "89d2ff3ceac2535c",
   "lastOpenFiles": [
+    "CyberSecurity - Online Learning/HackTheBox/Prequisitories/4.1 Windows Command Line.md",
+    "CyberSecurity - Online Learning/HackTheBox/Prequisitories/WinCommandsCheatSheet.pdf",
     "Accounting/Lesson 2.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.4 Module - Security Operations.md",
     "Accounting",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Certified in CyberSecurity.md",
-    "CyberSecurity - Online Learning/HackTheBox/Prequisitories/4.1 Windows Command Line.md",
     "CyberSecurity - Online Learning/HackTheBox/Hack The Box.md",
     "Cyber Security Yr1/Digital Forensics/Induction Digital Forensics.md",
     "Cyber Security Yr1/Digital Forensics/Lab 1 Week 8 - digital forensics.md",
@@ -189,7 +183,6 @@
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories/5.1 Networking.md",
     "General/LaunchingPowerShellfromCMD.gif",
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories/3.1 Windows Fundamentals.md",
-    "CyberSecurity - Online Learning/HackTheBox/Prequisitories/WinCommandsCheatSheet.pdf",
     "CyberSecurity - Online Learning/Online Resources/Commonwealth Bank.md",
     "General/8023_Legacy_8021Q_Ethernet_Frames.webp",
     "General/how to create charts.png",
@@ -207,7 +200,6 @@
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/2.1 Module - IRBCDR.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/4.2 Module - Network Security.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.2 Module - Security Operations.md",
-    "4.1 Windows Command Line.md",
     "CyberSecurity - Online Learning/Online Resources",
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories"
   ]
