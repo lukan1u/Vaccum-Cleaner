@@ -7,7 +7,7 @@ Summary:
 #settings #uwe
 Table of contents >>> 
 Previous page >>> 
-Next Page >>>[[lesson 2]]
+Next Page >>>[[Cyber Security Yr1/Intro to databases/lesson 2]]
 
 ## Setup
 ---
