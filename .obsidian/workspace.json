@@ -4,29 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "97c1fdb11d0e8980",
+        "id": "3d77545a6e9ccac1",
         "type": "tabs",
         "children": [
           {
-            "id": "a0e8c6e433cbed31",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "empty",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "89d2ff3ceac2535c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "a5539653b3b62ae2",
+            "id": "69361519855b763f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#command",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,13 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 231.5,
-    "collapsed": true
+    "width": 231.5
   },
   "right": {
     "id": "d074fc86a5a26a8a",
@@ -176,10 +155,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a5539653b3b62ae2",
+  "active": "69361519855b763f",
   "lastOpenFiles": [
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories/4.1 Windows Command Line.md",
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories/WinCommandsCheatSheet.pdf",
+    "CyberSecurity - Online Learning/HackTheBox/Prequisitories/5.1 Networking.md",
+    "CyberSecurity - Online Learning/HackTheBox/Prequisitories/3.1 Windows Fundamentals.md",
+    "CyberSecurity - Online Learning/HackTheBox/Prequisitories/1.1 Linux Fundamentals.md",
     "Accounting/Lesson 2.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.4 Module - Security Operations.md",
     "Accounting",
@@ -195,10 +177,7 @@
     "CyberSecurity - Online Learning/CERTIFICATIONS.md",
     "General/registry-values.webp",
     "General/registry.webp",
-    "CyberSecurity - Online Learning/HackTheBox/Prequisitories/1.1 Linux Fundamentals.md",
-    "CyberSecurity - Online Learning/HackTheBox/Prequisitories/5.1 Networking.md",
     "General/LaunchingPowerShellfromCMD.gif",
-    "CyberSecurity - Online Learning/HackTheBox/Prequisitories/3.1 Windows Fundamentals.md",
     "CyberSecurity - Online Learning/Online Resources/Commonwealth Bank.md",
     "General/8023_Legacy_8021Q_Ethernet_Frames.webp",
     "General/how to create charts.png",
