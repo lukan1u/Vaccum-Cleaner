@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/Prequisitories/4.1 Windows Command Line.md",
+                "file": "Accounting/Accounting notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 231.5,
+    "collapsed": true
   },
   "right": {
     "id": "d074fc86a5a26a8a",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/Prequisitories/4.1 Windows Command Line.md",
+                "file": "Accounting/Accounting notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/Prequisitories/4.1 Windows Command Line.md",
+                "file": "Accounting/Accounting notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecurity - Online Learning/HackTheBox/Prequisitories/4.1 Windows Command Line.md"
+                "file": "Accounting/Accounting notes.md"
               }
             }
           },
@@ -163,7 +164,7 @@
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories/3.1 Windows Fundamentals.md",
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories/2.1 Bash Scripting.md",
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories/1.1 Linux Fundamentals.md",
-    "Accounting/Lesson 2.md",
+    "Accounting/Accounting notes.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.4 Module - Security Operations.md",
     "Accounting",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Certified in CyberSecurity.md",
