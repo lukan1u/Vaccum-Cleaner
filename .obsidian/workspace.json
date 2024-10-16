@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Accounting/Accounting notes.md",
+                "file": "Accounting/Bookkeeping.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5,
-    "collapsed": true
+    "width": 231.5
   },
   "right": {
     "id": "d074fc86a5a26a8a",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Accounting/Accounting notes.md",
+                "file": "Accounting/Bookkeeping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Accounting/Accounting notes.md",
+                "file": "Accounting/Bookkeeping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Accounting/Accounting notes.md"
+                "file": "Accounting/Bookkeeping.md"
               }
             }
           },
@@ -158,13 +157,18 @@
   },
   "active": "69361519855b763f",
   "lastOpenFiles": [
+    "General/Pasted image 20241016182650.png",
+    "General/Pasted image 20241016181734.png",
+    "Accounting/Lesson-1-Introduction-to-the-Accounting-System.pdf",
+    "CyberSecurity - Online Learning/Online Resources/Commonwealth Bank.md",
+    "Accounting/Bookkeeping.md",
+    "General/Pasted image 20241016180221.png",
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories/4.1 Windows Command Line.md",
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories/WinCommandsCheatSheet.pdf",
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories/5.1 Networking.md",
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories/3.1 Windows Fundamentals.md",
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories/2.1 Bash Scripting.md",
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories/1.1 Linux Fundamentals.md",
-    "Accounting/Accounting notes.md",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/5.4 Module - Security Operations.md",
     "Accounting",
     "CyberSecurity - Online Learning/Certified in CyberSecurity (CC)/Certified in CyberSecurity.md",
@@ -180,14 +184,11 @@
     "General/registry-values.webp",
     "General/registry.webp",
     "General/LaunchingPowerShellfromCMD.gif",
-    "CyberSecurity - Online Learning/Online Resources/Commonwealth Bank.md",
     "General/8023_Legacy_8021Q_Ethernet_Frames.webp",
     "General/how to create charts.png",
     "General/InformationTypesChart_Updated.webp",
     "General/Pasted image 20240319113634.png",
     "General/Pasted image 20240527131912.png",
-    "General/Pasted image 20240527132209.png",
-    "General/Pasted image 20240527135010.png",
     "Untitled.md",
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories/WinCommandsCheatSheet.pdf.crdownload",
     "Cyber Security Yr1/Digital Forensics/Computer Crime - Week 10.md",
