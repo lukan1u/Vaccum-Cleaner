@@ -58,3 +58,42 @@ There are three main discounts:
 - Trade discounts - given to agreed customers and applied before VAT
 - Prompt payment discounts - Given to the customers who paid quickly
 ![[Pasted image 20241016182650.png]]
+
+# Lesson 2 - Equation and double bookkeeping
+---
+More info -->
+
+### Categorising accounts
+After all 5 stages of accounting the business will end up with to statements:
+- Statement of profit of loss
+	- Infome/Revenue
+	- Expenses
+- Statement of financial position (aka balance sheet)
+
+- Assests - thhings we have such as buildings cash, vans, receivables
+- Liabilities - this is what we owe such as morgages, loans, payables
+- Equity - (aka capital) owner's investment in the busisness
+- Expenses - day to day running costs such as electrocity, purchases and wages
+- Income - revenue sales, interest in the bank account and sales of assets
+
+even though a van could be an asset when bought the will be another separate account in the expenses for any van maintained. The account will not be open under assets as it's not a running cost.
+
+### Capital vs Revenue Expenditure
+Long term assets that we sell or buy and are listed on statement of financial position as assets:
+- Capital Expenditure - If we buy computer/van that will last several years
+- Capital Income - selling part of the business or selling a van
+Evaluates the organisation
+
+Income and costs of bossiness activities shown on statement of profit or loss:
+- Revenue Expenditure - when we pay electricity (running costs) 
+- Revenue Income -  sales and income from renting out spare office
+This shows investor wheather the busisness did better this year or last year etc
+
+### The dual effect of Transactions and the Accounting Equation
+Accounting equation of:
+			Assets = Liabilities + Capital
+![[Pasted image 20241017125629.png]]
+
+Every transaction has a dual effect, i.e. the amount debited equals the amount credited to the accounts. The business is a separate entity from its owners, i.e. the accounting records must be kept separate from the owners’ personal affairs. This means that any capital invested by the owner is a liability for the business; the owner has effectively lent the money to the business as if the business were a separate person.
+
+### Basics of double bookkeeping entry
