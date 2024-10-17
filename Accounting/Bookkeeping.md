@@ -63,37 +63,28 @@ There are three main discounts:
 ---
 More info -->
 
-### Categorising accounts
-After all 5 stages of accounting the business will end up with to statements:
-- Statement of profit of loss
-	- Infome/Revenue
-	- Expenses
-- Statement of financial position (aka balance sheet)
+#### Statement of Profit or Loss:
+- **Income/Revenue**: Revenue sales, interest in the bank account, and sales of assets.
+- **Expenses**: Day-to-day running costs such as electricity, purchases, and wages.
+- Even though a van could be an asset when bought, there will be a separate account in the expenses for any van maintenance. The account will not be open under assets as it's not a running cost.
+#### Statement of Financial Position (aka Balance Sheet):
+- **Assets**: Things we have such as buildings, cash, vans, receivables.
+- **Liabilities**: What we owe, such as mortgages, loans, payables.
+- **Equity (aka Capital)**: Owner's investment in the business.
+### Capital vs Revenue Expenditure
+**Capital Expenditure**
+- Long-term assets that we buy and are listed on the statement of financial position as assets.
+- Buying a computer/van that will last several years.
+**Capital Income**
+- Selling part of the business or selling a van.
+**Revenue Expenditure**
+- Income and costs of business activities shown on the statement of profit or loss.
+- Paying electricity (running costs).
+**Revenue Income**
+- Sales and income from renting out a spare office.
+- This shows investors whether the business did better this year or last year, etc.
 
-- Assests - thhings we have such as buildings cash, vans, receivables
-- Liabilities - this is what we owe such as morgages, loans, payables
-- Equity - (aka capital) owner's investment in the busisness
-- Expenses - day to day running costs such as electrocity, purchases and wages
-- Income - revenue sales, interest in the bank account and sales of assets
-
-even though a van could be an asset when bought the will be another separate account in the expenses for any van maintained. The account will not be open under assets as it's not a running cost.
-
-### Capital vs Revenue Expenditure
-Long term assets that we sell or buy and are listed on statement of financial position as assets:
-- Capital Expenditure - If we buy computer/van that will last several years
-- Capital Income - selling part of the business or selling a van
-Evaluates the organisation
-
-Income and costs of bossiness activities shown on statement of profit or loss:
-- Revenue Expenditure - when we pay electricity (running costs) 
-- Revenue Income -  sales and income from renting out spare office
-This shows investor wheather the busisness did better this year or last year etc
-
-### The dual effect of Transactions and the Accounting Equation
-Accounting equation of:
-			Assets = Liabilities + Capital
-![[Pasted image 20241017125629.png]]
-
-Every transaction has a dual effect, i.e. the amount debited equals the amount credited to the accounts. The business is a separate entity from its owners, i.e. the accounting records must be kept separate from the owners’ personal affairs. This means that any capital invested by the owner is a liability for the business; the owner has effectively lent the money to the business as if the business were a separate person.
-
+### The Dual Effect of Transactions and the Accounting Equation
+**Accounting equation**: $$\text{Assets} = \text{Liabilities} + \text{Capital}$$![[Pasted image 20241017125629.png]]
+*Every transaction has a dual effect, i.e., the amount debited equals the amount credited to the accounts. The business is a separate entity from its owners, i.e., the accounting records must be kept separate from the owners’ personal affairs. This means that any capital invested by the owner is a liability for the business; the owner has effectively lent the money to the business as if the business were a separate person.*
 ### Basics of double bookkeeping entry
