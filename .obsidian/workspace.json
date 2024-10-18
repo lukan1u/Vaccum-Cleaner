@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Bookkeeping"
             }
-          },
-          {
-            "id": "ebb7b565b9e6719a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5,
-    "collapsed": true
+    "width": 231.5
   },
   "right": {
     "id": "d074fc86a5a26a8a",
@@ -187,14 +173,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ebb7b565b9e6719a",
+  "active": "69361519855b763f",
   "lastOpenFiles": [
+    "Accounting/Lesson-2-The-Accounting-Equation-and-Double-Entry-Bookkeeping.pdf",
+    "Accounting/Bookkeeping.md",
     "General/Pasted image 20241017125629.png",
     "General/Pasted image 20241016182650.png",
     "General/Pasted image 20241016181734.png",
     "Accounting/Lesson-1-Introduction-to-the-Accounting-System.pdf",
     "CyberSecurity - Online Learning/Online Resources/Commonwealth Bank.md",
-    "Accounting/Bookkeeping.md",
     "General/Pasted image 20241016180221.png",
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories/4.1 Windows Command Line.md",
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories/WinCommandsCheatSheet.pdf",
@@ -220,7 +207,6 @@
     "General/8023_Legacy_8021Q_Ethernet_Frames.webp",
     "General/how to create charts.png",
     "General/InformationTypesChart_Updated.webp",
-    "General/Pasted image 20240319113634.png",
     "Untitled.md",
     "CyberSecurity - Online Learning/HackTheBox/Prequisitories/WinCommandsCheatSheet.pdf.crdownload",
     "Cyber Security Yr1/Digital Forensics/Computer Crime - Week 10.md",

@@ -61,12 +61,12 @@ There are three main discounts:
 
 # Lesson 2 - Equation and double bookkeeping
 ---
-More info -->
+More info --> [[Lesson-2-The-Accounting-Equation-and-Double-Entry-Bookkeeping.pdf]]
 
 #### Statement of Profit or Loss:
 - **Income/Revenue**: Revenue sales, interest in the bank account, and sales of assets.
 - **Expenses**: Day-to-day running costs such as electricity, purchases, and wages.
-- Even though a van could be an asset when bought, there will be a separate account in the expenses for any van maintenance. The account will not be open under assets as it's not a running cost.
+- Even though a van could be an asset when bought, there will be a separate account in the expenses for any van maintenance. The account will not be open under assets as it's not a running cost
 #### Statement of Financial Position (aka Balance Sheet):
 - **Assets**: Things we have such as buildings, cash, vans, receivables.
 - **Liabilities**: What we owe, such as mortgages, loans, payables.
